@@ -1,0 +1,150 @@
+# Masters Plan B (non-thesis)
+Plan B requires a minimum of 30 credit hours of course work plus a final project.
+
+You may choose between three "streams": [Linguistic Analysis], [Experimental Linguistics], and [Language Documentation and Conservation]. The requirements for each stream follow.### Course Requirements
+All students in Plan B (non-thesis) must complete 30 credit hours of course work for a letter grade (not CR/NCR or Audit), of which 18 hours must be at the 600-level or above, including a 3-credit 700-level seminar.
+
+LING 630: Field Methods is an important class for your training, and you are strongly encouraged to take both semesters of Ling 630. The first semester is considered a core requirement, and the second is considered a regular LDC course. However, the two courses are designed as a sequence, and you will gain the most from taking both courses in sequence.
+
+LING 750G Professional Development (ICLDC Prep Course) may be taken multiple times, but will only be counted once towards the degree. Furthermore, if used towards the MA degree, LING 750G (even if taken in a subsequent year) may not be used later towards satisfaction of any PhD degree requirement.
+
+## Linguistic Analysis Stream 
+10 courses which include:
+
+- five courses from the Analysis Core (15 credits)
+- four courses (12 credits) approved by your advisor, but not including 699
+- one 700-level seminar (3 credits)
+
+Analysis Core (all 5 required)
+
+- LING 410: Articulatory Phonetics
+- LING 420: Morphology
+- LING 421: Introduction to Phonological Analysis
+- LING 422: Introduction to Grammatical Analysis
+- LING 645: The Comparative Method
+
+## Experimental Linguistics Stream
+10 courses which include:
+
+- four courses from the Experimental Core (12 credits)
+- two Experimental courses (6 credits)
+- one Data Analysis course (3 credits)
+- two more courses approved by your advisor, but not 699 (6 credits)
+- one 700-level seminar (3 credits)
+
+Experimental Core (choose 4)
+
+- LING 410: Articulatory Phonetics
+- LING 420: Morphology
+- LING 421: Introduction to Phonological Analysis
+- LING 422: Introduction to Grammatical Analysis
+- LING 441: Meaning
+- LING 645: The Comparative Method
+
+Experimental Courses (choose 2)
+
+- LING 431: Computational Modeling
+- LING 640S: Sociolinguistics
+- LING 640Y: Psycholinguistics
+- LING 670: Developmental Linguistics
+
+Data Analysis Courses (choose 1)
+
+- LING 640G: Statistics in Linguistics
+- EDEP 429: Introductory Statistics
+- EDEP 601: Intro to Quantitative Methods
+- EDEP 605: Factor Analysis
+- EDEP 612: Statistical Power in Behavioral Research
+- SLS 490: Second Language Testing
+- SLS 671: Research in Language Testing
+- PSY 610: Introduction to Quantitative Methods
+- PSY 611: Design and Analysis of Psychological Experiments
+
+## Language Documentation and Conservation Stream
+10 courses which include:
+
+- seven courses from the LDC Core (21 credits)
+- two other LDC courses (6 credits)
+- one more LDC course or course approved by your advisor (excluding LING 699) (3 credits)
+
+LDC Core (all 7 required)
+
+- LING 410: Articulatory Phonetics
+- LING 420: Morphology
+- LING 421: Introduction to Phonological Analysis
+- LING 422: Introduction to Grammatical Analysis
+- LING 630: Field Methods (Fall semester)
+- LING 680: Introduction to Language Documentation
+- LING 710: Techniques of Language Documentation
+
+LDC Courses (choose at least 2)
+
+- LING 611: Acoustic & Auditory Phonetics
+- LING 617: Language Acquisition and Revitalization
+- LING 630: Field Methods (consecutive Spring semester is strongly recommended)
+- LING 631: Language Data Processing
+- LING 632: Laboratory and Quantitative Research Methods
+- LING 640G: Polynesian Language Family
+- LING 640G: Language, Landscape and Space
+- LING 640S: Sociolinguistics
+- LING 640Y: Psycholinguistics
+- LING 645: Comparative Method
+- LING 661: Proto-Austronesian
+- LING 720: Typology
+- LING 750F: Phonetic Fieldwork on Endangered Languages
+- LING 750G: Lexicography
+- LING 750G: Methods of Language Conservation
+- LING 750G: Writing Grammars
+- LING 770: Areal Linguistics
+- IS 750: Topics in Biocultural Diversity and Conservation
+
+## Course sequencing
+The expected class load is 3-4 courses per semester, depending on funding and other commitments.
+Due to the large number of required courses, it is important that LDC Stream students pay close attention to course sequencing in order to ensure timely graduation. 
+
+### Recommended Course Sequencing for LDC Students Admitted in Fall Semester
+
+**Year One**
+
+- Fall semester: LING 410, LING 422, LING 680
+- Spring semester: LING 420, LING 421, LING 710
+
+**Year Two**<br/>
+Four additional courses, at least two of which must be selected from the LDC Courses, may be completed in consultation with your advisor. LING 630 (Field Methods) is taught in both the Fall and Spring semesters. You are required to take the first semester (Fall) of Ling 630; the second (Spring) semester is highly recommended. Ideally, you should take LING 750G (Methods of Language Conservation) concurrently with the second semester of LING 630, if it is offered.
+
+### Recommended Course Sequencing for LDC Students Admitted in Spring Semester
+
+**Year One**
+
+- Spring semester: LING 410, LING 420 or 421, LING 710
+- Fall semester: LING 422, LING 680, LING 680
+
+::: {.infobox .caution} 
+Spring semester admits should try to take as many preparatory classes as possible prior to their first semester of LING 630. Both 420 and 421 are recommended in the first semester, although students should speak to their advisor and the relevant LDC faculty about this.
+:::
+
+
+**Year Two**<br/>
+Four additional courses, at least two of which must be selected from the LDC Courses, may be completed in consultation with your advisor. LING 630 (Field Methods) is taught in both the Fall and Spring semesters. You are required to take the first semester (Fall) of Ling 630; the second (Spring) semester is highly recommended. Ideally, you should take LING 750G (Methods of Language Conservation) concurrently with the second semester of LING 630, if it is offered.
+
+## Final Project
+
+Plan B students must present a seminar on a linguistic topic to fulfill your final project requirement. The presentation should include a report on research you have conducted using methodology appropriate to the discipline. The topic, format, and venue of the seminar must be approved in advance by the Graduate Chair.
+
+Venues: Presentations can be made in any one of several forums including but not limited to:
+
+- Departmental: Tuesday Seminar series, Austronesian Circle, Acquisition Group, Language Documentation Group, Psycholinguistics Interest Group (P.I.G.), Sociolinguistics Group;
+- University: LLL student conference, ESL/Linguistic student conference;
+- National or International conferences (e.g. LSA): Conference announcements are posted on the wall between the department office and Moore 573 (see Conferences).
+
+About two weeks before you plan to make your presentation, you need to pick up the necessary form from the departmental secretary. Fill out the form and return it to the secretary, who will pass it on to the Graduate Chair for approval. The departmental secretary will contact you once your form has been signed. You must then pick up the form from the department office and get the signature of a faculty member who attended your presentation to acknowledge that it was satisfactory.
+
+Many students base their seminar presentation on a research paper written in one of their courses, particularly their 700-level seminar; the research paper prepared for this course can make the basis of a fine oral presentation.
+
+
+
+The deadline to submit your approved seminar requirement form to the department office is three weeks prior to the last day of instruction.
+
+It is wise to plan well ahead if you want to schedule a Departmental Tuesday Seminar time for your presentation. (Spaces can fill quickly, especially near the end of a semester.)
+
+

@@ -1,0 +1,38 @@
+--- 
+title: "Graduate Handbook"
+author: "Department of Linguistics, University of Hawai‘i at Mānoa"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::git_book
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: gmholton/gradhandbook
+description: "The purpose of this document is to provide graduate students in linguistics with useful information about the program in which they are enrolled, important rules and regulations that must be followed and some suggestions and advice that facilitate progress towards graduation."
+---
+
+# Welcome {.unnumbered }
+<img src="images/header.png"/>
+<img src="images/uhmlogo.png" class='cover'  width="100" />
+
+The purpose of this document is to provide graduate students in linguistics at the University Hawai‘i with useful information about the program in which they are enrolled, important rules and regulations that must be followed and some suggestions and advice that facilitate progress towards graduation. This document is updated frequently, so please check back for updates.
+
+This handbook covers both the [MA Program](#maprogram) and the [PhD Program](#phdprogram), which were previously described in separate manuals. Issues common to both graduate programs can be found in the chapters in the first part of the manual, [Policies](#policies).
+
+For questions see your advisor or contact:
+
+- John Kawahara, Assistant to the Graduate Chair (808-956-8602, kawahara at hawaii dot edu)
+- Gary Holton, Graduate Chair (holton at hawaii dot edu)
+
+Additional information about university degree requirements can be found at the [Graduate Division website](https://manoa.hawaii.edu/graduate/current-students/).
+
+
+<!-- To compile this example to PDF, you need XeLaTeX. You are recommended to install TinyTeX (which includes XeLaTeX): <https://yihui.name/tinytex/>. -->
+
+```{r include=FALSE, eval=FALSE}
+# automatically create a bib database for R packages
+knitr::write_bib(c(
+  .packages(), 'bookdown', 'knitr', 'rmarkdown'
+), 'packages.bib')
+```

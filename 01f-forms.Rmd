@@ -1,0 +1,12 @@
+# Forms {#forms}
+
+**Departmental Forms**
+
+- [Masters Plan A (thesis) Advising Record](docs/MA_PlanA_advising.pdf)
+- [Masters Plan B (non-thesis) Advising Record](docs/MA_PlanB_advising.pdf)
+- [Masters Progress List](docs/MA_progress_list.pdf)
+- [PhD Progress List](docs/PhD_progress_list.pdf)
+
+**UHM Graduate Division Forms**
+
+All Graduate Division forms are now handled electronically via [Kuali Build](https://manoa.hawaii.edu/graduate/kuali-build-forms/)

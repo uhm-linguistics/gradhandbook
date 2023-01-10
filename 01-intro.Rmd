@@ -1,0 +1,146 @@
+# (PART\*) Policies {-} 
+# Advising {#policies}
+
+## Your PhD Advisor
+
+### Interim Advisor
+Each student is assigned an interim advisor upon entry to the program. The main role of the interim advisor is to discuss your goals and guide you into our program by recommending courses relevant to your area(s) of interest so that you earn your degree in a timely manner. If you have a problem, you should seek the advice of your advisor.
+
+### How to Change Advisor
+It is often the case that the interim advisor is not the most appropriate person to supervise the student's dissertation. This may happen because the student's area of interest was undecided at the time they entered the program, or because the student's research focus changed during their studies. Or a student may have formed a productive working relationship with another faculty member. Whatever the reason, it is important that your advisor be someone with whom you can work effectively during what will be the most intensive research effort of your career so far. So don't hesitate to make a change if warranted; your current advisor will not take offence; the faculty want you to have the most appropriate advisor. 
+
+To change advisor, you first consult with your prospective new advisor. If he/she agrees, you then obtain the approval of the graduate chair and notify the department administrator of the change. You should notify your current advisor as well; and you may want to retain them as a committee member, if they agree.  A memo will be given to you, to your previous advisor and to your new advisor to indicate that the change was approved. From that point on, you meet with your new advisor.
+
+## Registration Approval Form
+You must meet with your advisor before registering for each semester's classes. This enables your advisor to monitor your progress and to make sure you are staying on track. The department places an academic hold on your student account prior to registration to ensure that you will meet with your advisor. You will be given a registration approval form (also called a hold form) to be completed at your advising meeting and returned to the department office. Upon receipt of this form, the department secretary will release the academic hold on your account.
+
+All holds must be cleared before you can register for classes. To check if you have any holds on your account:
+
+- Go to [MyUH home page](https://myuh.hawaii.edu/).
+- Select View Holds on My Record.
+- The phone number of the office that placed the hold should be listed under the Originator box.
+- Contact the office indicated for information about how to clear and remove the hold.
+
+## Submissions of conference abstracts and manuscript 
+Students are strongly encouraged to present at professional conference and submit manuscripts for publication. In order to ensure the highest quality of scholarships, students are expected and encouraged to consult with relevant faculty members prior to submitting an abstract for a conference or submitting a manuscript for publication. Your regular advisor, the advisor for the project, other experts in the subject matter, and faculty who regularly attend the conference or publish in the journal are all good choices for consultation.
+
+It is a natural expectation that faculty members will engage in such activities with students, and students should not feel as if they are imposing on the faculty or that they are somehow less impressive because they receive help from a faculty member. It should be noted that even the most experienced faculty members seek advice and counsel on such matters, and so students are expected to do so as well. Moreover, it is in the interest of everyone in the department that presentations and articles that are associated with the Department of Linguistics at UHM are of the highest caliber; our reputation depends on it.
+
+It is recommended that students discuss the abstract/manuscript with the relevant faculty member(s) early on in the process and work out a reasonable timetable to receive feedback. Many faculty members already have an established policy on what abstracts, manuscripts or slides must be submitted in order to receive feedback. This will require coordination with other authors since all authors must approve of an abstract or manuscript before it is submitted to any venue.
+
+## Language Requirement
+
+All graduate students must demonstrate competence in one language other than their native language before you become ABD (before your dissertation proposal defense).
+You can demonstrate your language knowledge in one of three ways:
+
+1. Pass a reading/translation test.
+2. Pass a fourth semester language course (e.g., Japanese 202) with a grade of at least B. Courses taken at another university, if you provide transcripts, can fulfill this requirement.
+3. Take a placement test to demonstrate comparable knowledge.
+
+**Please note the following:**
+
+- You may use English to satisfy the language requirement if it is not your native tongue; certification by the English Language Institute that you are exempt from ELI courses suffices to establish knowledge of English for this purpose. See the department secretary if you qualify to use English to meet your language requirement.
+- Samples of the reading/translation tests administered by the Department of Linguistics are available to check-out from the department office.
+- For French, German, Russian and Spanish, students may opt for the Graduate School Foreign Language Tests (GSFLT), provided they pay the exam fee.
+- Placement tests in languages taught at the University of Hawai‘i are usually scheduled just prior to the beginning of the semester. Consult the relevant language department for information.
+
+
+## Adequate Writing Skills {#writing}
+Adequate writing skills are crucial to the completion of the PhD degree. Students must  be able to present their ideas in writing in a manner that meets the standards of professional journals in the field of study. 
+
+Criteria for successful academic  writing include the following:
+
+- The student is able to organize her/his thoughts in a logical and coherent way.
+- The main goal is clearly stated at the beginning and returned to at the end.
+- Claims are clearly stated and explained.
+- There are clear subsections (e.g. introduction. background, data, results, discussion and conclusions).
+- Technical terms are defined appropriately for the intended audience
+- Every generalization is supported by evidence.
+- Adequate and relevant examples are given.
+- Adequate references are given.
+- Concluding statements follow clearly from what has been presented.
+- The document has been spell-checked.
+- The documebnt is written in grammatical English.
+
+
+Students’ writing skills are discussed by the faculty in the annual student review. While there is no formal writing requirement, students whose writing skills are deemed inadequate may be required  to enroll in a writing course from the following list. 
+
+```{r, echo=F}
+writing <- read.csv('writing.csv')
+knitr::kable(writing, booktabs=T, caption="Writing Courses")
+```
+
+
+
+## Enrollment Status 
+
+### Full-time Status
+Determination of full-time status is dependent on the student's status in the program and their  current [funding] source: 
+
+- Students receiving an **Achievement Scholarship** in the form of a tuition waiver must be enrolled  for a minimum of eight (8) credits in the Department of Linguistics.
+
+- Students receiving a **Graduate Assistantship** must be enrolled in a minimum of six (6) credits in the Department of Linguistics.
+
+- All-but-dissertation (ABD) students need to register for only one (1) credit of LING 800 per semester to be considered full-time.
+
+
+- A student receiving  loans through the Financial Aid Office (regardless of whether they hold a Graduate Assistantship) must be enrolled in at least eight (8) credits in the Department of Linguistics to receive the full financial aid award; registering for six credits will result in a pro-rated award.
+
+
+In addition, not all courses count toward full-time status:
+
+- The Department does not count LING 699 (directed reading) courses in determining  full-time status until all  other course requirements for your degree have been completed.
+- Audited courses are not counted in calculating the courses needed to establish full-time status.
+
+Additional Considerations
+
+- Students should check with their medical insurance carriers to confirm that they do not need to be enrolled as a full-time student to receive insurance coverage.
+- International students on F-1 and J-1 visas must be enrolled full-time each semester. The International Student Services Office follows Graduate Division’s [guidelines for full-time status](https://manoa.hawaii.edu/graduate/course-loads-full-time-definition/). Check with Graduate Division for full-time status requirements.
+
+
+### Residency Program Requirement
+Doctoral students must be registered as full-time (8 credits) students on the Mānoa campus for a minimum of three semesters. 
+
+## Time to Degree {#time}
+The normative time to degree for the MA Degree is two (2) years of full-time study. 
+The normative time to degree for the PhD Degree is five (5) years of full-time study. 
+Approved [leaves of absence](leave) do not count toward this total. 
+Students that extend beyond that period (excluding leaves of absence) will be considered as not making satisfactory progress, and may be subject to [departmental warning of probation](probation).
+
+Graduate Division [policy](https://manoa.hawaii.edu/graduate/disciplinary-actions/) sets a maximum limit for degree completion (MA or PhD) of seven (7) years, not counting approved leave. 
+
+## Probation {#probation}
+
+Students are expected to make timely progress toward the degree. This includes maintaining your GPA and adhering to [normative times](time) for degree completion.  Failure to meet these expectation can lead to dismissal from the program. 
+
+### Departmental Warning of Probation
+At the discretion of the linguistics faculty, a student can be placed on *departmental warning of academic probation*  if the student is deemed to be making insufficient progress or if the student’s semester GPA is less than 3.5 in linguistics courses or other courses required for the degree.
+
+Departmental warning of academic probation is imposed for one semester. The student will be told what the conditions are for removal of this status. At the end of the ‘warning’ semester, the faculty may take one of three actions:
+
+1. remove the academic warning if all conditions have been met,
+1. continue the academic warning, in which case the department will again specify the conditions for its removal. In this case, the department may withhold departmental funding, since this constitutes less than acceptable progress – a condition for departmental funding.
+or
+1. Recommend formal academic probation by Graduate Division.
+
+
+### Academic Probation
+The Graduate Division will place a student on academic probation at the beginning of their 7th year. See the official [probation policy](http://manoa.hawaii.edu/graduate/content/disciplinary-actions). A student on probation who fails to meet the minimum required academic standards at the end of the probationary semester will be dismissed. c
+
+Note that according to Graduate Division, “A student may be placed on academic probation only once. A student who has already been on probation will be dismissed, if he or she again fails to meet the minimum required academic standards in any subsequent semester.”
+
+In addition, students on probation are not eligible for departmental funding. 
+
+
+
+
+## Leave of Absence
+Unless a Leave of Absence has been approved in advance, a student who fails to maintain continuous enrollment (excluding summer session) is considered to have withdrawn from the university. If you wish to take a leave of absence, you must [petition to do so through Graduate Division](https://manoa.hawaii.edu/graduate/leave-of-absence/). Students must be in good academic standing in order to apply for a leave of absence. 
+
+You are allowed up to one year of leave. You may take one additional year of leave for maternity or to care for an ill family member. Time on approved leave is not counted against time allowed for the completion of graduate programs. Students on approved leave do not pay tuition or fees. 
+
+Students who must maintain full-time enrollment due to their status as international students, guaranteed loan recipients, East-West Center grantees, or veterans need to obtain approval from the appropriate office(s) before requesting approval from the department’s Graduate Chair. Once all signatures have been collected, the department office will deliver the Petition for Leave of Absence form to the Graduate Records Office for final approval.
+
+A leave of absence is not intended to be used solely for the purpose of extending the time to degree. Students on leave do not have access to regular departmental services. In particular, students on leave cannot schedule Qualifying Paper consultations, prospectus defenses, or dissertation defenses. 
+
+
