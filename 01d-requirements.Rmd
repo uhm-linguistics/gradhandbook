@@ -1,0 +1,45 @@
+#Additional Requirements
+
+## Language Requirement
+
+All graduate students must demonstrate competence in one language other than their native language. PhD students must complete this requirement  before advancing to candidacy (i.e., before the dissertation proposal defense).
+
+You can demonstrate your language competence in one of three ways:
+
+1. Pass a reading/translation test.
+2. Pass a fourth semester language course (e.g., Japanese 202) with a grade of at least B. Courses taken at another university, if you provide transcripts, can fulfill this requirement.
+3. Take a placement test to demonstrate comparable knowledge.
+
+**Please note the following:**
+
+- You may use English to satisfy the language requirement if it is not your native tongue; certification by the English Language Institute that you are exempt from ELI courses suffices to establish knowledge of English for this purpose. See the department secretary if you qualify to use English to meet your language requirement.
+- Samples of the reading/translation tests administered by the Department of Linguistics are available to check-out from the department office.
+- For French, German, Russian and Spanish, students may opt for the Graduate School Foreign Language Tests (GSFLT), provided they pay the exam fee.
+- Placement tests in languages taught at the University of Hawai‘i are usually scheduled just prior to the beginning of the semester. Consult the relevant language department for information.
+
+
+## Adequate Writing Skills {#writing}
+Adequate writing skills are crucial to the completion of the PhD degree. Students must  be able to present their ideas in writing in a manner that meets the standards of professional journals in the field of study. 
+
+Criteria for successful academic  writing include the following:
+
+- The student is able to organize her/his thoughts in a logical and coherent way.
+- The main goal is clearly stated at the beginning and returned to at the end.
+- Claims are clearly stated and explained.
+- There are clear subsections (e.g. introduction. background, data, results, discussion and conclusions).
+- Technical terms are defined appropriately for the intended audience
+- Every generalization is supported by evidence.
+- Adequate and relevant examples are given.
+- Adequate references are given.
+- Concluding statements follow clearly from what has been presented.
+- The document has been spell-checked.
+- The documebnt is written in grammatical English.
+
+
+Students’ writing skills are discussed by the faculty in the annual student review. While there is no formal writing requirement, students whose writing skills are deemed inadequate may be required  to enroll in a writing course from the following list. 
+
+```{r, echo=F}
+writing <- read.csv('writing.csv')
+knitr::kable(writing, booktabs=T, caption="Writing Courses")
+```
+
