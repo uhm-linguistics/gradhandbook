@@ -1,6 +1,6 @@
 # (PART\*) PhD Program {-} 
 
-# Coursework {#phdprogram}
+# PhD Coursework {#phdprogram}
 Coursework is the first stage of the PhD Program. Coursework leads directly to the [Qualfiying Papers](#qp) requirement, which must be completed before the [Prospectus](#prospectus) and [Dissertation]. 
 
 ```{r, echo=FALSE}
