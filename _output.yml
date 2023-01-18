@@ -3,7 +3,7 @@ bookdown::gitbook:
   config:
     toc:
       before: |
-        <li><a href="./">PhD Manual</a></li>
+        <li><a href="./">Graduate Handbook</a></li>
       after: |
         <li><a href="ling.hawaii.edu" target="blank">UHM Linguistics</a></li>
     edit: https://github.com/rstudio/bookdown-demo/edit/master/%s
