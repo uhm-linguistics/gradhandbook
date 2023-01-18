@@ -16,7 +16,7 @@ leave-of-absence
 funding
 departmental-funding
 bilinski
-department-conference-travel-awards
+conference-travel-awards
 gso-grants-and-awards
 east-west-center
 extramural-funding
