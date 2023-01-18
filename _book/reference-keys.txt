@@ -1,5 +1,5 @@
 tab:unnamed-chunk-2
-policies
+general
 interim-advisor
 how-to-change-advisor
 registration-approval-form

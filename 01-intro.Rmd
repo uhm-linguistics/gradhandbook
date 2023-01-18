@@ -1,5 +1,5 @@
-# (PART\*) Policies {-} 
-# Advising {#policies}
+# (PART\*) Program Information {-} 
+# Advising {#general}
 
 Your advisor is a [Linguistics faculty member](http://ling.hawaii.edu/people/core-faculty/) who serves as your first point of contact in the department and your mentor throughout the degree process. Your advisor must  approve all coursework and will supervise your thesis or dissertation.^[Masters plan B (non-thesis) projects are sometimes supervised by a faculty other than the student's advisor. ]
 
