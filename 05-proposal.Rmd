@@ -6,11 +6,11 @@ The dissertation proposal is a requirement of Graduate Division, while the disse
 ## Dissertation Proposal
 The dissertation proposal should include:
 
-1. a clear statement of the topic of the dissertation,
-2. a clear statement of the research questions to be investigated in the dissertation and why they are worth addressing (including a brief synopsis of the relevant literature),
-3. a clear statement of the methodology to be employed for the investigation of those research questions,
-4. A data archiving plan (see ‘Archiving Fieldwork Data in Dissertations’)
-5. evidence that permission has been received from the Institutional Review Board (IRB) to carry out research involving human subjects (if called for), and
+1. a clear statement of the topic of the dissertation
+2. a clear statement of the research questions to be investigated in the dissertation and why they are worth addressing (including a brief synopsis of the relevant literature)
+3. a clear statement of the methodology to be employed for the investigation of those research questions
+4. A data archiving plan (see [Archiving Fieldwork Data])
+5. evidence of approval from the [Institutional Review Board](#IRB) (IRB) to carry out research involving human subjects (if called for)
 6. a tentative timetable for completion of the dissertation.
 
 In general, it is expected that a proposal will be from 5 to 10 pages in length (double spaced); once defended and approved by your dissertation committee, your proposal must be submitted to the department and will be available to other students in perpetuity.

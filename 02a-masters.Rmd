@@ -1,62 +1,64 @@
-# (PART\*) MA Program {-} 
+# (PART\*) MA Program {.unnumbered}
 
 # Masters Plan A (thesis) {#maprogram}
-Two plans of study lead to the MA degree, a thesis option (Plan A) and a non-thesis option (Plan B). The vast majority of students enrolled in the MA program opt for Plan B, especially if they intend to continue into a PhD program.
-Plan A requires a thesis, 30 credit hours, and a final oral examination covering the thesis and related areas.
+
+Two plans of study lead to the MA degree, a thesis option (Plan A) and a non-thesis option (Plan B). The vast majority of students enrolled in the MA program opt for Plan B, especially if they intend to continue into a PhD program. Plan A requires a thesis, 30 credit hours, and a final oral examination covering the thesis and related areas.
 
 ## Course Requirements
+
 All students in Plan A (Thesis) must complete a minimum of 30 credit hours of which 21 hours consist of course work for a grade (not CR/NCR or Audit) and 9 credit hours of thesis research (LING 700), allocated as follows:
 
-- four courses from the Core List (12 credits)
-- four graduate-level courses (12 credits), including at least one 700-level seminar
-- nine credit hours of LING 700 (9 credits)
+-   four courses from the Core List (up to 12 credits, depending on exemptions)
+-   four additional graduate-level courses, including at least one 700-level seminar (12 credits)
+-   nine credit hours of LING 700: Thesis Research (9 credits)
 
 Plan A Core Courses (choose 4)
 
-- LING 410: Articulatory Phonetics
-- LING 420: Morphology
-- LING 421: Introduction to Phonological Analysis
-- LING 422: Introduction to Grammatical Analysis
-- LING 645: The Comparative Method
+-   LING 410: Articulatory Phonetics
+-   LING 420: Morphology
+-   LING 421: Introduction to Phonological Analysis
+-   LING 422: Introduction to Grammatical Analysis
+-   LING 645: The Comparative Method
 
 Important Notes:
 
-- Students who are not exempted from any of the Core courses will need to earn more than 30 credit hours to complete these requirements (24 credit hours of course work and nine hours of LING 700).
-- LING 750G Professional Development (ICLDC Prep Course) may be taken multiple times, but will only be counted once towards the degree. Furthermore, if used towards the MA degree, LING 750G (even if taken in a subsequent year) may not be used later towards satisfaction of any PhD degree requirement.
+-   Students who are not exempted from any of the Core courses will need to earn more than 30 credit hours to complete these requirements (24 credit hours of course work and nine hours of LING 700: Thesis Research).
+-   LING 750G Professional Development (ICLDC Prep Course) may be taken multiple times, but will only be counted once towards the degree. Furthermore, if used towards the MA degree, LING 750G (even if taken in a subsequent year) may not be used later towards satisfaction of any PhD degree requirement.
 
 ## Thesis Requirement
+
 Your thesis will be supervised by your MA thesis committee, consisting of three [Graduate Faculty members](http://manoa.hawaii.edu/graduate/content/select-committee-member), two of whom must be from the Department of Linguistics section of the university catalog.
 
 You must develop a written proposal outlining your intended research project. You then meet with your committee to defend your proposal and to discuss any issues that it raises.
 
 ### Additional Information
-- You should consult with the Graduate Chair before forming your committee. The Graduate Chair will ask you about your preferences and advise you on the availability of various faculty members to serve on your committee.
 
-- After your committee has been approved by the Graduate Chair, the departmental secretary will give you a form to be signed by each faculty member who agrees to serve on your committee. Most students get this form signed at their preliminary committee meeting.
-- Individual faculty members vary considerably in terms of what they expect in a thesis proposal. (Some look for only a skeletal outline of the research project, while others require a considerably more detailed prospectus.) Be sure to consult your committee chair about his/her expectations.
-- Once your thesis proposal has been approved by your committee, you must submit an approved copy (with your committee chair’s signature on the first page acknowledging that all revisions have been made) to the department office no later than the end of the semester following your proposal defense. This copy will be available to all faculty and MA students in the Linguistics Department.
-- The department office will also need a copy of your IRB human subjects’ approval/exemption. Submit this to the department office shortly after your proposal defense so it can be submitted with a form to Graduate Division for processing.
-- Once you have completed nine credits of LING 700 you can petition Graduate Division to register for one credit of GRAD 700F (this is considered full-time status by Graduate Division).
+-   You should consult with the Graduate Chair before forming your committee. The Graduate Chair will ask you about your preferences and advise you on the availability of various faculty members to serve on your committee.
 
-When writing your Thesis, be sure to follow Graduate Division's [Style & Policy Manual for Theses and Dissertations](https://manoa.hawaii.edu/graduate/style-policy/). 
+-   After your committee has been approved by the Graduate Chair, the departmental secretary will give you a form to be signed by each faculty member who agrees to serve on your committee. Most students get this form signed at their preliminary committee meeting.
 
+-   Individual faculty members vary considerably in terms of what they expect in a thesis proposal. (Some look for only a skeletal outline of the research project, while others require a considerably more detailed prospectus.) Be sure to consult your committee chair about his/her expectations.
+
+-   Once your thesis proposal has been approved by your committee, you must submit an approved copy (with your committee chair's signature on the first page acknowledging that all revisions have been made) to the department office no later than the end of the semester following your proposal defense. This copy will be available to all faculty and MA students in the Linguistics Department.
+
+-   The department office will also need a copy of your IRB human subjects' approval/exemption. Submit this to the department office shortly after your proposal defense so it can be submitted with a form to Graduate Division for processing.
+
+-   Once you have completed nine credits of LING 700 you can petition Graduate Division to register for one credit of GRAD 700F (this is considered full-time status by Graduate Division).
+
+When writing your Thesis, be sure to follow Graduate Division's [Style & Policy Manual for Theses and Dissertations](https://manoa.hawaii.edu/graduate/style-policy/).
 
 Be sure to consult the University Catalog and the departmental bulletin boards for deadlines involving graduation dates. You must submit a degree application by the specified deadline and pay the required fee.
 
 If you are not a particularly accomplished writer or if English is not your native language, it would be wise to seek help in editing and proofreading your thesis draft before submitting it to your committee. (Note: Passing the ELI exam does not necessarily indicate sufficient proficiency to produce a stylistically acceptable thesis.)
 
-Your committee chair will let you know when your thesis draft is nearly ready to distribute to your committee. 
-At this point you and your chair should agree upon a timeline, keeping in mind the following three deadlines.
+Your committee chair will let you know when your thesis draft is nearly ready to distribute to your committee. At this point you and your chair should agree upon a timeline, keeping in mind the following three deadlines.
 
-- Your committee should receive your thesis at least four weeks prior to your proposed defense date. (Some flexibility in this deadline may be permitted if there is a consensus among the committee members.)
-- Your defense must be held at least two weeks prior to Graduate Division’s deadline for submission of the final version. Check with the department office for that deadline.
-- At least 15 calendar days prior to your defense date, you must submit the department’s form “Final Oral Examination for Master’s Thesis Defense”, signed by your chair. Should your committee determine that the thesis is not defendable, the defense may be cancelled.
+-   Your committee should receive your thesis at least four weeks prior to your proposed defense date. (Some flexibility in this deadline may be permitted if there is a consensus among the committee members.)
+-   Your defense must be held at least two weeks prior to Graduate Division's deadline for submission of the final version. Check with the department office for that deadline.
+-   At least 15 calendar days prior to your defense date, you must submit the department's form "Final Oral Examination for Master's Thesis Defense", signed by your chair. Should your committee determine that the thesis is not defendable, the defense may be cancelled.
 
 A PDF version of your thesis must be submitted to the department office at least two weeks before the defense. The title page should contain a clear indication that this is a *pre-defense draft*.
 
 You must be registered for one credit of LING 700 or GRAD 700F in the semester in which you graduate.
 
-Once all revisions have been made and your committee chair gives final approval to your thesis, ask your chair to notify the department office. Submit [Master’s Plan A Form 4 – Thesis Submission](https://manoa.hawaii.edu/graduate/forms/) to the Graduate Division. Submit your thesis electronically using [Proquest ETD](https://manoa.hawaii.edu/graduate/proquest-etd-submission-publication/).
-Check with the department office for the deadline for submitting your thesis. The deadline is usually several weeks prior to the end of the semester. A PDF version of the final approved version of your thesis must be also submitted to the department office. Check with the department office for the deadline for submitting your PDF to the department office.
-
-
+Once all revisions have been made and your committee chair gives final approval to your thesis, ask your chair to notify the department office. Submit [Master's Plan A Form 4 -- Thesis Submission](https://manoa.hawaii.edu/graduate/forms/) to the Graduate Division. Submit your thesis electronically using [Proquest ETD](https://manoa.hawaii.edu/graduate/proquest-etd-submission-publication/). Check with the department office for the deadline for submitting your thesis. The deadline is usually several weeks prior to the end of the semester. A PDF version of the final approved version of your thesis must be also submitted to the department office. Check with the department office for the deadline for submitting your PDF to the department office.

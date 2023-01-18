@@ -1,19 +1,19 @@
 # PhD Qualifying Papers {#qp}
 
-The PhD Comprehensive Exam requirement in the Department of Linguistics is fulfilled by the successful completion of two  clearly and professionally written, single-authored papers, known as **Qualifying Papers** (QPs) in accordance with the procedures below. Successful QPs are those which are determined by the committee to be of high enough quality to be submitted to a professional publication. While it is not required that a QP be published prior to being approved, students must indicate a publication venue where they intend to submit the final, revised paper.  
+The PhD Comprehensive Exam requirement in the Department of Linguistics is fulfilled by the successful completion of two clearly and professionally written, single-authored papers, known as `Qualifying Papers` (QPs) in accordance with the procedures below. Successful QPs are those which are determined by the committee to be of high enough quality to be submitted to a professional publication. While it is not required that a QP be published prior to being approved, students must indicate a publication venue where they intend to submit the final, revised paper. In some cases the [UHM Working Papers in Linguistics](#wp) may be an appropriate venue, particularly if you intend to publish a revised version of the QP with a co-author in another venue (see [below](#wp)).
 
-A QP is not a thesis or a monograph. It is meant to be a relatively short (20-30 page) and focused journal article. Many QPs evolve out of class papers or projects, and students are urged to start writing QPs while still completing coursework. If you think a paper you are working on for a class might be appropriate for a QP, discuss with your instructor. Please don’t wait until you have completed all your courses. 
+A QP is not a thesis or a monograph. It is meant to be a relatively short (20-30 page) and focused journal article. Many QPs evolve out of class papers or projects, and students are urged to start writing QPs while still completing coursework. If you think a paper you are working on for a class might be appropriate for a QP, discuss with your instructor. Please don't wait until you have completed all your courses.
 
 A QP is essentially a supervised writing project, overseen by a Linguistics faculty member ("QP Chair") and reviewed by an ad-hoc faculty subcommittee ("QP Committee"). You will meet regularly with your QP Chair during the QP writing process.
 
-The topics of your qualifying papers should be distinct both from each other and from your dissertation. In particular, a QP cannot serve as a chapter of your dissertation. Moreover, the chairs and committees for the two QPs must be entirely distinct. However, your PhD advisor may serve as chair of one of the QPs. 
+The topics of your qualifying papers should be distinct both from each other and from your dissertation. In particular, a QP cannot serve as a chapter of your dissertation. Moreover, the chairs and committees for the two QPs must be entirely distinct. However, your PhD advisor may serve as chair of one of the QPs.
 
 The processes for first (QP1) and and second (QP2) papers are essentially the same, with these notable exceptions:
 
-- The topic area of QP2 must be demonstrated to be distinct from QP1. 
-- The QP2 committee must be entirely new: no one who served on the QP1 committee may serve on the QP2 committee.
+-   The topic area of QP2 must be demonstrated to be distinct from QP1.
+-   The QP2 committee must be entirely new: no one who served on the QP1 committee may serve on the QP2 committee.
 
-The steps involved in completing a QP begin with the formation of a QP committee and proceed through several levels of review. These steps are outlined below and detailed in the following subsections. 
+The steps involved in completing a QP begin with the formation of a QP committee and proceed through several levels of review. These steps are outlined below and detailed in the following subsections.
 
 ```{r, echo=FALSE}
 DiagrammeR::grViz("digraph {
@@ -37,21 +37,20 @@ DiagrammeR::grViz("digraph {
 
 ## Forming the QP committee {#QP_committee}
 
-A QP committee has three members: A Chair, Reader 1, and Reader 2. No member of a student’s QP1 committee can serve on that student’s QP2 committee. Any faculty member who appears on the department’s list of regular and cooperating faculty may be asked to Chair a QP committee.
+A QP committee has three members: A Chair, Reader 1, and Reader 2. No member of a student's QP1 committee can serve on that student's QP2 committee. Any faculty member who appears on the department's list of regular and cooperating faculty may be asked to Chair a QP committee.
 
 When a student is ready to form the QP1 committee, the student will seek consent from the desired Chair, and they will discuss both the topic of the QP and a target publication venue. The QP will be developed with this target venue in mind with regard to content and formatting.
 
 Once the Chair has agreed to serve, the student will contact the Graduate Chair to request the formation of the committee. The student must provide to the Graduate Chair:
 
-- the name of the Chair
-- The tentative title of the QP
-- The target publication
-- QP number (QP1 or QP2)
+-   the name of the Chair
+-   The tentative title of the QP
+-   The target publication
+-   QP number (QP1 or QP2)
 
 In addition, if requesting a QP1 committee, indicate the Chair of other QP2 (if known)
 
-If requesting a QP2 committee, submit a brief (200 word maximum) justification explaining  how QP2 is different from QP1.
-
+If requesting a QP2 committee, submit a brief (200 word maximum) justification explaining how QP2 is different from QP1.
 
 ::: {.infobox .caution}
 The area (field of interest) and the methodology of QP2 must be substantially different from the area and methodology of QP1. For example, it would be acceptable to write one QP on child language acquisition and the other on syntactic theory, and it would be acceptable to write one QP on the acquisition of scope and the other on the processing of passives, but it would not be acceptable to write one QP on the acquisition of scope and the other on the processing of scope.
@@ -59,17 +58,16 @@ The area (field of interest) and the methodology of QP2 must be substantially di
 
 Before the Consultation meeting is scheduled, the QP2 Committee will decide whether the papers are different enough.
 
-
-
-Use [this form](https://forms.gle/YNipJTdAiRSxnrHU8) to submit a QP committee request. 
+Use [this form](https://forms.gle/YNipJTdAiRSxnrHU8) to submit a QP committee request.
 
 The Readers are selected by the Graduate Chair. The student can request that a particular member of the faculty not be chosen as a Reader for QP1 so that that person can serve as the Chair of QP2.
 
 The Graduate Chair will assign the Readers and inform the student and committee so that the student can schedule the Consultation (see Step 2 below).
 
-The roles of the two Readers differ. Reader 1 will participate in the entire QP procedure as outlined below. Reader 2 will participate in the Consultation, but will only read the paper in cases of a disagreement where the QP is ‘Rejected’ by one member of the committee (either the Chair or Reader 1) but not by the other, in Steps 2.1.5  and 2.1.6.
+The roles of the two Readers differ. Reader 1 will participate in the entire QP procedure as outlined below. Reader 2 will participate in the Consultation, but will only read the paper in cases of a disagreement where the QP is rejected by one member of the committee (either the Chair or Reader 1) but not by the other, in Steps \@ref(reader1) and \@ref(synthesis).
 
-## Consultation  {#consultation}
+## Consultation {#consultation}
+
 The Consultation is a scheduled meeting between the student and the full committee (the Chair and both Readers) to discuss the proposed paper.
 
 The student and Chair will decide the best procedure for the Consultation meeting, which may be a 20 minute presentation followed by questions, or it may be more informal (e.g., the student and committee discuss an outline of the proposed paper with preliminary results or the planned study).
@@ -78,56 +76,60 @@ A project will pass the Consultation when the committee agrees that the topic an
 
 If the project fails the Consultation, the student will revise the project and can schedule one more Consultation with the committee. Students are strongly encouraged to schedule a one-on-one meeting with their Readers and/or Chair during the revision process if the project fails the Consultation. If a project fails the second Consultation meeting with the committee, the entire QP immediately fails, and the student will need to start again with a new project.
 
-::::: {.infobox .caution }
-If at any point a QP fails, this constitutes failing one attempt at the Comprehensive Exam. According to [UHM Graduate Division policy](http://www.manoa.hawaii.edu/graduate/content/doctorate), students have two chances to pass the Comprehensive Exam. This means the second attempt at the failed QP, and the other QP, will need to proceed without further failures or the student may be dismissed from the program. 
-::::
+::: {.infobox .caution}
+If at any point a QP fails, this constitutes failing one attempt at the Comprehensive Exam. According to [UHM Graduate Division policy](http://www.manoa.hawaii.edu/graduate/content/doctorate), students have two chances to pass the Comprehensive Exam. This means the second attempt at the failed QP, and the other QP, will need to proceed without further failures or the student may be dismissed from the program.
+:::
 
 ## Development of written Plan of Work {#workplan}
-After the Consultation, the Chair and the student will develop a written Plan of Work, which is to be submitted to the Department Secretary for inclusion in the student’s file. The Plan of Work may include, but is not limited to, one or more of the following:
 
-- A writing schedule or calendar
-- The number of drafts the Chair will review before it is sent to Reader 1 (note that the Chair is not obligated to read drafts more than two times, but may do so at their discretion)
-- An outline of the paper
-- The maximum length for the paper
-- Any other details that the Chair or student wishes to include
+After the Consultation, the Chair and the student will develop a written Plan of Work, which is to be submitted to the Department Secretary for inclusion in the student's file. The Plan of Work may include, but is not limited to, one or more of the following:
+
+-   A writing schedule or calendar
+-   The number of drafts the Chair will review before it is sent to Reader 1 (note that the Chair is not obligated to read drafts more than two times, but may do so at their discretion)
+-   An outline of the paper
+-   The maximum length for the paper
+-   Any other details that the Chair or student wishes to include
 
 Plan of Work forms can be obtained from the Department office. Adherence to the Plan of Work can later be modified if the Chair and student agree.
 
-## Writing and feedback  {#feedback}
+## Writing and feedback {#feedback}
+
 Once the Plan of Work has been submitted to the department office, the student will proceed with writing and consulting with the Chair according to the Plan of Work.
 
-Significant changes incorporating the Chair’s comments are expected with each revised draft.
+Significant changes incorporating the Chair's comments are expected with each revised draft.
 
-The Chair will determine when the paper is ready to share with Reader 1. It should be very close to finished, although sharing it with Reader 1 does not constitute “approval” of the QP by the Chair.
+The Chair will determine when the paper is ready to share with Reader 1. It should be very close to finished, although sharing it with Reader 1 does not constitute "approval" of the QP by the Chair.
 
 ## Inclusion of Reader 1 {#reader1}
+
 If the paper differs from what was discussed at the Consultation, the student should also submit a document that outlines how the paper differs from the Consultation plan, and why those changes were made.
 
 The Chair (not the student) sends the paper to Reader 1. At this point the Chair is encouraged to communicate with Reader 1 about the paper as necessary (e.g., a general sense of the quality of the paper, any major issues that arose during the writing of the paper). The student is not included in these communications.
 
 Reader 1 provides feedback directly to the Chair. Reader 1 sends any comments or suggestions to the Chair and suggests one of the below:
 
-
-- Approve (accepted by Reader 1 as-is)
-- Approve With Minor Revisions (Reader 1 has minor suggestions but doesn’t need to see paper again)
-- Major revisions needed (Reader 1 wants substantial revisions)
-- Reject (Reader 1 determines this paper is unacceptable and unsalvageable)
+-   Approve (accepted by Reader 1 as-is)
+-   Approve With Minor Revisions (Reader 1 has minor suggestions but doesn't need to see paper again)
+-   Major revisions needed (Reader 1 wants substantial revisions)
+-   Reject (Reader 1 determines this paper is unacceptable and unsalvageable)
 
 Reader 1 can also supply feedback intended for the student, which the Chair will include, unedited, in their [synthesis](#synthesis) of the chair and reader comments.
 
 ## Synthesis of feedback to student {#synthesis}
-Much like a journal editor, the Chair synthesizes their feedback with that of Reader 1 to make a determination about the QP. The Chair provides feedback to the student in the form of an editorial letter (cc’ing Reader 1), and must select one of the following:
 
-- Approve
-- Approve with minor revisions
-- Revise and resubmit (major revisions)
-- Reject (the QP immediately fails*)
+Much like a journal editor, the Chair synthesizes their feedback with that of Reader 1 to make a determination about the QP. The Chair provides feedback to the student in the form of an editorial letter (cc'ing Reader 1), and must select one of the following:
+
+-   Approve
+-   Approve with minor revisions
+-   Revise and resubmit (major revisions)
+-   Reject (the QP immediately fails)
 
 If either the Chair or Reader 1 wants major revisions, they will to come to an agreement about which revisions are required for the QP to pass, and whether the final evaluation of the resubmission will be made by the Chair alone, or by both the Chair and the Reader. These decisions will be communicated to the student by the Chair in writing
 
-In the event that one member of the committee rejects the paper but the other does not, Reader 2 will be asked to read the paper and consult with the committee and the student in order to determine how the QP will be evaluated. Reader 2 can ask for revisions, to be completed in the [final revisions](revisions). The decision of Reader 2 is final.
+In the event that one member of the committee rejects the paper but the other does not, Reader 2 will be asked to read the paper and consult with the committee and the student in order to determine how the QP will be evaluated. Reader 2 can ask for revisions, to be completed in the [final revisions](#revisions). The decision of Reader 2 is final.
 
 ## Revision and resubmission {#revisions}
+
 The student will undertake the revisions within a timeframe to be decided by the student and Chair. The student will then resubmit the revised paper to the Chair, along with a letter describing the changes that were made to the paper.
 
 The Chair then shares the revised paper and the letter with Reader 1 in cases where Reader 1 has agreed to read the revised manuscript.
@@ -138,7 +140,16 @@ Reassessment reiterates the [review by Reader 1](#reader1) and the [synthesis of
 If at any point Reviewer 2 is brought in adjudicate a disagreement between the Chair and Reader 1, one and only one further round of revisions is allowed.
 :::
 
-Once the revised QP is approved, the Chair will notify the department. The appropriate time to submit the manuscript to the target publication venue should be determined in consultation with the Chair
+Once the revised QP is approved, the Chair will notify the department. The appropriate time to submit the manuscript to the target publication venue should be determined in consultation with the Chair.
 
+## Working Papers  {#wp}
 
+The [University of Hawai\'i at Mānoa Working Papers in Linguistics](http://ling.hawaii.edu/research-current/publications/workingpapers/) provides a venue for publishing student research, including reports on current work-in-progress. Working Papers are published electronically and accessible via the [ScholarSpace](https://hdl.handle.net/10125/42386) repository. Publication in the Working Papers does not preclude later publication in another venue. For this reason the Working Papers may be an appropriate venue for publishing your QP, particulary if you intend to publish a revised version of the QP along with a co-author (e.g., another student or faculty member).
 
+Guidelines for preparing your paper for publication in the Working Papers are available in MS Word and Latex formats.
+
+-   MS Word [[doc](http://ling.hawaii.edu/wp-content/uploads/wp-guidelines-CURRENT-Dec2015.doc)]
+
+-   Latex [ [Overleaf Template](https://www.overleaf.com/read/vrzdjgmsxpxz) \| [PDF](/docs/UHMWPL_latex.pdf) ]
+
+If you intend to publish your QP in the Working Papers, contact the editor early in the QP process.

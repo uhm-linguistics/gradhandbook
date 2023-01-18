@@ -1,7 +1,7 @@
 --- 
 title: "Graduate Handbook"
 author: "Department of Linguistics, University of Hawai‘i at Mānoa"
-date: "`r Sys.Date()`"
+date: "`r Sys.Date()` <font color='red'>DRAFT FOR REVIEW</font>"
 site: bookdown::bookdown_site
 output: bookdown::git_book
 documentclass: book
@@ -16,9 +16,13 @@ description: "The purpose of this document is to provide graduate students in li
 <img src="images/header.png"/>
 <img src="images/uhmlogo.png" class='cover'  width="100" />
 
-The purpose of this document is to provide graduate students in linguistics at the University Hawai‘i with useful information about the program in which they are enrolled, important rules and regulations that must be followed and some suggestions and advice that facilitate progress towards graduation. This document is updated frequently, so please check back for updates.
+The purpose of this handbook is to provide graduate students in linguistics at the University Hawai‘i with useful information about the program in which they are enrolled, important rules and regulations that must be followed and some suggestions and advice that facilitate progress towards graduation. This document is updated frequently, so please check back for updates.
 
 This handbook covers both the [MA Program](#maprogram) and the [PhD Program](#phdprogram), which were previously described in separate manuals. Issues common to both graduate programs can be found in the chapters in the first part of the manual, [Policies](#policies).
+
+:::{.infobox .caution}
+This handbook is in the process of being updated. In case of a discrepency, the language in the existing (October 2019) MA and PhD manuals shall take precedence. See the [Forms and Downloads] section. 
+:::
 
 For questions see your advisor or contact:
 

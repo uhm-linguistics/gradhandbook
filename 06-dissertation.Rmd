@@ -1,58 +1,55 @@
 # Dissertation {#dissertation}
-The third and final step of the PhD program involves preparing and defending a dissertation that makes a ‘significant original contribution to knowledge in the candidate’s chosen field’ (to quote the University of Hawai`i at Mānoa Catalog).
 
-All students must write an acceptable dissertation and pass a final oral examination based on it (the ‘dissertation defense’).
+The third and final step of the PhD program involves preparing and defending a dissertation that makes a "significant original contribution to knowledge in the candidate's chosen field" (to quote the University of Hawai\'i at Mānoa Catalog).
+
+All students must write an acceptable dissertation and pass a final oral examination based on it (the 'dissertation defense').
 
 Students in this part of the program need only register for one credit of LING 800 (dissertation research) per semester in order to maintain full-time status.
 
-When writing your dissertation, be sure to consult and follow the [Style and Policy Manual for Theses and Dissertations](http://manoa.hawaii.edu/graduate/sites/manoa.hawaii.edu.graduate/files/documents/misc/tdstylepolicy_e.pdf). 
+When writing your dissertation, be sure to consult and follow the [Style and Policy Manual for Theses and Dissertations](http://manoa.hawaii.edu/graduate/sites/manoa.hawaii.edu.graduate/files/documents/misc/tdstylepolicy_e.pdf).
 
-Be sure to consult the University of Hawai`i at Mānoa Catalog and the departmental bulletin boards for deadlines involving graduation dates. You must submit a degree application by the specified deadline and pay the required fee.
+Be sure to consult the University of Hawai\'i at Mānoa Catalog and the departmental bulletin boards for deadlines involving graduation dates. You must submit a degree application by the specified deadline and pay the required fee.
 
-If you are not a particularly accomplished writer or if English is not your native language, it would be wise to seek help in editing and proofreading your dissertation draft before it is submitted to your committee. (Note: Passing the ELI screening exam does not necessarily indicate sufficient proficiency to produce a stylistically acceptable dissertation.) 
+If you are not a particularly accomplished writer or if English is not your native language, it would be wise to seek help in editing and proofreading your dissertation draft before it is submitted to your committee. (Note: Passing the ELI screening exam does not necessarily indicate sufficient proficiency to produce a stylistically acceptable dissertation.)
 
 ## Submission to committee
+
 Your committee chair will let you know when your dissertation draft is nearly ready to distribute to your committee. At this point you and your chair should agree upon a timeline, keeping in mind the following three deadlines.
 
-Your committee should receive your dissertation at least four weeks prior to your proposed defense date. (Some flexibility in this deadline may be permitted if there is a consensus among the committee members.)
-cc
-## Submission to department
+Your committee should receive your dissertation at least four weeks prior to your proposed defense date. (Some flexibility in this deadline may be permitted if there is a consensus among the committee members.) cc \## Submission to department
 
 ## Dissertation defense
-The final defense is an oral examination open to the public, during which the author of a  dissertation demonstrates to his or her committee satisfactory command of all aspects of the work presented and other related subjects, if applicable. Prior to  the beginning of the beginning of the defense, the committee will meet privately to determine whether the dissertation is "defensible." Providing the committee agrees that the dissertation is defensible, the student will then present a brief oral presentation summarizing their dissertation. This presentation is followed by questions from the committee, and then from the public. Finally, the committee adjourns to deliberate privately prior to announcing the results of the exam. There are three possible outcomes:
 
-- Pass (possibly with minor revisions)
-- Pass with major revisions requiring review by the chair
-- Fail
+The final defense is an oral examination open to the public, during which the author of a dissertation demonstrates to his or her committee satisfactory command of all aspects of the work presented and other related subjects, if applicable. Prior to the beginning of the beginning of the defense, the committee will meet privately to determine whether the dissertation is "defensible." Providing the committee agrees that the dissertation is defensible, the student will then present a brief oral presentation summarizing their dissertation. This presentation is followed by questions from the committee, and then from the public. Finally, the committee adjourns to deliberate privately prior to announcing the results of the exam. There are three possible outcomes:
 
-Allow three hours for your defense, though many defenses are completed in just two hours or so. 
+-   Pass (possibly with minor revisions)
+-   Pass with major revisions requiring review by the chair
+-   Fail
 
-At least 15 calendar days prior to your defense date, you must submit Graduate Division’s form “Final Oral Examination for Doctoral Dissertation Defense”, signed by your chair. The department office will deliver this form to Graduate Division. Should the committee determine that the dissertation is not defendable, the defense may be cancelled and a notification will be sent to Graduate Division.
+Allow three hours for your defense, though many defenses are completed in just two hours or so.
+
+At least 15 calendar days prior to your defense date, you must submit Graduate Division's form `Final Oral Examination for Doctoral Dissertation Defense`, signed by your chair. The department office will deliver this form to Graduate Division. Should the committee determine that the dissertation is not defendable, the defense may be cancelled and a notification will be sent to Graduate Division.
 
 If the Chair and/or University Representative cannot be physically present for the defense, he or she must participate by some form of video technology. For your final defense, remote participation must be approved by Graduate Division prior to the defense.
 
-A PDF version of your pre-defense dissertation must be submitted to the department office at least two weeks before the defense. The title page should contain a clear indication that this is a ‘pre-defense draft’.
+A PDF version of your pre-defense dissertation must be submitted to the department office at least two weeks before the defense. The title page should contain a clear indication that this is a `pre-defense draft`.
 
 ## Dissertation revisions
 
+Following the defense you will typically be required to make minor revisions and formatting corrections prior to submitting the final version of the dissertation.
+
+> Be sure to allow adequate time for the revision process. It is recommended that you allow at least three weeks, so that your committee has sufficient time to review and approve the revisions.
+
 ## Submission to Graduate Division
+
+Students whose dissertation proposal contains an [archiving plan]{#archiving} must present proof of archive deposit prior to submitting the final version of the dissertation.
+
 Once all revisions have been made and your committee chair approves your dissertation, ask your chair to notify the department office. Complete Form IV-Dissertation Submission via the [Graduate Division website](https://manoa.hawaii.edu/graduate/forms/). Graduate Division requires two digital copies of your dissertation saved on two CDs (one copy for ProQuest and the second copy for the library). Check with the department office for the deadline for submitting your dissertation to Graduate Division.
 
 The final approved version of your dissertation, with all required revisions, must be submitted to **Proquest ETD**. This requires creating an account with Proquest. Do not wait until the last minute to upload, lest you encountered technical difficulties. Instructions for uploading the final version can be found [here](https://manoa.hawaii.edu/graduate/proquest-etd-submission-publication/).
 
 A PDF version of the final approved version of your dissertation must be submitted to the department office. Check with the department office for the deadline for submitting your PDF to the department office.
 
-
-
-Your defense must be held at least two weeks prior to Graduate Division’s deadline for submission of the final version. Check with the department office for that deadline.
-
-
-
-
+Your defense must be held at least two weeks prior to Graduate Division's deadline for submission of the final version. Check with the department office for that deadline.
 
 You must be registered in one credit of LING 800 in the semester in which you graduate.
-
-
-
-
-

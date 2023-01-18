@@ -1,0 +1,88 @@
+# Research Approval {#IRB}
+
+Research involving human subjects---including much linguistics research---requires approval from the university Institutional Review Board. Though designed to protect research participants and ensure ethical research practices, the IRB approval process can feel onerous and opaque to the uninitiated. Much of the process was originally motivated by the need to protect participants in biomedical research and can thus seem awkward when applied to linguistic research, particularly field work. For example, the emphasis on maintaining anonymity may be antithetical to best practices in language documentation and the moral obligation to give appropriate acknowledgement to speakers. Some of these larger issues are discussed in by [Bowern (2010)](https://www.jstor.org/stable/40961721). The guidelines below are intended to help guide your through the process.
+
+There are three types of review processes:
+
+-   Exempt
+-   Expedited
+-   Full Board Review
+
+Most linguistics research falls into either the `Exempt` or `Expedited` review categories. It is important to understand that in this context exempt does not mean exempt from review but rather exempt from review by the *full board*. Exempt and expedited applications still go through a review process, but the process is more streamlined and typically much faster. Generally, the exempt category is for research using anonymized data, while the expedited category is for research which includes identifying information (e.g., video recordings or transcripts attributed to a particular speaker). This [flowchart](docs/irb_flowchart.pdf) may be helpful in determining the appropriate review category.
+
+IRB applications can submitted using [UH eProtocol](https://uhmanoa.keyusa.net/).
+
+Sample copies of approved IRB protocols are available from the department office. Consult the [list of recent dissertations](http://ling.hawaii.edu/research-current/publications/dissertations/) to identify relevant research topics.  
+
+## IRB Application
+
+### Title and Personnel
+
+Enter the study title (you can edit later if necessary) and click Create. Check the box indicating that this is student research.
+
+For student research, a UH faculty member must serve as the Principal Investigator (PI). This person may be your faculty advisor, or for grant-funded research it may be the PI for the grant project. You will work closely with this person during the IRB application process. The student is listed on the application under Other Investigator(s).
+
+### Subject Checklist
+
+Select all populations *specifically targeted* for this study. Note that this is not the same as all populations included in the study. For many studies it will be sufficient to check the Adult Volunteers box, though work with child language would obviously require you to check the Children box. At least one box must be checked.
+
+### Study Location
+
+Indicate study location. Also click the two "No" boxes at the bottom of the page to indicate that this application is not being submitted to another IRB and is not a multi-site proposal.
+
+### General Checklist
+
+For linguistics research you will generally select `Interview` and/or `Questionnaire/Survey` under Section 3: Methodologies.
+
+If the research is related to a thesis/dissertation or a class project, check the appropriate box in Section 4.
+
+### Funding
+
+Indicate the source of funding, if any, for the project. Your advisor or PI can assist with this information.
+
+### Protocol Information
+
+The is the main section of the application, and the are a number of subsections. Begin by selecting the review category (generally Exempt or Expedited). Next you must indicate the justification for Exempt or Expedited review.
+
+For Exempt review, the relevant categories are:
+
+:   3. ii. RESEARCH INVOLVING BENIGN BEHAVIORAL INTERVENTIONS. Any disclosure of the subject's responses outside of the research could NOT reasonably place the subject at risk
+
+or for research using existing data (e.g., archival corpora):
+
+:   4. i. EXISTING DATA. The identifiable private information or identifiable biospecimens are publicly available
+
+For Expedited review, the following categories are relevant:
+
+:   6.  Collection of data from voice, video, digital, or image recordings made for research purposes
+    7.  Research on individual or group characteristics or behavior
+
+The main content of the application is entered in several boxes under **Summary, Purpose, Procedures**.
+
+You will need to provide two important attachments:
+
+-   **Recruitment Script**, which explains the project to potential participants
+-   **Consent Form**, which explains the risks and benefits of the project and asks participants to give their consent to participate and also explains how to withdraw from the study or report problems
+
+Note that consent may be collected orally via recording, but a written consent form is is still needed. Also, if the participants are not fluent in English, then these documents must be supplied in a language accessible to the participants, in addition to English. Sample [consent forms](https://research.hawaii.edu/orc/human-studies/forms/#templates) can be downloaded from the IRB website and are also available from the Linguistics department office.
+
+### Submit
+
+Once the form is complete, ask your advisor or PI to review prior to submitting.
+
+### Revisions
+
+If there is an error in your application or some section is deemed unacceptable, you will receive notification that the protocol has been returned. In this case you can log on to eProtocol and view the Return Notes, which indicate required changes which will need to be made before re-submitting your application.
+
+## Ethics Training
+
+Approval of an IRB application requires that you also complete training in research ethics and compliance. This training is administered online through the [CITI Program](https://about.citiprogram.org). In order to ensure that your CITI training courses are appropriately linked with UH, you need to register using an organizational affiliation, selecting `University of Hawaii (SSO)` from the dropdown list of organizations. (Do not register as an `Independent Learner`.)
+
+The courses required for your application will depend on the review category. However, the non-exempt courses can be used to fulfill the requirement for exempt applications, but not the other way around. Thus, it is recommended that you complete the non-exempt courses to avoid having to complete additional training later. The relevant courses are:
+
+-   Non-Exempt Social & Behavioral Sciences Researchers and Key Personnel
+-   Non-Exempt Social & Behavioral Sciences Researchers and Key Personnel IPS
+
+If these courses don't show up when you log in, you can add them by choosing `Add a Course`, then `Human Subjects Research`.
+
+The training involves a series of readings and videos followed by set of quiz questions for each module. It's not difficult, but it can be time-consuming. So don't wait until the last minute to complete your CITI training. The training is independent of your particular research project and so can (and should!) be completed in advance of your IRB application. Once completed, your training is valid for one year. Your completion certificate should link automatically to your eProtocol account; however, it is good practice to download the training completion certificate from CITI, in case you later need to upload that to your IRB application.

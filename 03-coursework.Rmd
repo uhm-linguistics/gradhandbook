@@ -1,7 +1,8 @@
-# (PART\*) PhD Program {-} 
+# (PART\*) PhD Program {.unnumbered}
 
 # PhD Coursework {#phdprogram}
-Coursework is the first stage of the PhD Program. Coursework leads directly to the [Qualfiying Papers](#qp) requirement, which must be completed before the [Prospectus](#prospectus) and [Dissertation]. 
+
+Coursework is the first stage of the PhD Program. Coursework leads directly to the [Qualfiying Papers](#qp) requirement, which must be completed before the [Prospectus](#prospectus) and [Dissertation].
 
 ```{r, echo=FALSE}
 DiagrammeR::grViz("digraph {
@@ -19,31 +20,31 @@ DiagrammeR::grViz("digraph {
   height = 100)
 ```
 
-All students in the PhD program are required to complete a minimum of 33 credit hours of course work at the University of Hawai‘i *beyond courses counted towards the MA degree*. This course work must include LING 621 (‘Phonology’), LING 622 (‘Grammar’), and two Methods courses.
+All students in the PhD program are required to complete a minimum of 33 credit hours of course work at the University of Hawai'i *beyond courses counted towards the MA degree*. This course work must include LING 621 ('Phonology'), LING 622 ('Grammar'), and two Methods courses.
 
-A student may be exempted from a 600-level course such as LING 621 and 622 with instructor approval. Such exemptions are granted only when it is clear that the student has taken a closely-overlapping course at another institution, and that the student still maintains control over the relevant material. In such cases, the student’s 33 credit requirement is reduced by 3 credits (per exempted course).
+A student may be exempted from a 600-level course such as LING 621 and 622 with instructor approval. Such exemptions are granted only when it is clear that the student has taken a closely-overlapping course at another institution, and that the student still maintains control over the relevant material. In such cases, the student's 33 credit requirement is reduced by 3 credits (per exempted course).
 
 Students interested in experimental research are strongly advised to take one or more courses in statistical analysis (e.g. LING 640G: Statistics in Linguistics, EDEP 429, SLS 490, SLS 671).
 
-LING 750G Professional Development (ICLDC Prep Course) may be taken multiple times, but will only be counted once towards a degree: 
+LING 750G Professional Development (ICLDC Prep Course) may be taken multiple times, but will only be counted once towards a degree:
 
-i. the course will count for a maximum of 3 credits towards the PhD 33 credit requirement, and 
-i. if it is used to satisfy an MA degree requirement, subsequent LING 750G courses may not be used towards the PhD degree.
+i.  the course will count for a maximum of 3 credits towards the PhD 33 credit requirement, and
+ii. if it is used to satisfy an MA degree requirement, subsequent LING 750G courses may not be used towards the PhD degree.
 
-Students who have not already taken or received a course exemption for the following ‘core’ courses must take these courses _in addition_ to the 33 credit hours of course work required of PhD students.
+Students who have not already taken or received a course exemption for the following 'core' courses must take these courses *in addition* to the 33 credit hours of course work required of PhD students.
 
-- LING 410 Articulatory Phonetics
-- LING 420 Morphology
-- LING 421 Introduction to Phonological Analysis
-- LING 422 Introduction to Grammatical Analysis
-- LING 645 The Comparative Method
+-   LING 410 Articulatory Phonetics
+-   LING 420 Morphology
+-   LING 421 Introduction to Phonological Analysis
+-   LING 422 Introduction to Grammatical Analysis
+-   LING 645 The Comparative Method
 
-If you already have advanced coursework in linguistics, you may elect to seek a [Course Exemption].
+If you already have advanced coursework in linguistics, you may elect to seek a [Independent Study].
 
 At the discretion of the department faculty or your advisor, you may be required to take [additional writing courses](writing). A description of adequate writing skills and a list of courses and their descriptions can be found under the Adequate Writing Skills section of this document. This information is also available to download from our department website at
 
-
 ## Breadth Requirement
+
 In order to ensure that our graduates have sufficient breadth of knowledge, the department requires that each student have multiple areas of specialization. Within the 33 credit hours of course work, students must take at least three graduate-level courses in each of two distinct areas of linguistics. In addition, students are strongly encouraged to gain expertise in a third area of linguistics for the purpose of employment and further research opportunities.
 
 Various areas of linguistics are suitable, including one language area. Two-semester courses sequences will count as two courses. Graduate-level courses taken as an undergraduate or as an MA student and courses taken at other universities may count as part of a focus area, with approval from both the student's advisor and the Graduate Chair. Some 400-level courses may count as part of a focus area, with advisor approval. A maximum of three credits per area may be taken as 699, if the student requests and receives approval by the Graduate Chair in writing. At least two of the three classes in each focus area must be taken for a letter grade, with a minimum grade requirement of A-. If your third class is taken as credit/no credit, you must receive a grade of CR; if your third class is taken for a letter grade, you must receive a grade of C or better; you cannot audit this third course.
@@ -53,12 +54,13 @@ The areas must be approved by your advisor. The advisor (in consultation with th
 There will be courses that may be counted in one area or another, but no course can be counted more than once. Students should consult the instructor, their advisor, and the Graduate Chair about the area assignment of any course whose status is not obvious.
 
 ## Course Exemption
+
 If you wish to seek exemption from any of the four core MA courses, you must meet with the faculty member in charge of exemption for the course on the Monday or Tuesday of the week prior to the first day of instruction. During this meeting you must provide the instructor with the syllabus from your prior course, and be prepared to discuss course content and possibly be quizzed on course materials. The instructor will then decide to
 
-- exempt you from the class, or
-- not exempt you from the class, or
-- require you to take an exemption exam for the course (in this case a minimum passing grade is B (not B-)), or
-- require you to audit the entire class or a portion of the class; the instructor will inform you of requirements for a successful audit.
+-   exempt you from the class, or
+-   not exempt you from the class, or
+-   require you to take an exemption exam for the course (in this case a minimum passing grade is B (not B-)), or
+-   require you to audit the entire class or a portion of the class; the instructor will inform you of requirements for a successful audit.
 
 You must notify the Department secretary no later than August 1st (for Fall) and December 1st (for Spring). The secretary will coordinate a meeting with the faculty member in charge of the exemption.
 
@@ -66,13 +68,25 @@ Exemption exams, if deemed required by the instructor, are held during the week 
 
 Instructors must provide exemption documentation or exam grades to the Graduate Chair and relevant students no later than the day before the last day to add classes. You may take any given exemption exam only once. Should you not pass an exam, you must take the relevant course at the first availability, i.e., the same semester if the course is offered (if not, the following semester).
 
-
 If you intend to seek exemption(s), you must make every effort to do so within the first year of your program.
 
+## Directed Research (LING 699)
+
+Once you have completed the required PhD coursework, you may register for a Directed Research course (LING 699). Directed Research allows a student to pursue research for a Qualifying Paper, Dissertation Proposal or other project---under the direction of an appropriate faculty member. Students wishing to register for LING 699 should discuss the possibility with the proposed instructor, recognizing that faculty members may not always be available for supervising these courses. If the faculty member agrees to supervise your directed research, complete a [LING 699 Proposal](docs/699form.pdf), including the following information:
+
+1.  the scope of the proposed course, with references
+2.  the relation of the proposed research to your degree program and career goals
+3.  timetable of various components within the semester
+4.  a brief description of the final product(s) of the course (e.g., QP draft, proposal draft, etc.)
+5.  number of credits (maximum 6)
+
+Have your instructor sign the form and then submit the form to the department office. You will then be assigned a course registration number so that you can register for the course. It is best to discuss the proposed LING 699 during the registration period at the end of the previous semester, but the form can be completed during the first week of the term.
+
 ## Advising Record and Annual Student Evaluation
+
 One tool to help you to track your progress towards your degree is your advising record. A copy of your latest record is placed in your student mailbox at the beginning of each Fall semester. Review it and inform the department office of any discrepancies so that they can be updated.
 
-All-but-Dissertation (ABD) students will not receive a copy of their advising record because these students have already completed all requirements except for your dissertation. A copy of a PhD Advising Record can be found at the end of this document.
+All-but-Dissertation (ABD) students will not receive a copy of their advising record because these students have already completed all requirements except for your dissertation. A sample PhD Advising Record can be found in the [Forms] section of the handbook.
 
 At the end of each academic year, the Linguistics faculty holds its annual student evaluation meeting during which the progress of every student in the department is discussed. Your advisor will be provided with copies of your current advising record and a semester report of your grades. During the meeting your advising record is updated based on the completion of courses and degree requirements during the past academic year. Note is also made of exceptionally fast or slow progress.
 
