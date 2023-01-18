@@ -62,7 +62,7 @@ Use [this form](https://forms.gle/YNipJTdAiRSxnrHU8) to submit a QP committee re
 
 The Readers are selected by the Graduate Chair. The student can request that a particular member of the faculty not be chosen as a Reader for QP1 so that that person can serve as the Chair of QP2.
 
-The Graduate Chair will assign the Readers and inform the student and committee so that the student can schedule the Consultation (see Step 2 below).
+The Graduate Chair will assign the Readers and inform the student and committee so that the student can schedule the [Consultation] meeting.
 
 The roles of the two Readers differ. Reader 1 will participate in the entire QP procedure as outlined below. Reader 2 will participate in the Consultation, but will only read the paper in cases of a disagreement where the QP is rejected by one member of the committee (either the Chair or Reader 1) but not by the other, in Steps \@ref(reader1) and \@ref(synthesis).
 
@@ -142,9 +142,9 @@ If at any point Reviewer 2 is brought in adjudicate a disagreement between the C
 
 Once the revised QP is approved, the Chair will notify the department. The appropriate time to submit the manuscript to the target publication venue should be determined in consultation with the Chair.
 
-## Working Papers  {#wp}
+## Working Papers {#wp}
 
-The [University of Hawai\'i at Mānoa Working Papers in Linguistics](http://ling.hawaii.edu/research-current/publications/workingpapers/) provides a venue for publishing student research, including reports on current work-in-progress. Working Papers are published electronically and accessible via the [ScholarSpace](https://hdl.handle.net/10125/42386) repository. Publication in the Working Papers does not preclude later publication in another venue. For this reason the Working Papers may be an appropriate venue for publishing your QP, particulary if you intend to publish a revised version of the QP along with a co-author (e.g., another student or faculty member).
+The [University of Hawai'i at Mānoa Working Papers in Linguistics](http://ling.hawaii.edu/research-current/publications/workingpapers/) provides a venue for publishing student research, including reports on current work-in-progress. Working Papers are published electronically and accessible via the [ScholarSpace](https://hdl.handle.net/10125/42386) repository. Publication in the Working Papers does not preclude later publication in another venue. For this reason the Working Papers may be an appropriate venue for publishing your QP, particulary if you intend to publish a revised version of the QP along with a co-author (e.g., another student or faculty member).
 
 Guidelines for preparing your paper for publication in the Working Papers are available in MS Word and Latex formats.
 
