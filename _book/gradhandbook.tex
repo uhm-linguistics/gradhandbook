@@ -1,0 +1,1491 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{book}
+\usepackage{amsmath,amssymb}
+\usepackage{lmodern}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{5}
+\usepackage{booktabs}
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\usepackage[]{natbib}
+\bibliographystyle{apalike}
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same} % disable monospaced font for URLs
+\hypersetup{
+  pdftitle={Graduate Handbook},
+  pdfauthor={Department of Linguistics, University of Hawai`i at Mānoa},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\title{Graduate Handbook}
+\author{Department of Linguistics, University of Hawai`i at Mānoa}
+\date{2023-01-18 DRAFT FOR REVIEW}
+
+\begin{document}
+\maketitle
+
+{
+\setcounter{tocdepth}{1}
+\tableofcontents
+}
+\hypertarget{welcome}{%
+\chapter*{Welcome}\label{welcome}}
+\addcontentsline{toc}{chapter}{Welcome}
+
+The purpose of this handbook is to provide graduate students in linguistics at the University Hawai`i with useful information about the program in which they are enrolled, important rules and regulations that must be followed and some suggestions and advice that facilitate progress towards graduation. This document is updated frequently, so please check back for updates.
+
+This handbook covers both the \protect\hyperlink{maprogram}{MA Program} and the \protect\hyperlink{phdprogram}{PhD Program}, which were previously described in separate manuals. Issues common to both graduate programs can be found in the chapters in the first part of the manual, \protect\hyperlink{general}{Program Information}.
+
+This handbook is in the process of being updated. In case of a discrepency, the language in the existing (October 2019) MA and PhD manuals shall take precedence. See the \protect\hyperlink{forms}{Forms and Downloads} section.
+
+For questions see your advisor or contact:
+
+\begin{itemize}
+\tightlist
+\item
+  John Kawahara, Assistant to the Graduate Chair (808-956-8602, kawahara at hawaii dot edu)
+\item
+  Gary Holton, Graduate Chair (holton at hawaii dot edu)
+\end{itemize}
+
+Additional information about university degree requirements can be found at the \href{https://manoa.hawaii.edu/graduate/current-students/}{Graduate Division website}.
+
+\hypertarget{part-program-information}{%
+\part*{Program Information}\label{part-program-information}}
+\addcontentsline{toc}{part}{Program Information}
+
+\hypertarget{general}{%
+\chapter{Advising}\label{general}}
+
+Your advisor is a \href{http://ling.hawaii.edu/people/core-faculty/}{Linguistics faculty member} who serves as your first point of contact in the department and your mentor throughout the degree process. Your advisor must approve all coursework and will supervise your thesis or dissertation.\footnote{Masters plan B (non-thesis) projects are sometimes supervised by a faculty other than the student's advisor.}
+
+\hypertarget{interim-advisor}{%
+\section{Interim Advisor}\label{interim-advisor}}
+
+Each student is assigned an interim advisor upon entry to the program. The main role of the interim advisor is to discuss your goals and guide you into the program by recommending courses relevant to your area(s) of interest so that you earn your degree in a timely manner. If you have a question about the program or a problem, you should seek the advice of your advisor.
+
+\hypertarget{how-to-change-advisor}{%
+\section{How to Change Advisor}\label{how-to-change-advisor}}
+
+It is often the case that the interim advisor is not the most appropriate person to supervise the student's dissertation. This may happen because the student's area of interest was undecided at the time they entered the program, or because the student's research focus changed during their studies. Or a student may have formed a productive working relationship with another faculty member. Whatever the reason, it is important that your advisor be someone with whom you can work effectively during what will be the most intensive research effort of your career so far. So don't hesitate to make a change if warranted; your current advisor will not take offence; the faculty want you to have the most appropriate advisor.
+
+To change advisor, you first consult with your prospective new advisor. If he/she agrees, you then obtain the approval of the graduate chair and notify the department administrator of the change. You should notify your current advisor as well; and you may want to retain them as a committee member, if they agree. A memo will be given to you, to your previous advisor and to your new advisor to indicate that the change was approved. From that point on, you meet with your new advisor.
+
+\hypertarget{registration-approval-form}{%
+\section{Registration Approval Form}\label{registration-approval-form}}
+
+You must meet with your advisor before registering for each semester's classes. This enables your advisor to monitor your progress and to make sure you are staying on track. The department places an academic hold on your student account prior to registration to ensure that you will meet with your advisor. You will be given a registration approval form (also called a hold form) to be completed at your advising meeting and returned to the department office. Upon receipt of this form, the department secretary will release the academic hold on your account.
+
+All holds must be cleared before you can register for classes. To check if you have any holds on your account:
+
+\begin{itemize}
+\tightlist
+\item
+  Go to \href{https://myuh.hawaii.edu/}{MyUH home page}.
+\item
+  Select View Holds on My Record.
+\item
+  The phone number of the office that placed the hold should be listed under the Originator box.
+\item
+  Contact the office indicated for information about how to clear and remove the hold.
+\end{itemize}
+
+\hypertarget{submissions-of-conference-abstracts-and-manuscript}{%
+\section{Submissions of conference abstracts and manuscript}\label{submissions-of-conference-abstracts-and-manuscript}}
+
+Students are strongly encouraged to present at professional conference and submit manuscripts for publication. In order to ensure the highest quality of scholarships, students are expected and encouraged to consult with their advisors prior to submitting an abstract for a conference or submitting a manuscript for publication. Your advisor may recommend additional appropriate faculty members to consult, such as the PI for a grant-funded project, other experts in the subject matter, and faculty who regularly attend the conference or publish in the journal in question.
+
+It is a natural expectation that faculty members will engage in such activities with students, and students should not feel as if they are imposing on the faculty or that they are somehow less impressive because they receive help from a faculty member. It should be noted that even the most experienced faculty members seek advice and counsel on such matters, and so students are expected to do so as well. Moreover, it is in the interest of everyone in the department that presentations and articles that are associated with the Department of Linguistics at UHM are of the highest caliber; our reputation depends on it.
+
+It is recommended that students discuss the abstract/manuscript with the relevant faculty member(s) early on in the process and work out a reasonable timetable to receive feedback. Many faculty members already have an established policy on what abstracts, manuscripts or slides must be submitted in order to receive feedback. This will require coordination with other authors since all authors must approve of an abstract or manuscript before it is submitted to any venue.
+
+\hypertarget{progress-toward-degree}{%
+\chapter{Progress toward degree}\label{progress-toward-degree}}
+
+\hypertarget{enrollment-status}{%
+\section{Enrollment Status}\label{enrollment-status}}
+
+\hypertarget{full-time-status}{%
+\subsection{Full-time Status}\label{full-time-status}}
+
+Determination of full-time status is dependent on the student's status in the program and their current \protect\hyperlink{funding-1}{funding} source:
+
+\begin{itemize}
+\item
+  Students receiving an \textbf{Achievement Scholarship} in the form of a tuition waiver must be enrolled for a minimum of eight (8) credits in the Department of Linguistics.
+\item
+  Students receiving a \textbf{Graduate Assistantship} must be enrolled in a minimum of six (6) credits in the Department of Linguistics.
+\item
+  All-but-dissertation (ABD) students need to register for only one (1) credit of LING 800 per semester to be considered full-time.
+\item
+  A student receiving loans through the Financial Aid Office (regardless of whether they hold a Graduate Assistantship) must be enrolled in at least eight (8) credits in the Department of Linguistics to receive the full financial aid award; registering for six credits will result in a pro-rated award.
+\end{itemize}
+
+In addition, not all courses count toward full-time status:
+
+\begin{itemize}
+\tightlist
+\item
+  The Department does not count LING 699 (directed reading) courses in determining full-time status until all other course requirements for your degree have been completed.
+\item
+  Audited courses are not counted in calculating the courses needed to establish full-time status.
+\end{itemize}
+
+Additional Considerations
+
+\begin{itemize}
+\tightlist
+\item
+  Students should check with their medical insurance carriers to confirm that they do not need to be enrolled as a full-time student to receive insurance coverage.
+\item
+  International students on F-1 and J-1 visas must be enrolled full-time each semester. The International Student Services Office follows Graduate Division's \href{https://manoa.hawaii.edu/graduate/course-loads-full-time-definition/}{guidelines for full-time status}. Check with Graduate Division for full-time status requirements.
+\end{itemize}
+
+\hypertarget{residency-program-requirement}{%
+\subsection{Residency Program Requirement}\label{residency-program-requirement}}
+
+Doctoral students must be registered as full-time (8 credits) students on the Mānoa campus for a minimum of three semesters.
+
+\hypertarget{time}{%
+\section{Time to Degree}\label{time}}
+
+The normative time to degree for the MA Degree is two (2) years of full-time study.
+The normative time to degree for the PhD Degree is five (5) years of full-time study.
+Approved \href{leave}{leaves of absence} do not count toward this total.
+Students that extend beyond that period (excluding leaves of absence) will be considered as not making satisfactory progress, and may be subject to \href{probation}{departmental warning of probation}.
+
+Graduate Division \href{https://manoa.hawaii.edu/graduate/disciplinary-actions/}{policy} sets a maximum limit for degree completion (MA or PhD) of seven (7) years, not counting approved leave.
+
+\hypertarget{probation}{%
+\section{Probation}\label{probation}}
+
+Students are expected to make timely progress toward the degree. This includes maintaining your GPA and adhering to \href{time}{normative times} for degree completion. Failure to meet these expectation can lead to dismissal from the program.
+
+\hypertarget{departmental-warning-of-probation}{%
+\subsection{Departmental Warning of Probation}\label{departmental-warning-of-probation}}
+
+At the discretion of the linguistics faculty, a student can be placed on \emph{departmental warning of academic probation} if the student is deemed to be making insufficient progress or if the student's semester GPA is less than 3.5 in linguistics courses or other courses required for the degree.
+
+Departmental warning of academic probation is imposed for one semester. The student will be told what the conditions are for removal of this status. At the end of the `warning' semester, the faculty may take one of three actions:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  remove the academic warning if all conditions have been met,
+\item
+  continue the academic warning, in which case the department will again specify the conditions for its removal. In this case, the department may withhold departmental funding, since this constitutes less than acceptable progress -- a condition for departmental funding.
+  or
+\item
+  Recommend formal academic probation by Graduate Division.
+\end{enumerate}
+
+\hypertarget{academic-probation}{%
+\subsection{Academic Probation}\label{academic-probation}}
+
+The Graduate Division will place a student on academic probation at the beginning of their 7th year. See the official \href{http://manoa.hawaii.edu/graduate/content/disciplinary-actions}{probation policy}. A student on probation who fails to meet the minimum required academic standards at the end of the probationary semester will be dismissed. c
+
+Note that according to Graduate Division, ``A student may be placed on academic probation only once. A student who has already been on probation will be dismissed, if he or she again fails to meet the minimum required academic standards in any subsequent semester.''
+
+In addition, students on probation are not eligible for departmental funding.
+
+\hypertarget{leave-of-absence}{%
+\section{Leave of Absence}\label{leave-of-absence}}
+
+Unless a Leave of Absence has been approved in advance, a student who fails to maintain continuous enrollment (excluding summer session) is considered to have withdrawn from the university. If you wish to take a leave of absence, you must \href{https://manoa.hawaii.edu/graduate/leave-of-absence/}{petition to do so through Graduate Division}. Students must be in good academic standing in order to apply for a leave of absence.
+
+You are allowed up to one year of leave. You may take one additional year of leave for maternity or to care for an ill family member. Time on approved leave is not counted against time allowed for the completion of graduate programs. Students on approved leave do not pay tuition or fees.
+
+Students who must maintain full-time enrollment due to their status as international students, guaranteed loan recipients, East-West Center grantees, or veterans need to obtain approval from the appropriate office(s) before requesting approval from the department's Graduate Chair. Once all signatures have been collected, the department office will deliver the Petition for Leave of Absence form to the Graduate Records Office for final approval.
+
+A leave of absence is not intended to be used solely for the purpose of extending the time to degree. Students on leave do not have access to regular departmental services. In particular, students on leave cannot schedule Qualifying Paper consultations, prospectus defenses, or dissertation defenses.
+
+\hypertarget{funding}{%
+\chapter{Funding}\label{funding}}
+
+\hypertarget{departmental-funding}{%
+\section{Departmental Funding}\label{departmental-funding}}
+
+Our primary form of funding for MA students is an \textbf{Achievement Scholarship} known as a tuition waiver. In order to be eligible for this, you need to be registered for a minimum of eight (8) credits in the Department of Linguistics.
+
+Our primary form of funding for PhD students consists of a \textbf{Graduate Assistantship}. A student receiving a GAship needs to register for at least six (6) credits.
+
+Courses counting toward the minimum registration requirement must be wthin the Department of Linguistics, though exceptions may be approved by the graduate chair in cases where courses outside the department are an integral part of the student's program.
+
+Information about Graduate Assistantships and Achievement Scholarships can be found on the \href{http://ling.hawaii.edu/degree-programs/funding/}{department website}.
+
+Towards the end of each semester, the Graduate Chair will distribute a funding report form which all continuing students are required to complete and return by the stated deadline. This form asks for your funding request, eligibility for department tuition support, and other information relevant to assigning financial support for the next semester. Filling out this report is obligatory for all students, and especially important for those seeking (or expecting) financial support from the department. Meeting with your advisor is not required, but you can meet with the Graduate Chair if you need help to complete the form.
+
+\hypertarget{bilinski}{%
+\section{Bilinski}\label{bilinski}}
+
+The \href{http://ling.hawaii.edu/degree-programs/funding/bilinski/}{Bilinski Fellowship} provides two types of awards for PhD students:
+
+\begin{itemize}
+\item
+  The \textbf{Bilinski Dissertation Fellowship} provides \$15,000 per semester for up to three semesters to support ABD student during the dissertation writing phase of their studies.
+\item
+  The \textbf{Bilinski Pre-Dissertation Research Award} provides up to \$5000 to support data collection and fieldwork.
+\end{itemize}
+
+Applicants must meet US Citizenship/Residency requirements. More details on the Bilinski awards, and how to apply can be found \href{http://ling.hawaii.edu/degree-programs/funding/bilinski/}{here}.
+
+\hypertarget{conference-travel-awards}{%
+\section{Conference Travel Awards}\label{conference-travel-awards}}
+
+Occasionally the department makes funds available to support conference travel. Funds are made available retroactively, with applications due in January to fund travel over the previous calendar year. The Graduate Chair will announce the opening of the application at the end of Fall semester.
+
+\hypertarget{gso-grants-and-awards}{%
+\section{GSO Grants and Awards}\label{gso-grants-and-awards}}
+
+The \href{https://uhmgso.wixsite.com/website-1/grants-and-awards}{Graduate Student Organization} (GSO) offers grants and awards to members to support conference travel, professional development and research expenses. Applicants may request up to \$1000 for domestic projects and \$2000 for international projects, and funding is in the form of reimbursement. Applications are reviewed monthly. For more information speak to your \href{http://ling.hawaii.edu/activities/lsm/}{GSO representative} prior to submitting application. Apply \href{https://form.jotform.com/gsogrant/gso-ga-application-title-page}{here}.
+
+\hypertarget{east-west-center}{%
+\section{East-West Center}\label{east-west-center}}
+
+The East-West Center is a federally funded institution co-located on the Mānoa campus, which promotes better relations and understanding among the people and nations of the United States, Asia, and the Pacific through cooperative study, research, and dialogue. Some MA students may qualify for an East-West Center
+\href{https://www.eastwestcenter.org/education/ewc-graduate-degree-fellowship}{Graduate Degree Fellowship}.
+
+The graduate degree fellowship covers the cost of general tuition and fees for UHM graduate programs, books, housing in an East-West Center dormitory, and partial funding toward meals, health insurance, and incidental expenses. Funding for field study and conference presentations is offered on a competitive basis during the fellow's period of study.
+
+The East-West Center Graduate Degree Fellowship invites applications from:
+
+\begin{itemize}
+\tightlist
+\item
+  Citizens or permanent residents of the United States
+\item
+  Citizens of countries in the Pacific and Asia, including Russia
+\end{itemize}
+
+Priority in the student selection process is given to applicants with a demonstrated commitment to the Asia Pacific region.
+
+\hypertarget{extramural-funding}{%
+\section{Extramural Funding}\label{extramural-funding}}
+
+Occasionally faculty may bring in extra funding for GAships, above and beyond the department's normal GA allotment. These GAships could be full or half positions based on the needs of the position. Credit requirements for all GAships (i.e., department/extra funding and full/half positions) are the same as described above.
+
+Students may also seek funding from outside sources to support dissertation research. Two common sources include NSF and ELDP.
+
+\hypertarget{nsf-dissertation-awards}{%
+\subsection{NSF Dissertation Awards}\label{nsf-dissertation-awards}}
+
+National Science Foundation Dynamic Language Infrastructure---Doctoral Dissertation Research Improvement Grants (\href{https://beta.nsf.gov/funding/opportunities/dynamic-language-infrastructure-doctoral}{DLI-DDRI})
+
+\begin{quote}
+This award supports doctoral research that digitally records and documents languages---with an emphasis on endangered languages---through the preparation of lexicons, grammars, text samples and databases, advancing linguistic theory and the study of language. The maximum award amount is \$15,000 in direct costs.
+\end{quote}
+
+Proposals deadlines are February 15 and September 15, annually. Students apply as co-PI, with their advisor as PI.
+
+\hypertarget{eldp-small-grants}{%
+\subsection{ELDP Small Grants}\label{eldp-small-grants}}
+
+The \href{http://eldp.net}{Endangered Languages Documentation Project} (ELDP) provides a number of grants, including Small Grants of up to €10,000 to support field work.
+
+\begin{quote}
+ELDP supports the creation of documentary corpora: collections of materials such as digital video and audio recordings, texts of various kinds. ELDP does not support purely theoretical work or work focused solely on revitalization/maintenance.
+\end{quote}
+
+Students apply as the PI, but their advisor should serve as a referee.
+
+\hypertarget{additional-requirements}{%
+\chapter{Additional Requirements}\label{additional-requirements}}
+
+\hypertarget{language-requirement}{%
+\section{Language Requirement}\label{language-requirement}}
+
+All graduate students must demonstrate competence in one language other than their native language. PhD students must complete this requirement before advancing to candidacy (i.e., before the dissertation proposal defense).
+
+You can demonstrate your language competence in one of three ways:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Pass a reading/translation test.
+\item
+  Pass a fourth semester language course (e.g., Japanese 202) with a grade of at least B. Courses taken at another university, if you provide transcripts, can fulfill this requirement.
+\item
+  Take a placement test to demonstrate comparable knowledge.
+\end{enumerate}
+
+\textbf{Please note the following:}
+
+\begin{itemize}
+\tightlist
+\item
+  You may use English to satisfy the language requirement if it is not your native tongue; certification by the English Language Institute that you are exempt from ELI courses suffices to establish knowledge of English for this purpose. See the department secretary if you qualify to use English to meet your language requirement.
+\item
+  Samples of the reading/translation tests administered by the Department of Linguistics are available to check-out from the department office.
+\item
+  For French, German, Russian and Spanish, students may opt for the Graduate School Foreign Language Tests (GSFLT), provided they pay the exam fee.
+\item
+  Placement tests in languages taught at the University of Hawai'i are usually scheduled just prior to the beginning of the semester. Consult the relevant language department for information.
+\end{itemize}
+
+\hypertarget{archiving}{%
+\section{Archiving Fieldwork Data}\label{archiving}}
+
+Students whose thesis or dissertations are based on data collected during the course of their own fieldwork are required to properly archive their data in an appropriate language archive in order to ensure the longevity of the data. Students will develop an archiving plan early and will include a description of this plan in the \protect\hyperlink{dissertation-proposal}{Dissertation Proposal} (or combined Proposal/Prospectus). Data can be archived with one of the following repositories, or with another archive approved by your advisor.
+
+\begin{itemize}
+\tightlist
+\item
+  \href{https://hdl.handle.net/10125/4250}{Kaipuleohone}, the University of Hawai'i Digital Language Archive
+\item
+  another \href{http://www.delaman.org}{DELAMAN} archive
+\item
+  \href{http://zenodo.org}{Zenodo}
+\item
+  \href{https://trolling.uit.no/}{TROLLing}
+\end{itemize}
+
+For students archiving their data in Kaipuleohone, the archiving plan should be developed in consultation with the current archive director. All students will be required to submit proof of deposit in writing from the archive director to the committee before the dissertation can be approved.
+
+In addition, each student is required to cite data in the thesis or dissertation coming from his or her own archived materials via a persistent identifier URL to the source file in the archive. The exact format of the citation and the level of granularity (e.g., timecode in an audio file; collection of files; dataset; etc.) can be developed in consultation with the dissertation advisor, and should reflect the best practices in the student's linguistic subfield. See the \href{https://site.uit.no/linguisticsdatacitation/}{Austin Principles of Data Citation in Linguistics} for more information.
+
+\hypertarget{writing}{%
+\section{Adequate Writing Skills}\label{writing}}
+
+Adequate writing skills are crucial to the completion of the PhD degree. Students must be able to present their ideas in writing in a manner that meets the standards of professional journals in the field of study.
+
+Criteria for successful academic writing include the following:
+
+\begin{itemize}
+\tightlist
+\item
+  The student is able to organize her/his thoughts in a logical and coherent way.
+\item
+  The main goal is clearly stated at the beginning and returned to at the end.
+\item
+  Claims are clearly stated and explained.
+\item
+  There are clear subsections (e.g.~introduction. background, data, results, discussion and conclusions).
+\item
+  Technical terms are defined appropriately for the intended audience
+\item
+  Every generalization is supported by evidence.
+\item
+  Adequate and relevant examples are given.
+\item
+  Adequate references are given.
+\item
+  Concluding statements follow clearly from what has been presented.
+\item
+  The document has been spell-checked.
+\item
+  The documebnt is written in grammatical English.
+\end{itemize}
+
+Students' writing skills are discussed by the faculty in the annual student review. While there is no formal writing requirement, students whose writing skills are deemed inadequate may be required to enroll in a writing course from the following list.
+
+\begin{table}
+
+\caption{\label{tab:unnamed-chunk-2}Writing Courses}
+\centering
+\begin{tabular}[t]{lll}
+\toprule
+Number & Title & Description\\
+\midrule
+English 100 & Composition I & Introduction to the rhetorical, conceptual, and stylistic demands of writing at the university level; instruction in composing process, search strategies, and writing from sources.\\
+English 101 + 101L & Composition I + Writing Lab & Introduction to the rhetorical, conceptual, and stylistic demands of writing at the university level; instruction in composing process, search strategies, and writing from sources. Supplemental tutorial lab required: intensive individual instruction in writing at the university level.\\
+English 197 & Introduction to College Writing & Prepares students to take Composition I.\\
+English 200 & Composition II & Further study of rhetorical, conceptual, and stylistic demands of writing; instruction develops the writing and research skills covered in Composition I. Pre: 100, 100A, 101/101L, or ELI 100.\\
+English 308 & Technical Writing & Combined lecture/lab preparing students to write about technical subjects for specialists and laypersons. Introduces theory of technical communication and document design and teaches students to make use of relevant technology. A-F only. Pre: 100, 100A, 101/101L or ELI 100.\\
+\addlinespace
+ELI 073 & Writing for Foreign Students & Extensive practice in expository writing. Analysis and use of rhetorical devices. Individual conferences and tutoring as required.\\
+ELI 083 & Writing for Foreign Graduate Students & Individual instruction in specific writing problems: term papers, reports, projects. Foreign graduate students only except by permission. Pre: 073 or placement by examination.\\
+ELI 100 & Expository Writing: A Guided Approach & Extensive practice in writing expository essays; linguistic devices that make an essay effective.\\
+Outreach & Academic writing & New Intensive Course in English (NICE)\\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\hypertarget{IRB}{%
+\chapter{Research Approval}\label{IRB}}
+
+Research involving human subjects---including much linguistics research---requires approval from the university Institutional Review Board. Though designed to protect research participants and ensure ethical research practices, the IRB approval process can feel onerous and opaque to the uninitiated. Much of the process was originally motivated by the need to protect participants in biomedical research and can thus seem awkward when applied to linguistic research, particularly field work. For example, the emphasis on maintaining anonymity may be antithetical to best practices in language documentation and the moral obligation to give appropriate acknowledgement to speakers. Some of these larger issues are discussed in by \href{https://www.jstor.org/stable/40961721}{Bowern (2010)}. The guidelines below are intended to help guide your through the process.
+
+There are three types of review processes:
+
+\begin{itemize}
+\tightlist
+\item
+  Exempt
+\item
+  Expedited
+\item
+  Full Board Review
+\end{itemize}
+
+Most linguistics research falls into either the \texttt{Exempt} or \texttt{Expedited} review categories. It is important to understand that in this context exempt does not mean exempt from review but rather exempt from review by the \emph{full board}. Exempt and expedited applications still go through a review process, but the process is more streamlined and typically much faster. Generally, the exempt category is for research using anonymized data, while the expedited category is for research which includes identifying information (e.g., video recordings or transcripts attributed to a particular speaker). This \href{docs/irb_flowchart.pdf}{flowchart} may be helpful in determining the appropriate review category.
+
+IRB applications can submitted using \href{https://uhmanoa.keyusa.net/}{UH eProtocol}.
+
+Sample copies of approved IRB protocols are available from the department office. Consult the \href{http://ling.hawaii.edu/research-current/publications/dissertations/}{list of recent dissertations} to identify relevant research topics.
+
+\hypertarget{irb-application}{%
+\section{IRB Application}\label{irb-application}}
+
+\hypertarget{title-and-personnel}{%
+\subsection{Title and Personnel}\label{title-and-personnel}}
+
+Enter the study title (you can edit later if necessary) and click Create. Check the box indicating that this is student research.
+
+For student research, a UH faculty member must serve as the Principal Investigator (PI). This person may be your faculty advisor, or for grant-funded research it may be the PI for the grant project. You will work closely with this person during the IRB application process. The student is listed on the application under Other Investigator(s).
+
+\hypertarget{subject-checklist}{%
+\subsection{Subject Checklist}\label{subject-checklist}}
+
+Select all populations \emph{specifically targeted} for this study. Note that this is not the same as all populations included in the study. For many studies it will be sufficient to check the Adult Volunteers box, though work with child language would obviously require you to check the Children box. At least one box must be checked.
+
+\hypertarget{study-location}{%
+\subsection{Study Location}\label{study-location}}
+
+Indicate study location. Also click the two ``No'' boxes at the bottom of the page to indicate that this application is not being submitted to another IRB and is not a multi-site proposal.
+
+\hypertarget{general-checklist}{%
+\subsection{General Checklist}\label{general-checklist}}
+
+For linguistics research you will generally select \texttt{Interview} and/or \texttt{Questionnaire/Survey} under Section 3: Methodologies.
+
+If the research is related to a thesis/dissertation or a class project, check the appropriate box in Section 4.
+
+\hypertarget{funding-1}{%
+\subsection{Funding}\label{funding-1}}
+
+Indicate the source of funding, if any, for the project. Your advisor or PI can assist with this information.
+
+\hypertarget{protocol-information}{%
+\subsection{Protocol Information}\label{protocol-information}}
+
+The is the main section of the application, and the are a number of subsections. Begin by selecting the review category (generally Exempt or Expedited). Next you must indicate the justification for Exempt or Expedited review.
+
+\begin{description}
+\item[For Exempt review, the relevant categories are:]
+3.~ii. RESEARCH INVOLVING BENIGN BEHAVIORAL INTERVENTIONS. Any disclosure of the subject's responses outside of the research could NOT reasonably place the subject at risk
+\item[or for research using existing data (e.g., archival corpora):]
+4.~i. EXISTING DATA. The identifiable private information or identifiable biospecimens are publicly available
+\item[For Expedited review, the following categories are relevant:]
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{5}
+\tightlist
+\item[]
+\item
+  Collection of data from voice, video, digital, or image recordings made for research purposes
+\item
+  Research on individual or group characteristics or behavior
+\end{enumerate}
+\end{description}
+
+The main content of the application is entered in several boxes under \textbf{Summary, Purpose, Procedures}.
+
+You will need to provide two important attachments:
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Recruitment Script}, which explains the project to potential participants
+\item
+  \textbf{Consent Form}, which explains the risks and benefits of the project and asks participants to give their consent to participate and also explains how to withdraw from the study or report problems
+\end{itemize}
+
+Note that consent may be collected orally via recording, but a written consent form is is still needed. Also, if the participants are not fluent in English, then these documents must be supplied in a language accessible to the participants, in addition to English. Sample \href{https://research.hawaii.edu/orc/human-studies/forms/\#templates}{consent forms} can be downloaded from the IRB website and are also available from the Linguistics department office.
+
+\hypertarget{submit}{%
+\subsection{Submit}\label{submit}}
+
+Once the form is complete, ask your advisor or PI to review prior to submitting.
+
+\hypertarget{revisions}{%
+\subsection{Revisions}\label{revisions}}
+
+If there is an error in your application or some section is deemed unacceptable, you will receive notification that the protocol has been returned. In this case you can log on to eProtocol and view the Return Notes, which indicate required changes which will need to be made before re-submitting your application.
+
+\hypertarget{ethics-training}{%
+\section{Ethics Training}\label{ethics-training}}
+
+Approval of an IRB application requires that you also complete training in research ethics and compliance. This training is administered online through the \href{https://about.citiprogram.org}{CITI Program}. In order to ensure that your CITI training courses are appropriately linked with UH, you need to register using an organizational affiliation, selecting \texttt{University\ of\ Hawaii\ (SSO)} from the dropdown list of organizations. (Do not register as an \texttt{Independent\ Learner}.)
+
+The courses required for your application will depend on the review category. However, the non-exempt courses can be used to fulfill the requirement for exempt applications, but not the other way around. Thus, it is recommended that you complete the non-exempt courses to avoid having to complete additional training later. The relevant courses are:
+
+\begin{itemize}
+\tightlist
+\item
+  Non-Exempt Social \& Behavioral Sciences Researchers and Key Personnel
+\item
+  Non-Exempt Social \& Behavioral Sciences Researchers and Key Personnel IPS
+\end{itemize}
+
+If these courses don't show up when you log in, you can add them by choosing \texttt{Add\ a\ Course}, then \texttt{Human\ Subjects\ Research}.
+
+The training involves a series of readings and videos followed by set of quiz questions for each module. It's not difficult, but it can be time-consuming. So don't wait until the last minute to complete your CITI training. The training is independent of your particular research project and so can (and should!) be completed in advance of your IRB application. Once completed, your training is valid for one year. Your completion certificate should link automatically to your eProtocol account; however, it is good practice to download the training completion certificate from CITI, in case you later need to upload that to your IRB application.
+
+\hypertarget{forms}{%
+\chapter{Forms and Downloads}\label{forms}}
+
+\textbf{Departmental Forms}
+
+\begin{itemize}
+\tightlist
+\item
+  \href{docs/MA_PlanA_advising.pdf}{Masters Plan A (thesis) Advising Record}
+\item
+  \href{docs/MA_PlanB_advising.pdf}{Masters Plan B (non-thesis) Advising Record}
+\item
+  \href{docs/MA_progress_list.pdf}{Masters Progress List}
+\item
+  \href{docs/PhD_advising.pdf}{PhD Advising Record}
+\item
+  \href{docs/PhD_progress_list.pdf}{PhD Progress List}
+\end{itemize}
+
+\textbf{UHM Graduate Division Forms}
+
+All Graduate Division forms are now handled electronically via \href{https://manoa.hawaii.edu/graduate/kuali-build-forms/}{Kuali Build}.
+
+\textbf{Previous Graduate Manuals}
+
+\begin{itemize}
+\tightlist
+\item
+  \href{docs/MA-Manual-FINAL-October-2019.pdf}{MA Manual} (Oct 2019)
+\item
+  \href{docs/PhD-Manual-FINAL-October-2019}{PhD Manual} (Oct 2019)
+\end{itemize}
+
+\hypertarget{part-ma-program}{%
+\part*{MA Program}\label{part-ma-program}}
+\addcontentsline{toc}{part}{MA Program}
+
+\hypertarget{maprogram}{%
+\chapter{Masters Plan A (thesis)}\label{maprogram}}
+
+Two plans of study lead to the MA degree, a thesis option (Plan A) and a non-thesis option (Plan B). The vast majority of students enrolled in the MA program opt for Plan B, especially if they intend to continue into a PhD program. Plan A requires a thesis, 30 credit hours, and a final oral examination covering the thesis and related areas.
+
+\hypertarget{course-requirements}{%
+\section{Course Requirements}\label{course-requirements}}
+
+All students in Plan A (Thesis) must complete a minimum of 30 credit hours of which 21 hours consist of course work for a grade (not CR/NCR or Audit) and 9 credit hours of thesis research (LING 700), allocated as follows:
+
+\begin{itemize}
+\tightlist
+\item
+  four courses from the Core List (up to 12 credits, depending on exemptions)
+\item
+  four additional graduate-level courses, including at least one 700-level seminar (12 credits)
+\item
+  nine credit hours of LING 700: Thesis Research (9 credits)
+\end{itemize}
+
+Plan A Core Courses (choose 4)
+
+\begin{itemize}
+\tightlist
+\item
+  LING 410: Articulatory Phonetics
+\item
+  LING 420: Morphology
+\item
+  LING 421: Introduction to Phonological Analysis
+\item
+  LING 422: Introduction to Grammatical Analysis
+\item
+  LING 645: The Comparative Method
+\end{itemize}
+
+Important Notes:
+
+\begin{itemize}
+\tightlist
+\item
+  Students who are not exempted from any of the Core courses will need to earn more than 30 credit hours to complete these requirements (24 credit hours of course work and nine hours of LING 700: Thesis Research).
+\item
+  LING 750G Professional Development (ICLDC Prep Course) may be taken multiple times, but will only be counted once towards the degree. Furthermore, if used towards the MA degree, LING 750G (even if taken in a subsequent year) may not be used later towards satisfaction of any PhD degree requirement.
+\end{itemize}
+
+\hypertarget{thesis-requirement}{%
+\section{Thesis Requirement}\label{thesis-requirement}}
+
+Your thesis will be supervised by your MA thesis committee, consisting of three \href{http://manoa.hawaii.edu/graduate/content/select-committee-member}{Graduate Faculty members}, two of whom must be from the Department of Linguistics section of the university catalog.
+
+You must develop a written proposal outlining your intended research project. You then meet with your committee to defend your proposal and to discuss any issues that it raises.
+
+\hypertarget{additional-information}{%
+\subsection{Additional Information}\label{additional-information}}
+
+\begin{itemize}
+\item
+  You should consult with the Graduate Chair before forming your committee. The Graduate Chair will ask you about your preferences and advise you on the availability of various faculty members to serve on your committee.
+\item
+  After your committee has been approved by the Graduate Chair, the departmental secretary will give you a form to be signed by each faculty member who agrees to serve on your committee. Most students get this form signed at their preliminary committee meeting.
+\item
+  Individual faculty members vary considerably in terms of what they expect in a thesis proposal. (Some look for only a skeletal outline of the research project, while others require a considerably more detailed prospectus.) Be sure to consult your committee chair about his/her expectations.
+\item
+  Once your thesis proposal has been approved by your committee, you must submit an approved copy (with your committee chair's signature on the first page acknowledging that all revisions have been made) to the department office no later than the end of the semester following your proposal defense. This copy will be available to all faculty and MA students in the Linguistics Department.
+\item
+  The department office will also need a copy of your IRB human subjects' approval/exemption. Submit this to the department office shortly after your proposal defense so it can be submitted with a form to Graduate Division for processing.
+\item
+  Once you have completed nine credits of LING 700 you can petition Graduate Division to register for one credit of GRAD 700F (this is considered full-time status by Graduate Division).
+\end{itemize}
+
+When writing your Thesis, be sure to follow Graduate Division's \href{https://manoa.hawaii.edu/graduate/style-policy/}{Style \& Policy Manual for Theses and Dissertations}.
+
+Be sure to consult the University Catalog and the departmental bulletin boards for deadlines involving graduation dates. You must submit a degree application by the specified deadline and pay the required fee.
+
+If you are not a particularly accomplished writer or if English is not your native language, it would be wise to seek help in editing and proofreading your thesis draft before submitting it to your committee. (Note: Passing the ELI exam does not necessarily indicate sufficient proficiency to produce a stylistically acceptable thesis.)
+
+Your committee chair will let you know when your thesis draft is nearly ready to distribute to your committee. At this point you and your chair should agree upon a timeline, keeping in mind the following three deadlines.
+
+\begin{itemize}
+\tightlist
+\item
+  Your committee should receive your thesis at least four weeks prior to your proposed defense date. (Some flexibility in this deadline may be permitted if there is a consensus among the committee members.)
+\item
+  Your defense must be held at least two weeks prior to Graduate Division's deadline for submission of the final version. Check with the department office for that deadline.
+\item
+  At least 15 calendar days prior to your defense date, you must submit the department's form ``Final Oral Examination for Master's Thesis Defense'', signed by your chair. Should your committee determine that the thesis is not defendable, the defense may be cancelled.
+\end{itemize}
+
+A PDF version of your thesis must be submitted to the department office at least two weeks before the defense. The title page should contain a clear indication that this is a \emph{pre-defense draft}.
+
+You must be registered for one credit of LING 700 or GRAD 700F in the semester in which you graduate.
+
+Once all revisions have been made and your committee chair gives final approval to your thesis, ask your chair to notify the department office. Submit \href{https://manoa.hawaii.edu/graduate/forms/}{Master's Plan A Form 4 -- Thesis Submission} to the Graduate Division. Submit your thesis electronically using \href{https://manoa.hawaii.edu/graduate/proquest-etd-submission-publication/}{Proquest ETD}. Check with the department office for the deadline for submitting your thesis. The deadline is usually several weeks prior to the end of the semester. A PDF version of the final approved version of your thesis must be also submitted to the department office. Check with the department office for the deadline for submitting your PDF to the department office.
+
+\hypertarget{masters-plan-b-non-thesis}{%
+\chapter{Masters Plan B (non-thesis)}\label{masters-plan-b-non-thesis}}
+
+Plan B requires a minimum of 30 credit hours of course work plus a final project.
+
+You may choose between three ``streams'': {[}Linguistic Analysis{]}, {[}Experimental Linguistics{]}, and {[}Language Documentation and Conservation{]}. The requirements for each stream follow.\#\#\# Course Requirements
+All students in Plan B (non-thesis) must complete 30 credit hours of course work for a letter grade (not CR/NCR or Audit), of which 18 hours must be at the 600-level or above, including a 3-credit 700-level seminar.
+
+LING 630: Field Methods is an important class for your training, and you are strongly encouraged to take both semesters of Ling 630. The first semester is considered a core requirement, and the second is considered a regular LDC course. However, the two courses are designed as a sequence, and you will gain the most from taking both courses in sequence.
+
+LING 750G Professional Development (ICLDC Prep Course) may be taken multiple times, but will only be counted once towards the degree. Furthermore, if used towards the MA degree, LING 750G (even if taken in a subsequent year) may not be used later towards satisfaction of any PhD degree requirement.
+
+\hypertarget{linguistic-analysis-stream}{%
+\section{Linguistic Analysis Stream}\label{linguistic-analysis-stream}}
+
+10 courses which include:
+
+\begin{itemize}
+\tightlist
+\item
+  five courses from the Analysis Core (15 credits)
+\item
+  four courses (12 credits) approved by your advisor, but not including 699
+\item
+  one 700-level seminar (3 credits)
+\end{itemize}
+
+Analysis Core (all 5 required)
+
+\begin{itemize}
+\tightlist
+\item
+  LING 410: Articulatory Phonetics
+\item
+  LING 420: Morphology
+\item
+  LING 421: Introduction to Phonological Analysis
+\item
+  LING 422: Introduction to Grammatical Analysis
+\item
+  LING 645: The Comparative Method
+\end{itemize}
+
+\hypertarget{experimental-linguistics-stream}{%
+\section{Experimental Linguistics Stream}\label{experimental-linguistics-stream}}
+
+10 courses which include:
+
+\begin{itemize}
+\tightlist
+\item
+  four courses from the Experimental Core (12 credits)
+\item
+  two Experimental courses (6 credits)
+\item
+  one Data Analysis course (3 credits)
+\item
+  two more courses approved by your advisor, but not 699 (6 credits)
+\item
+  one 700-level seminar (3 credits)
+\end{itemize}
+
+Experimental Core (choose 4)
+
+\begin{itemize}
+\tightlist
+\item
+  LING 410: Articulatory Phonetics
+\item
+  LING 420: Morphology
+\item
+  LING 421: Introduction to Phonological Analysis
+\item
+  LING 422: Introduction to Grammatical Analysis
+\item
+  LING 441: Meaning
+\item
+  LING 645: The Comparative Method
+\end{itemize}
+
+Experimental Courses (choose 2)
+
+\begin{itemize}
+\tightlist
+\item
+  LING 431: Computational Modeling
+\item
+  LING 640S: Sociolinguistics
+\item
+  LING 640Y: Psycholinguistics
+\item
+  LING 670: Developmental Linguistics
+\end{itemize}
+
+Data Analysis Courses (choose 1)
+
+\begin{itemize}
+\tightlist
+\item
+  LING 640G: Statistics in Linguistics
+\item
+  EDEP 429: Introductory Statistics
+\item
+  EDEP 601: Intro to Quantitative Methods
+\item
+  EDEP 605: Factor Analysis
+\item
+  EDEP 612: Statistical Power in Behavioral Research
+\item
+  SLS 490: Second Language Testing
+\item
+  SLS 671: Research in Language Testing
+\item
+  PSY 610: Introduction to Quantitative Methods
+\item
+  PSY 611: Design and Analysis of Psychological Experiments
+\end{itemize}
+
+\hypertarget{language-documentation-and-conservation-stream}{%
+\section{Language Documentation and Conservation Stream}\label{language-documentation-and-conservation-stream}}
+
+10 courses which include:
+
+\begin{itemize}
+\tightlist
+\item
+  seven courses from the LDC Core (21 credits)
+\item
+  two other LDC courses (6 credits)
+\item
+  one more LDC course or course approved by your advisor (excluding LING 699) (3 credits)
+\end{itemize}
+
+LDC Core (all 7 required)
+
+\begin{itemize}
+\tightlist
+\item
+  LING 410: Articulatory Phonetics
+\item
+  LING 420: Morphology
+\item
+  LING 421: Introduction to Phonological Analysis
+\item
+  LING 422: Introduction to Grammatical Analysis
+\item
+  LING 630: Field Methods (Fall semester)
+\item
+  LING 680: Introduction to Language Documentation
+\item
+  LING 710: Techniques of Language Documentation
+\end{itemize}
+
+LDC Courses (choose at least 2)
+
+\begin{itemize}
+\tightlist
+\item
+  LING 611: Acoustic \& Auditory Phonetics
+\item
+  LING 617: Language Acquisition and Revitalization
+\item
+  LING 630: Field Methods (consecutive Spring semester is strongly recommended)
+\item
+  LING 631: Language Data Processing
+\item
+  LING 632: Laboratory and Quantitative Research Methods
+\item
+  LING 640G: Polynesian Language Family
+\item
+  LING 640G: Language, Landscape and Space
+\item
+  LING 640S: Sociolinguistics
+\item
+  LING 640Y: Psycholinguistics
+\item
+  LING 645: Comparative Method
+\item
+  LING 661: Proto-Austronesian
+\item
+  LING 720: Typology
+\item
+  LING 750F: Phonetic Fieldwork on Endangered Languages
+\item
+  LING 750G: Lexicography
+\item
+  LING 750G: Methods of Language Conservation
+\item
+  LING 750G: Writing Grammars
+\item
+  LING 770: Areal Linguistics
+\item
+  IS 750: Topics in Biocultural Diversity and Conservation
+\end{itemize}
+
+\hypertarget{course-sequencing}{%
+\section{Course sequencing}\label{course-sequencing}}
+
+The expected class load is 3-4 courses per semester, depending on funding and other commitments.
+Due to the large number of required courses, it is important that LDC Stream students pay close attention to course sequencing in order to ensure timely graduation.
+
+\hypertarget{recommended-course-sequencing-for-ldc-students-admitted-in-fall-semester}{%
+\subsection{Recommended Course Sequencing for LDC Students Admitted in Fall Semester}\label{recommended-course-sequencing-for-ldc-students-admitted-in-fall-semester}}
+
+\textbf{Year One}
+
+\begin{itemize}
+\tightlist
+\item
+  Fall semester: LING 410, LING 422, LING 680
+\item
+  Spring semester: LING 420, LING 421, LING 710
+\end{itemize}
+
+\textbf{Year Two}
+Four additional courses, at least two of which must be selected from the LDC Courses, may be completed in consultation with your advisor. LING 630 (Field Methods) is taught in both the Fall and Spring semesters. You are required to take the first semester (Fall) of Ling 630; the second (Spring) semester is highly recommended. Ideally, you should take LING 750G (Methods of Language Conservation) concurrently with the second semester of LING 630, if it is offered.
+
+\hypertarget{recommended-course-sequencing-for-ldc-students-admitted-in-spring-semester}{%
+\subsection{Recommended Course Sequencing for LDC Students Admitted in Spring Semester}\label{recommended-course-sequencing-for-ldc-students-admitted-in-spring-semester}}
+
+\textbf{Year One}
+
+\begin{itemize}
+\tightlist
+\item
+  Spring semester: LING 410, LING 420 or 421, LING 710
+\item
+  Fall semester: LING 422, LING 680, LING 680
+\end{itemize}
+
+Spring semester admits should try to take as many preparatory classes as possible prior to their first semester of LING 630. Both 420 and 421 are recommended in the first semester, although students should speak to their advisor and the relevant LDC faculty about this.
+
+\textbf{Year Two}
+Four additional courses, at least two of which must be selected from the LDC Courses, may be completed in consultation with your advisor. LING 630 (Field Methods) is taught in both the Fall and Spring semesters. You are required to take the first semester (Fall) of Ling 630; the second (Spring) semester is highly recommended. Ideally, you should take LING 750G (Methods of Language Conservation) concurrently with the second semester of LING 630, if it is offered.
+
+\hypertarget{final-project}{%
+\section{Final Project}\label{final-project}}
+
+Plan B students must present a seminar on a linguistic topic to fulfill your final project requirement. The presentation should include a report on research you have conducted using methodology appropriate to the discipline. The topic, format, and venue of the seminar must be approved in advance by the Graduate Chair.
+
+Venues: Presentations can be made in any one of several forums including but not limited to:
+
+\begin{itemize}
+\tightlist
+\item
+  Departmental: Tuesday Seminar series, Austronesian Circle, Acquisition Group, Language Documentation Group, Psycholinguistics Interest Group (P.I.G.), Sociolinguistics Group;
+\item
+  University: LLL student conference, ESL/Linguistic student conference;
+\item
+  National or International conferences (e.g.~LSA): Conference announcements are posted on the wall between the department office and Moore 573 (see Conferences).
+\end{itemize}
+
+About two weeks before you plan to make your presentation, you need to pick up the necessary form from the departmental secretary. Fill out the form and return it to the secretary, who will pass it on to the Graduate Chair for approval. The departmental secretary will contact you once your form has been signed. You must then pick up the form from the department office and get the signature of a faculty member who attended your presentation to acknowledge that it was satisfactory.
+
+Many students base their seminar presentation on a research paper written in one of their courses, particularly their 700-level seminar; the research paper prepared for this course can make the basis of a fine oral presentation.
+
+The deadline to submit your approved seminar requirement form to the department office is three weeks prior to the last day of instruction.
+
+It is wise to plan well ahead if you want to schedule a Departmental Tuesday Seminar time for your presentation. (Spaces can fill quickly, especially near the end of a semester.)
+
+\hypertarget{masters-to-phd-transition}{%
+\chapter{Masters-to-PhD Transition}\label{masters-to-phd-transition}}
+
+This chapter provides information for current MA students seeking to apply to the PhD program at the UHM Department of Linguistics.
+
+\hypertarget{overview}{%
+\section{Overview}\label{overview}}
+
+Like other PhD programs around the country, we have a limited number of openings for our PhD program and must be highly selective in our admissions decisions. Current MA students are not guaranteed admission into the PhD program, but must get approval from the Admissions Committee through a process that is similar to, but not identical to, applying as an external applicant.
+
+Applying as an internal applicant -- that is, applying before your MA has been awarded -- has a few benefits over applying as an external applicant. The credits you have already earned will count toward your PhD, and the application process requires fewer documents; furthermore you will only need to pay the UH application fee if your application is successful. However, you will not earn your MA degree immediately, but can instead request the MA degree later, once you have advanced to doctoral candidacy (i.e.~achieved All-But-Dissertation status).
+
+\hypertarget{some-considerations}{%
+\section{Some considerations}\label{some-considerations}}
+
+Historically, we admit roughly 15\% of external applications, and 30\% of internal applications. The merit of each application - internal or external - is evaluated using the same criteria, with the strongest candidates selected from among all applications.
+
+We have developed a list of criteria for admission to our PhD program and some self-evaluation questions you should consider carefully if you are thinking about applying. You should ask yourself these questions on a regular basis, and if you are in doubt about your answers, you may not be ready to embark on a PhD.
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.2703}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.7297}}@{}}
+\toprule()
+\begin{minipage}[b]{\linewidth}\raggedright
+Criterion
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Self-evaluation questions
+\end{minipage} \\
+\midrule()
+\endhead
+A record of academic accomplishment as reflected in outstanding work in previous linguistics courses & Have any of my professors suggested I go on to PhD? How many? Have my grades been very strong? \\
+A match between the interests of the student and the strengths of the faculty & Does the Department currently have faculty who are willing and able to support the kind of research I hope to do? Has a particular professor expressed an interest in supervising my independent research? \\
+Analytic (problem-solving) skills & Have I demonstrated my skill at analyzing linguistic data and critically evaluating hypotheses proposed to explain the workings of language? \\
+Evidence of an ability to work independently and to think critically & Can I think critically and work independently with minimal direction? \\
+Writing ability & Can I express myself clearly in writing in single-authored papers? \\
+Oral communication & Do I speak out in class or in Tuesday Seminars, asking incisive questions and offering novel insights? \\
+Professional participation and departmental good-citizenship & Have I made any conference, seminar or reading group presentations? Have I shown myself to be a cooperative colleague through participation in departmental activities? Have I met with all the professors in the department? \\
+\bottomrule()
+\end{longtable}
+
+\hypertarget{application}{%
+\section{Application}\label{application}}
+
+Once you decide to apply, the first step is to submit the following documents to the Linguistics Department for review by the Admissions Committee:
+- A detailed Statement of Purpose describing your research interests and how you think you are qualified for PhD work in our department
+- A writing sample that best demonstrates your ability to communicate about linguistics in writing (e.g.~a successful term paper)
+
+Letters of reference are not necessary, nor are updated test scores and transcripts. In lieu of letters, the full faculty will be polled as to your suitability for transfer to the PhD program, with comments solicited and potential advisors sought. The Admissions Committee considers the results from this poll, as well as the Statement of Purpose, writing sample and any other information available to the committee.
+
+Deadlines: We accept applications for Spring transfer (deadline September 1st of the preceding year) and Fall transfer (deadline the preceding January 1st), although you are strongly advised to apply in the Fall semester (January 1st deadline). Furthermore, you are strongly advised to wait until your second year before applying. Any internal candidate who applies and is rejected is welcome to ask the Graduate Chair for advice on improving the application for a future round.
+
+\hypertarget{acceptance}{%
+\section{Acceptance}\label{acceptance}}
+
+Upon successful acceptance into the PhD program by the Admissions Committee, you must \href{http://www.apply.hawaii.edu}{apply to the Graduate Division} and select ``Change in Graduate Program.'' You will need to pay an application fee.
+
+Important Note: If you apply for graduation while you are in the MA program, you need to use the Application for Admission to a Doctorate in the Same Discipline. We therefore urge you not to apply for graduation until you know you are leaving UH for certain.
+
+A common scenario is the following: a student applies to the PhD program in December. The deadline to apply for graduation (from the MA program) is in February, but the student will not learn of the outcome of their application to the PhD program until March or April. The student therefore applies for graduation, just to be safe. If they are offered a position in the PhD program, they will now have to complete a full university application, since the university sees this student as having a terminal MA degree at the time of entrance into the PhD program. We therefore recommend that unless you are certain you will be leaving UH, that you not apply for graduation while an application to our PhD program is pending. If your application to the PhD program is unsuccessful, you may file a late petition for graduation. The only penalty for a late petition for graduation is that you will not have your name listed in the official graduation handbook.
+
+\hypertarget{part-phd-program}{%
+\part*{PhD Program}\label{part-phd-program}}
+\addcontentsline{toc}{part}{PhD Program}
+
+\hypertarget{phdprogram}{%
+\chapter{PhD Coursework}\label{phdprogram}}
+
+Coursework is the first stage of the PhD Program. Coursework leads directly to the \protect\hyperlink{qp}{Qualfiying Papers} requirement, which must be completed before the \protect\hyperlink{prospectus}{Prospectus} and \protect\hyperlink{dissertation}{Dissertation}.
+
+\includegraphics{gradhandbook_files/figure-latex/unnamed-chunk-3-1.pdf}
+
+All students in the PhD program are required to complete a minimum of 33 credit hours of course work at the University of Hawai'i \emph{beyond courses counted towards the MA degree}. This course work must include LING 621 (`Phonology'), LING 622 (`Grammar'), and two Methods courses.
+
+A student may be exempted from a 600-level course such as LING 621 and 622 with instructor approval. Such exemptions are granted only when it is clear that the student has taken a closely-overlapping course at another institution, and that the student still maintains control over the relevant material. In such cases, the student's 33 credit requirement is reduced by 3 credits (per exempted course).
+
+Students interested in experimental research are strongly advised to take one or more courses in statistical analysis (e.g.~LING 640G: Statistics in Linguistics, EDEP 429, SLS 490, SLS 671).
+
+LING 750G Professional Development (ICLDC Prep Course) may be taken multiple times, but will only be counted once towards a degree:
+
+\begin{enumerate}
+\def\labelenumi{\roman{enumi}.}
+\tightlist
+\item
+  the course will count for a maximum of 3 credits towards the PhD 33 credit requirement, and
+\item
+  if it is used to satisfy an MA degree requirement, subsequent LING 750G courses may not be used towards the PhD degree.
+\end{enumerate}
+
+Students who have not already taken or received a course exemption for the following `core' courses must take these courses \emph{in addition} to the 33 credit hours of course work required of PhD students.
+
+\begin{itemize}
+\tightlist
+\item
+  LING 410 Articulatory Phonetics
+\item
+  LING 420 Morphology
+\item
+  LING 421 Introduction to Phonological Analysis
+\item
+  LING 422 Introduction to Grammatical Analysis
+\item
+  LING 645 The Comparative Method
+\end{itemize}
+
+If you already have advanced coursework in linguistics, you may elect to seek a {[}Independent Study{]}.
+
+At the discretion of the department faculty or your advisor, you may be required to take \href{writing}{additional writing courses}. A description of adequate writing skills and a list of courses and their descriptions can be found under the Adequate Writing Skills section of this document. This information is also available to download from our department website at
+
+\hypertarget{breadth-requirement}{%
+\section{Breadth Requirement}\label{breadth-requirement}}
+
+In order to ensure that our graduates have sufficient breadth of knowledge, the department requires that each student have multiple areas of specialization. Within the 33 credit hours of course work, students must take at least three graduate-level courses in each of two distinct areas of linguistics. In addition, students are strongly encouraged to gain expertise in a third area of linguistics for the purpose of employment and further research opportunities.
+
+Various areas of linguistics are suitable, including one language area. Two-semester courses sequences will count as two courses. Graduate-level courses taken as an undergraduate or as an MA student and courses taken at other universities may count as part of a focus area, with approval from both the student's advisor and the Graduate Chair. Some 400-level courses may count as part of a focus area, with advisor approval. A maximum of three credits per area may be taken as 699, if the student requests and receives approval by the Graduate Chair in writing. At least two of the three classes in each focus area must be taken for a letter grade, with a minimum grade requirement of A-. If your third class is taken as credit/no credit, you must receive a grade of CR; if your third class is taken for a letter grade, you must receive a grade of C or better; you cannot audit this third course.
+
+The areas must be approved by your advisor. The advisor (in consultation with the Graduate Chair if necessary), will work to ensure that each area represents a coherent set of courses, and that the areas are sufficiently different and non-overlapping to satisfy the breadth requirement. You will need to consult early with your advisor regarding the suitability of the areas of courses you plan on.
+
+There will be courses that may be counted in one area or another, but no course can be counted more than once. Students should consult the instructor, their advisor, and the Graduate Chair about the area assignment of any course whose status is not obvious.
+
+\hypertarget{course-exemption}{%
+\section{Course Exemption}\label{course-exemption}}
+
+If you wish to seek exemption from any of the four core MA courses, you must meet with the faculty member in charge of exemption for the course on the Monday or Tuesday of the week prior to the first day of instruction. During this meeting you must provide the instructor with the syllabus from your prior course, and be prepared to discuss course content and possibly be quizzed on course materials. The instructor will then decide to
+
+\begin{itemize}
+\tightlist
+\item
+  exempt you from the class, or
+\item
+  not exempt you from the class, or
+\item
+  require you to take an exemption exam for the course (in this case a minimum passing grade is B (not B-)), or
+\item
+  require you to audit the entire class or a portion of the class; the instructor will inform you of requirements for a successful audit.
+\end{itemize}
+
+You must notify the Department secretary no later than August 1st (for Fall) and December 1st (for Spring). The secretary will coordinate a meeting with the faculty member in charge of the exemption.
+
+Exemption exams, if deemed required by the instructor, are held during the week prior to the first day of instruction and are scheduled in two hour blocks. If you are required to take one or more of these exams, you must notify the Department secretary immediately after your meeting with the faculty member in charge of the exemption which exam(s) you are going to take. The secretary will schedule your exemption exam(s). All exemption exams must be completed no later than Wednesday of the first week of classes. If you are required to take the exemption exam you should attend the course until your exam has been graded and an exemption has been granted.
+
+Instructors must provide exemption documentation or exam grades to the Graduate Chair and relevant students no later than the day before the last day to add classes. You may take any given exemption exam only once. Should you not pass an exam, you must take the relevant course at the first availability, i.e., the same semester if the course is offered (if not, the following semester).
+
+If you intend to seek exemption(s), you must make every effort to do so within the first year of your program.
+
+\hypertarget{directed-research-ling-699}{%
+\section{Directed Research (LING 699)}\label{directed-research-ling-699}}
+
+Once you have completed the required PhD coursework, you may register for a Directed Research course (LING 699). Directed Research allows a student to pursue research for a Qualifying Paper, Dissertation Proposal or other project---under the direction of an appropriate faculty member. Students wishing to register for LING 699 should discuss the possibility with the proposed instructor, recognizing that faculty members may not always be available for supervising these courses. If the faculty member agrees to supervise your directed research, complete a \href{docs/699form.pdf}{LING 699 Proposal}, including the following information:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  the scope of the proposed course, with references
+\item
+  the relation of the proposed research to your degree program and career goals
+\item
+  timetable of various components within the semester
+\item
+  a brief description of the final product(s) of the course (e.g., QP draft, proposal draft, etc.)
+\item
+  number of credits (maximum 6)
+\end{enumerate}
+
+Have your instructor sign the form and then submit the form to the department office. You will then be assigned a course registration number so that you can register for the course. It is best to discuss the proposed LING 699 during the registration period at the end of the previous semester, but the form can be completed during the first week of the term.
+
+\hypertarget{advising-record-and-annual-student-evaluation}{%
+\section{Advising Record and Annual Student Evaluation}\label{advising-record-and-annual-student-evaluation}}
+
+One tool to help you to track your progress towards your degree is your advising record. A copy of your latest record is placed in your student mailbox at the beginning of each Fall semester. Review it and inform the department office of any discrepancies so that they can be updated.
+
+All-but-Dissertation (ABD) students will not receive a copy of their advising record because these students have already completed all requirements except for your dissertation. A sample PhD Advising Record can be found in the {[}Forms{]} section of the handbook.
+
+At the end of each academic year, the Linguistics faculty holds its annual student evaluation meeting during which the progress of every student in the department is discussed. Your advisor will be provided with copies of your current advising record and a semester report of your grades. During the meeting your advising record is updated based on the completion of courses and degree requirements during the past academic year. Note is also made of exceptionally fast or slow progress.
+
+A student with unsatisfactory progress will be contacted by his/her advisor and/or the Grad Chair and may be put on warning of academic probation, or actually placed on probation. (See probation section for more information). The student will be required to acknowledge receipt of notification of this unsatisfactory progress by signing the Graduate Student Annual Progress Form.
+
+\hypertarget{qp}{%
+\chapter{PhD Qualifying Papers}\label{qp}}
+
+The PhD Comprehensive Exam requirement in the Department of Linguistics is fulfilled by the successful completion of two clearly and professionally written, single-authored papers, known as \texttt{Qualifying\ Papers} (QPs) in accordance with the procedures below. Successful QPs are those which are determined by the committee to be of high enough quality to be submitted to a professional publication. While it is not required that a QP be published prior to being approved, students must indicate a publication venue where they intend to submit the final, revised paper. In some cases the \protect\hyperlink{wp}{UHM Working Papers in Linguistics} may be an appropriate venue, particularly if you intend to publish a revised version of the QP with a co-author in another venue (see \protect\hyperlink{wp}{below}).
+
+A QP is not a thesis or a monograph. It is meant to be a relatively short (20-30 page) and focused journal article. Many QPs evolve out of class papers or projects, and students are urged to start writing QPs while still completing coursework. If you think a paper you are working on for a class might be appropriate for a QP, discuss with your instructor. Please don't wait until you have completed all your courses.
+
+A QP is essentially a supervised writing project, overseen by a Linguistics faculty member (``QP Chair'') and reviewed by an ad-hoc faculty subcommittee (``QP Committee''). You will meet regularly with your QP Chair during the QP writing process.
+
+The topics of your qualifying papers should be distinct both from each other and from your dissertation. In particular, a QP cannot serve as a chapter of your dissertation. Moreover, the chairs and committees for the two QPs must be entirely distinct. However, your PhD advisor may serve as chair of one of the QPs.
+
+The processes for first (QP1) and and second (QP2) papers are essentially the same, with these notable exceptions:
+
+\begin{itemize}
+\tightlist
+\item
+  The topic area of QP2 must be demonstrated to be distinct from QP1.
+\item
+  The QP2 committee must be entirely new: no one who served on the QP1 committee may serve on the QP2 committee.
+\end{itemize}
+
+The steps involved in completing a QP begin with the formation of a QP committee and proceed through several levels of review. These steps are outlined below and detailed in the following subsections.
+
+\includegraphics{gradhandbook_files/figure-latex/unnamed-chunk-4-1.pdf}
+
+\hypertarget{QP_committee}{%
+\section{Forming the QP committee}\label{QP_committee}}
+
+A QP committee has three members: A Chair, Reader 1, and Reader 2. No member of a student's QP1 committee can serve on that student's QP2 committee. Any faculty member who appears on the department's list of regular and cooperating faculty may be asked to Chair a QP committee.
+
+When a student is ready to form the QP1 committee, the student will seek consent from the desired Chair, and they will discuss both the topic of the QP and a target publication venue. The QP will be developed with this target venue in mind with regard to content and formatting.
+
+Once the Chair has agreed to serve, the student will contact the Graduate Chair to request the formation of the committee. The student must provide to the Graduate Chair:
+
+\begin{itemize}
+\tightlist
+\item
+  the name of the Chair
+\item
+  The tentative title of the QP
+\item
+  The target publication
+\item
+  QP number (QP1 or QP2)
+\end{itemize}
+
+In addition, if requesting a QP1 committee, indicate the Chair of other QP2 (if known)
+
+If requesting a QP2 committee, submit a brief (200 word maximum) justification explaining how QP2 is different from QP1.
+
+The area (field of interest) and the methodology of QP2 must be substantially different from the area and methodology of QP1. For example, it would be acceptable to write one QP on child language acquisition and the other on syntactic theory, and it would be acceptable to write one QP on the acquisition of scope and the other on the processing of passives, but it would not be acceptable to write one QP on the acquisition of scope and the other on the processing of scope.
+
+Before the Consultation meeting is scheduled, the QP2 Committee will decide whether the papers are different enough.
+
+Use \href{https://forms.gle/YNipJTdAiRSxnrHU8}{this form} to submit a QP committee request.
+
+The Readers are selected by the Graduate Chair. The student can request that a particular member of the faculty not be chosen as a Reader for QP1 so that that person can serve as the Chair of QP2.
+
+The Graduate Chair will assign the Readers and inform the student and committee so that the student can schedule the \protect\hyperlink{consultation}{Consultation} meeting.
+
+The roles of the two Readers differ. Reader 1 will participate in the entire QP procedure as outlined below. Reader 2 will participate in the Consultation, but will only read the paper in cases of a disagreement where the QP is rejected by one member of the committee (either the Chair or Reader 1) but not by the other, in Steps \ref{reader1} and \ref{synthesis}.
+
+\hypertarget{consultation}{%
+\section{Consultation}\label{consultation}}
+
+The Consultation is a scheduled meeting between the student and the full committee (the Chair and both Readers) to discuss the proposed paper.
+
+The student and Chair will decide the best procedure for the Consultation meeting, which may be a 20 minute presentation followed by questions, or it may be more informal (e.g., the student and committee discuss an outline of the proposed paper with preliminary results or the planned study).
+
+A project will pass the Consultation when the committee agrees that the topic and content are feasible for a QP, and that the target publication is appropriate. Projects that pass the Consultation move on to develop a \protect\hyperlink{workplan}{workplan}.
+
+If the project fails the Consultation, the student will revise the project and can schedule one more Consultation with the committee. Students are strongly encouraged to schedule a one-on-one meeting with their Readers and/or Chair during the revision process if the project fails the Consultation. If a project fails the second Consultation meeting with the committee, the entire QP immediately fails, and the student will need to start again with a new project.
+
+If at any point a QP fails, this constitutes failing one attempt at the Comprehensive Exam. According to \href{http://www.manoa.hawaii.edu/graduate/content/doctorate}{UHM Graduate Division policy}, students have two chances to pass the Comprehensive Exam. This means the second attempt at the failed QP, and the other QP, will need to proceed without further failures or the student may be dismissed from the program.
+
+\hypertarget{workplan}{%
+\section{Development of written Plan of Work}\label{workplan}}
+
+After the Consultation, the Chair and the student will develop a written Plan of Work, which is to be submitted to the Department Secretary for inclusion in the student's file. The Plan of Work may include, but is not limited to, one or more of the following:
+
+\begin{itemize}
+\tightlist
+\item
+  A writing schedule or calendar
+\item
+  The number of drafts the Chair will review before it is sent to Reader 1 (note that the Chair is not obligated to read drafts more than two times, but may do so at their discretion)
+\item
+  An outline of the paper
+\item
+  The maximum length for the paper
+\item
+  Any other details that the Chair or student wishes to include
+\end{itemize}
+
+Plan of Work forms can be obtained from the Department office. Adherence to the Plan of Work can later be modified if the Chair and student agree.
+
+\hypertarget{feedback}{%
+\section{Writing and feedback}\label{feedback}}
+
+Once the Plan of Work has been submitted to the department office, the student will proceed with writing and consulting with the Chair according to the Plan of Work.
+
+Significant changes incorporating the Chair's comments are expected with each revised draft.
+
+The Chair will determine when the paper is ready to share with Reader 1. It should be very close to finished, although sharing it with Reader 1 does not constitute ``approval'' of the QP by the Chair.
+
+\hypertarget{reader1}{%
+\section{Inclusion of Reader 1}\label{reader1}}
+
+If the paper differs from what was discussed at the Consultation, the student should also submit a document that outlines how the paper differs from the Consultation plan, and why those changes were made.
+
+The Chair (not the student) sends the paper to Reader 1. At this point the Chair is encouraged to communicate with Reader 1 about the paper as necessary (e.g., a general sense of the quality of the paper, any major issues that arose during the writing of the paper). The student is not included in these communications.
+
+Reader 1 provides feedback directly to the Chair. Reader 1 sends any comments or suggestions to the Chair and suggests one of the below:
+
+\begin{itemize}
+\tightlist
+\item
+  Approve (accepted by Reader 1 as-is)
+\item
+  Approve With Minor Revisions (Reader 1 has minor suggestions but doesn't need to see paper again)
+\item
+  Major revisions needed (Reader 1 wants substantial revisions)
+\item
+  Reject (Reader 1 determines this paper is unacceptable and unsalvageable)
+\end{itemize}
+
+Reader 1 can also supply feedback intended for the student, which the Chair will include, unedited, in their \protect\hyperlink{synthesis}{synthesis} of the chair and reader comments.
+
+\hypertarget{synthesis}{%
+\section{Synthesis of feedback to student}\label{synthesis}}
+
+Much like a journal editor, the Chair synthesizes their feedback with that of Reader 1 to make a determination about the QP. The Chair provides feedback to the student in the form of an editorial letter (cc'ing Reader 1), and must select one of the following:
+
+\begin{itemize}
+\tightlist
+\item
+  Approve
+\item
+  Approve with minor revisions
+\item
+  Revise and resubmit (major revisions)
+\item
+  Reject (the QP immediately fails)
+\end{itemize}
+
+If either the Chair or Reader 1 wants major revisions, they will to come to an agreement about which revisions are required for the QP to pass, and whether the final evaluation of the resubmission will be made by the Chair alone, or by both the Chair and the Reader. These decisions will be communicated to the student by the Chair in writing
+
+In the event that one member of the committee rejects the paper but the other does not, Reader 2 will be asked to read the paper and consult with the committee and the student in order to determine how the QP will be evaluated. Reader 2 can ask for revisions, to be completed in the \protect\hyperlink{revisions}{final revisions}. The decision of Reader 2 is final.
+
+\hypertarget{revisions}{%
+\section{Revision and resubmission}\label{revisions}}
+
+The student will undertake the revisions within a timeframe to be decided by the student and Chair. The student will then resubmit the revised paper to the Chair, along with a letter describing the changes that were made to the paper.
+
+The Chair then shares the revised paper and the letter with Reader 1 in cases where Reader 1 has agreed to read the revised manuscript.
+
+Reassessment reiterates the \protect\hyperlink{reader1}{review by Reader 1} and the \protect\hyperlink{synthesis}{synthesis of chair and reader comments}. Only one round of revisions is allowed before the QP either passes, fails, or in the event of a disagreement between the Chair and Reader 1, is given to Reader 2.
+
+If at any point Reviewer 2 is brought in adjudicate a disagreement between the Chair and Reader 1, one and only one further round of revisions is allowed.
+
+Once the revised QP is approved, the Chair will notify the department. The appropriate time to submit the manuscript to the target publication venue should be determined in consultation with the Chair.
+
+\hypertarget{wp}{%
+\section{Working Papers}\label{wp}}
+
+The \href{http://ling.hawaii.edu/research-current/publications/workingpapers/}{University of Hawai'i at Mānoa Working Papers in Linguistics} provides a venue for publishing student research, including reports on current work-in-progress. Working Papers are published electronically and accessible via the \href{https://hdl.handle.net/10125/42386}{ScholarSpace} repository. Publication in the Working Papers does not preclude later publication in another venue. For this reason the Working Papers may be an appropriate venue for publishing your QP, particulary if you intend to publish a revised version of the QP along with a co-author (e.g., another student or faculty member).
+
+Guidelines for preparing your paper for publication in the Working Papers are available in MS Word and Latex formats.
+
+\begin{itemize}
+\item
+  MS Word {[}\href{http://ling.hawaii.edu/wp-content/uploads/wp-guidelines-CURRENT-Dec2015.doc}{doc}{]}
+\item
+  Latex {[} \href{https://www.overleaf.com/read/vrzdjgmsxpxz}{Overleaf Template} \textbar{} \href{/docs/UHMWPL_latex.pdf}{PDF} {]}
+\end{itemize}
+
+If you intend to publish your QP in the Working Papers, contact the editor early in the QP process.
+
+\hypertarget{prospectus}{%
+\chapter{Dissertation Proposal and Prospectus}\label{prospectus}}
+
+In order to advance to candidacy, you must prepare and successfully defend a dissertation proposal and prospectus.
+The dissertation proposal is a requirement of Graduate Division, while the dissertation prospectus is a requirement of the Department of Linguistics. You can choose to submit and defend these separately, but the more time-efficient option is to combine the two milestones into one document and defense (see {[}Combining Proposal and Prospectus{]}.
+
+\hypertarget{dissertation-proposal}{%
+\section{Dissertation Proposal}\label{dissertation-proposal}}
+
+The dissertation proposal should include:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  a clear statement of the topic of the dissertation
+\item
+  a clear statement of the research questions to be investigated in the dissertation and why they are worth addressing (including a brief synopsis of the relevant literature)
+\item
+  a clear statement of the methodology to be employed for the investigation of those research questions
+\item
+  A data archiving plan (see \protect\hyperlink{archiving}{Archiving Fieldwork Data})
+\item
+  evidence of approval from the \protect\hyperlink{IRB}{Institutional Review Board} (IRB) to carry out research involving human subjects (if called for)
+\item
+  a tentative timetable for completion of the dissertation.
+\end{enumerate}
+
+In general, it is expected that a proposal will be from 5 to 10 pages in length (double spaced); once defended and approved by your dissertation committee, your proposal must be submitted to the department and will be available to other students in perpetuity.
+
+When you are preparing your dissertation proposal, it is time to enlist an `outside member' for your committee. (See \protect\hyperlink{forming-a-dissertation-committee}{Forming a Dissertation Committee} below) Your dissertation proposal must be approved at a defense attended by ALL members of your dissertation committee or their proxies, in accordance with Graduate Division Rules.
+
+Upon successful defense of the dissertation proposal, you are officially admitted to candidacy for the PhD degree and are considered to a ``PhD candidate.''
+
+\hypertarget{dissertation-prospectus}{%
+\section{Dissertation Prospectus}\label{dissertation-prospectus}}
+
+The dissertation prospectus fulfills the function of the former dissertation proposal, numerous examples of which are available from the department office. It should contain a DETAILED discussion of the research questions and research methods (including experiments, if appropriate) that will be pursued in the dissertation, a review of the relevant literature, and results from pilot studies. In general, a dissertation prospectus will be from 30 to 50 pages in length (double spaced); once defended and approved by your dissertation committee, the prospectus must be submitted to the department and will be in the public domain. You are encouraged to examine examples available in the department office.
+
+Your dissertation prospectus must be approved at a defense attended by members of your dissertation committee or their proxies. Because the prospectus is a departmental requirement rather than a Graduate Division requirement, the external member (University Representative) on your committee need not attend, if this meets with the approval of your committee chair.
+
+\hypertarget{forming-a-dissertation-committee}{%
+\section{Forming a Dissertation Committee}\label{forming-a-dissertation-committee}}
+
+Throughout the early years of the program, you should talk to as many faculty members as possible about your interests so that you can decide who would be the best members of your Dissertation Committee. Your committee, and especially your committee chair, will guide you through the preparation of your dissertation. Once you have a general topic in mind for your dissertation, ask faculty members if they are willing to be on your committee, and then let the department office know when you have a committee to propose.
+
+A dissertation committee must meet the following requirements:
+
+\begin{itemize}
+\tightlist
+\item
+  Must consist of at least five members, including the University Representative. (A committee usually contains no more than six members.) The initial advisory committee will have at least four.
+\item
+  At least two members must be faculty members in the Department of Linguistics.
+\item
+  At least one other member should either be a member of the department or a member of the department's {[} `linguist'---normally either from the Department of Linguistics or from the list of \href{http://ling.hawaii.edu/full-graduate-faculty-in-other-departments/}{Cooperating Faculty}. Occasionally, with the permission of the Graduate Chair and the Dean of Graduate Studies, a committee can include a faculty member at another university. This may be appropriate when the dissertation topic lies outside the areas of core expertise of UHM faculty.\\
+\item
+  The committee chair (principal advisor and dissertation supervisor) must be chosen a Department of Linguistics or, with the permission of the Graduate Chair, a member of from the department's \href{http://ling.hawaii.edu/full-graduate-faculty-in-other-departments/}{Cooperating Faculty}. (With prior approval, it is possible to have two co-chairs.)
+\item
+  In addition, the committee chair must be a member of the university's \href{http://manoa.hawaii.edu/graduate/content/select-committee-member}{Graduate Faculty}. This typically includes all faculty with the rank of Assistant Professor or above.
+\item
+  Your committee must be approved by the Graduate Chair. The Graduate Chair will ask you about your committee member preferences and will advise you on potential members if necessary.
+\item
+  Must include \emph{University Representative}, a member of the university's \href{http://manoa.hawaii.edu/graduate/content/select-committee-member}{Graduate Faculty} who is neither a member of the Department of Linguistics nor a member of the department's Cooperating Faculty.
+\end{itemize}
+
+\hypertarget{university-representative}{%
+\subsection*{University Representative}\label{university-representative}}
+\addcontentsline{toc}{subsection}{University Representative}
+
+The University Representative's function is to ensure that the department properly follows the procedures mandated by Graduate Division, and that each student is treated fairly. Although a particular faculty member may be listed on the Graduate Division's list of possible University Representatives, the Linguistics Graduate Chair must approve all committee members on a case-by-case basis in order to ensure that the University Representative not be too close to linguistics to function as an unbiased outsider. That said, faculty from outside departments can often provide constructive input on the content of your dissertation, so it is wise to discuss your choice of University Representative with your advisor and the Graduate Chair.
+
+\hypertarget{combining-the-dissertation-proposal-and-dissertation-prospectus}{%
+\section{Combining the Dissertation Proposal and Dissertation Prospectus}\label{combining-the-dissertation-proposal-and-dissertation-prospectus}}
+
+If you wish to bypass the dissertation proposal, and simply submit a dissertation prospectus that meets both sets of requirements, you may do so provided that you receive prior approval from your committee chair. In this case, you must notify the department office so that they can inform Graduate Division that you have satisfied the dissertation proposal requirement and record that you have met the proposal and prospectus requirements.
+
+Be sure to consult your committee chair about his/her expectations on what s/he expects in your proposal and prospectus.
+
+Many students have found it helpful to ground the details of their proposal on preliminary research done for a course project, a Working Paper, a seminar project, or other pilot study.
+
+The department office needs a copy of your IRB human subjects' approval/exemption. Submit this to the department office shortly after your proposal defense because it needs to be submitted with a form to Graduate Division for processing.
+
+You will then be allowed to register for LING 800. Please note, however, that it takes 10 days after the final, approved version of the dissertation proposal has been submitted for the departmental staff to do the paperwork necessary to permit registration in LING 800. Students are advised that they must leave adequate time between the dissertation proposal defense and the deadline for registration to make any required revisions and to permit the office staff to do the needed paperwork.
+
+Once your dissertation proposal has been approved by your committee, you must submit an approved copy (with your committee chair's signature on the first page acknowledging that all revisions have been made) to the department office no later than the end of the semester following your proposal defense. This copy will be available to all faculty and PhD students in the Linguistics Department. Your All-But-Dissertation (ABD) Certificate will be given to you after the department receives a copy of your approved proposal.
+
+Similar to your proposal, a printed copy of your approved dissertation prospectus must also be submitted to the department office no later than the end of the semester following your prospectus defense.
+
+\hypertarget{dissertation}{%
+\chapter{Dissertation}\label{dissertation}}
+
+The third and final step of the PhD program involves preparing and defending a dissertation that makes a ``significant original contribution to knowledge in the candidate's chosen field'' (to quote the University of Hawai\textquotesingle i at Mānoa Catalog).
+
+All students must write an acceptable dissertation and pass a final oral examination based on it (the `dissertation defense').
+
+Students in this part of the program need only register for one credit of LING 800 (dissertation research) per semester in order to maintain full-time status.
+
+When writing your dissertation, be sure to consult and follow the \href{http://manoa.hawaii.edu/graduate/sites/manoa.hawaii.edu.graduate/files/documents/misc/tdstylepolicy_e.pdf}{Style and Policy Manual for Theses and Dissertations}.
+
+Be sure to consult the University of Hawai\textquotesingle i at Mānoa Catalog and the departmental bulletin boards for deadlines involving graduation dates. You must submit a degree application by the specified deadline and pay the required fee.
+
+If you are not a particularly accomplished writer or if English is not your native language, it would be wise to seek help in editing and proofreading your dissertation draft before it is submitted to your committee. (Note: Passing the ELI screening exam does not necessarily indicate sufficient proficiency to produce a stylistically acceptable dissertation.)
+
+\hypertarget{submission-to-committee}{%
+\section{Submission to committee}\label{submission-to-committee}}
+
+Your committee chair will let you know when your dissertation draft is nearly ready to distribute to your committee. At this point you and your chair should agree upon a timeline, keeping in mind the following three deadlines.
+
+Your committee should receive your dissertation at least four weeks prior to your proposed defense date. (Some flexibility in this deadline may be permitted if there is a consensus among the committee members.) cc \#\# Submission to department
+
+\hypertarget{dissertation-defense}{%
+\section{Dissertation defense}\label{dissertation-defense}}
+
+The final defense is an oral examination open to the public, during which the author of a dissertation demonstrates to his or her committee satisfactory command of all aspects of the work presented and other related subjects, if applicable. Prior to the beginning of the beginning of the defense, the committee will meet privately to determine whether the dissertation is ``defensible.'' Providing the committee agrees that the dissertation is defensible, the student will then present a brief oral presentation summarizing their dissertation. This presentation is followed by questions from the committee, and then from the public. Finally, the committee adjourns to deliberate privately prior to announcing the results of the exam. There are three possible outcomes:
+
+\begin{itemize}
+\tightlist
+\item
+  Pass (possibly with minor revisions)
+\item
+  Pass with major revisions requiring review by the chair
+\item
+  Fail
+\end{itemize}
+
+Allow three hours for your defense, though many defenses are completed in just two hours or so.
+
+At least 15 calendar days prior to your defense date, you must submit Graduate Division's form \texttt{Final\ Oral\ Examination\ for\ Doctoral\ Dissertation\ Defense}, signed by your chair. The department office will deliver this form to Graduate Division. Should the committee determine that the dissertation is not defendable, the defense may be cancelled and a notification will be sent to Graduate Division.
+
+If the Chair and/or University Representative cannot be physically present for the defense, he or she must participate by some form of video technology. For your final defense, remote participation must be approved by Graduate Division prior to the defense.
+
+A PDF version of your pre-defense dissertation must be submitted to the department office at least two weeks before the defense. The title page should contain a clear indication that this is a \texttt{pre-defense\ draft}.
+
+\hypertarget{dissertation-revisions}{%
+\section{Dissertation revisions}\label{dissertation-revisions}}
+
+Following the defense you will typically be required to make minor revisions and formatting corrections prior to submitting the final version of the dissertation.
+
+\begin{quote}
+Be sure to allow adequate time for the revision process. It is recommended that you allow at least three weeks, so that your committee has sufficient time to review and approve the revisions.
+\end{quote}
+
+\hypertarget{submission-to-graduate-division}{%
+\section{Submission to Graduate Division}\label{submission-to-graduate-division}}
+
+Students whose dissertation proposal contains an \protect\hypertarget{archiving}{}{archiving plan} must present proof of archive deposit prior to submitting the final version of the dissertation.
+
+Once all revisions have been made and your committee chair approves your dissertation, ask your chair to notify the department office. Complete Form IV-Dissertation Submission via the \href{https://manoa.hawaii.edu/graduate/forms/}{Graduate Division website}. Graduate Division requires two digital copies of your dissertation saved on two CDs (one copy for ProQuest and the second copy for the library). Check with the department office for the deadline for submitting your dissertation to Graduate Division.
+
+The final approved version of your dissertation, with all required revisions, must be submitted to \textbf{Proquest ETD}. This requires creating an account with Proquest. Do not wait until the last minute to upload, lest you encountered technical difficulties. Instructions for uploading the final version can be found \href{https://manoa.hawaii.edu/graduate/proquest-etd-submission-publication/}{here}.
+
+A PDF version of the final approved version of your dissertation must be submitted to the department office. Check with the department office for the deadline for submitting your PDF to the department office.
+
+Your defense must be held at least two weeks prior to Graduate Division's deadline for submission of the final version. Check with the department office for that deadline.
+
+You must be registered in one credit of LING 800 in the semester in which you graduate.
+
+  \bibliography{book.bib,packages.bib}
+
+\end{document}
