@@ -72,7 +72,7 @@ If you intend to seek exemption(s), you must make every effort to do so within t
 
 ## Directed Research (LING 699)
 
-Once you have completed the required PhD coursework, you may register for a Directed Research course (LING 699). Directed Research allows a student to pursue research for a Qualifying Paper, Dissertation Proposal or other project---under the direction of an appropriate faculty member. Students wishing to register for LING 699 should discuss the possibility with the proposed instructor, recognizing that faculty members may not always be available for supervising these courses. If the faculty member agrees to supervise your directed research, complete a [LING 699 Proposal](docs/699form.pdf), including the following information:
+Once you have completed the required PhD coursework, you may register for a Directed Research course (LING 699). Directed Research allows a student to pursue research for a Qualifying Paper, Dissertation Proposal or other project---under the direction of an appropriate faculty member. Students wishing to register for LING 699 should discuss the possibility with the proposed instructor, recognizing that faculty members may not always be available for supervising these courses. If the faculty member agrees to supervise your directed research, complete a [LING 699 Proposal](files/699form.pdf), including the following information:
 
 1.  the scope of the proposed course, with references
 2.  the relation of the proposed research to your degree program and career goals

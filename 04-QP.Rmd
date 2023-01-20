@@ -150,6 +150,6 @@ Guidelines for preparing your paper for publication in the Working Papers are av
 
 -   MS Word [[doc](http://ling.hawaii.edu/wp-content/uploads/wp-guidelines-CURRENT-Dec2015.doc)]
 
--   Latex [ [Overleaf Template](https://www.overleaf.com/read/vrzdjgmsxpxz) \| [PDF](/docs/UHMWPL_latex.pdf) ]
+-   Latex [ [Overleaf Template](https://www.overleaf.com/read/vrzdjgmsxpxz) \| [PDF](/files/UHMWPL_latex.pdf) ]
 
 If you intend to publish your QP in the Working Papers, contact the editor early in the QP process.

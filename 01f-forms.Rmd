@@ -2,11 +2,11 @@
 
 **Departmental Forms**
 
-- [Masters Plan A (thesis) Advising Record](docs/MA_PlanA_advising.pdf)
-- [Masters Plan B (non-thesis) Advising Record](docs/MA_PlanB_advising.pdf)
-- [Masters Progress List](docs/MA_progress_list.pdf)
-- [PhD Advising Record](docs/PhD_advising.pdf)
-- [PhD Progress List](docs/PhD_progress_list.pdf)
+- [Masters Plan A (thesis) Advising Record](files/MA_PlanA_advising.pdf)
+- [Masters Plan B (non-thesis) Advising Record](files/MA_PlanB_advising.pdf)
+- [Masters Progress List](files/MA_progress_list.pdf)
+- [PhD Advising Record](files/PhD_advising.pdf)
+- [PhD Progress List](files/PhD_progress_list.pdf)
 
 **UHM Graduate Division Forms**
 
@@ -15,5 +15,5 @@ All Graduate Division forms are now handled electronically via [Kuali Build](htt
 
 **Previous Graduate Manuals**
 
-- [MA Manual](docs/MA-Manual-FINAL-October-2019.pdf) (Oct 2019)
-- [PhD Manual](docs/PhD-Manual-FINAL-October-2019) (Oct 2019)
+- [MA Manual](files/MA-Manual-FINAL-October-2019.pdf) (Oct 2019)
+- [PhD Manual](files/PhD-Manual-FINAL-October-2019) (Oct 2019)

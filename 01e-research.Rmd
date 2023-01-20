@@ -8,7 +8,7 @@ There are three types of review processes:
 -   Expedited
 -   Full Board Review
 
-Most linguistics research falls into either the `Exempt` or `Expedited` review categories. It is important to understand that in this context exempt does not mean exempt from review but rather exempt from review by the *full board*. Exempt and expedited applications still go through a review process, but the process is more streamlined and typically much faster. Generally, the exempt category is for research using anonymized data, while the expedited category is for research which includes identifying information (e.g., video recordings or transcripts attributed to a particular speaker). This [flowchart](docs/irb_flowchart.pdf) may be helpful in determining the appropriate review category.
+Most linguistics research falls into either the `Exempt` or `Expedited` review categories. It is important to understand that in this context exempt does not mean exempt from review but rather exempt from review by the *full board*. Exempt and expedited applications still go through a review process, but the process is more streamlined and typically much faster. Generally, the exempt category is for research using anonymized data, while the expedited category is for research which includes identifying information (e.g., video recordings or transcripts attributed to a particular speaker). This [flowchart](files/irb_flowchart.pdf) may be helpful in determining the appropriate review category.
 
 IRB applications can submitted using [UH eProtocol](https://uhmanoa.keyusa.net/).
 
