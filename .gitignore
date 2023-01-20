@@ -42,5 +42,5 @@ vignettes/*.pdf
 .DS_Store
 
 # Bookdown
-_bookdown_files/
-
+/_bookdown_files/
+/_book/
