@@ -8,7 +8,7 @@ Our primary form of funding for PhD students consists of a **Graduate Assistants
 
 Courses counting toward the minimum registration requirement must be wthin the Department of Linguistics, though exceptions may be approved by the graduate chair in cases where courses outside the department are an integral part of the student's program.
 
-Information about Graduate Assistantships and Achievement Scholarships can be found on the [department website](http://ling.hawaii.edu/degree-programs/funding/).
+Information about Graduate Assistantships and Achievement Scholarships can be found on the [department website](http://ling.hawaii.edu/degree-programs/funding/). Information about GA compensation can be found at the [Graduate Division](https://manoa.hawaii.edu/graduate/compensation-tax-withholding/).
 
 Towards the end of each semester, the Graduate Chair will distribute a funding report form which all continuing students are required to complete and return by the stated deadline. This form asks for your funding request, eligibility for department tuition support, and other information relevant to assigning financial support for the next semester. Filling out this report is obligatory for all students, and especially important for those seeking (or expecting) financial support from the department. Meeting with your advisor is not required, but you can meet with the Graduate Chair if you need help to complete the form.
 
@@ -16,7 +16,7 @@ Towards the end of each semester, the Graduate Chair will distribute a funding r
 
 The [Bilinski Fellowship](http://ling.hawaii.edu/degree-programs/funding/bilinski/) provides two types of awards for PhD students:
 
--   The **Bilinski Dissertation Fellowship** provides \$15,000 per semester for up to three semesters to support ABD student during the dissertation writing phase of their studies.
+-   The **Bilinski Dissertation Fellowship** provides \$15,000 per semester for up to three semesters to support ABD students during the dissertation writing phase of their studies.
 
 -   The **Bilinski Pre-Dissertation Research Award** provides up to \$5000 to support data collection and fieldwork.
 
@@ -30,21 +30,18 @@ Occasionally the department makes funds available to support conference travel. 
 
 The [Graduate Student Organization](https://uhmgso.wixsite.com/website-1/grants-and-awards) (GSO) offers grants and awards to members to support conference travel, professional development and research expenses. Applicants may request up to \$1000 for domestic projects and \$2000 for international projects, and funding is in the form of reimbursement. Applications are reviewed monthly. For more information speak to your [GSO representative](http://ling.hawaii.edu/activities/lsm/) prior to submitting application. Apply [here](https://form.jotform.com/gsogrant/gso-ga-application-title-page).
 
-## East-West Center 
+## East-West Center
 
-<img src="images/ewc.jpeg" class='cover'  width="100" />
-The East-West Center is a federally funded institution co-located on the Mānoa campus, which  promotes better relations and understanding among the people and nations of the United States, Asia, and the Pacific through cooperative study, research, and dialogue. Some MA students may qualify for an East-West Center 
-[Graduate Degree Fellowship](https://www.eastwestcenter.org/education/ewc-graduate-degree-fellowship).
+<img src="images/ewc.jpeg" class="cover" width="100"/> The East-West Center is a federally funded institution co-located on the Mānoa campus, which promotes better relations and understanding among the people and nations of the United States, Asia, and the Pacific through cooperative study, research, and dialogue. Some MA students may qualify for an East-West Center [Graduate Degree Fellowship](https://www.eastwestcenter.org/education/ewc-graduate-degree-fellowship).
 
 The graduate degree fellowship covers the cost of general tuition and fees for UHM graduate programs, books, housing in an East-West Center dormitory, and partial funding toward meals, health insurance, and incidental expenses. Funding for field study and conference presentations is offered on a competitive basis during the fellow's period of study.
 
 The East-West Center Graduate Degree Fellowship invites applications from:
 
-- Citizens or permanent residents of the United States
-- Citizens of countries in the Pacific and Asia, including Russia 
+-   Citizens or permanent residents of the United States
+-   Citizens of countries in the Pacific and Asia, including Russia
 
 Priority in the student selection process is given to applicants with a demonstrated commitment to the Asia Pacific region.
-
 
 ## Extramural Funding
 
