@@ -43,13 +43,33 @@ If you already have advanced coursework in linguistics, you may elect to seek a 
 
 At the discretion of the department faculty or your advisor, you may be required to take [additional writing courses](writing). A description of adequate writing skills and a list of courses and their descriptions can be found under the Adequate Writing Skills section of this document. This information is also available to download from our department website at
 
-## Breadth Requirement
+## Breadth Requirement {#breadth}
 
 In order to ensure that our graduates have sufficient breadth of knowledge, the department requires that each student have multiple areas of specialization. Within the 33 credit hours of course work, students must take at least three graduate-level courses in each of two distinct areas of linguistics. In addition, students are strongly encouraged to gain expertise in a third area of linguistics for the purpose of employment and further research opportunities.
 
-Various areas of linguistics are suitable, including one language area. Two-semester courses sequences will count as two courses. Graduate-level courses taken as an undergraduate or as an MA student and courses taken at other universities may count as part of a focus area, with approval from both the student's advisor and the Graduate Chair. Some 400-level courses may count as part of a focus area, with advisor approval. A maximum of three credits per area may be taken as 699, if the student requests and receives approval by the Graduate Chair in writing. At least two of the three classes in each focus area must be taken for a letter grade, with a minimum grade requirement of A-. If your third class is taken as credit/no credit, you must receive a grade of CR; if your third class is taken for a letter grade, you must receive a grade of C or better; you cannot audit this third course.
+```{r, echo=FALSE}
+DiagrammeR::grViz("digraph {
+  graph [layout = dot, rankdir = TB]
+  
+  node [shape = oval,fontsize=10]
+  area [label = 'Specialization Area']
 
-The areas must be approved by your advisor. The advisor (in consultation with the Graduate Chair if necessary), will work to ensure that each area represents a coherent set of courses, and that the areas are sufficiently different and non-overlapping to satisfy the breadth requirement. You will need to consult early with your advisor regarding the suitability of the areas of courses you plan on.
+  node [shape=rect,fixedsize=true,width=1.5,fontsize=10]
+  course1 [label='Course 1\nletter grade A-']
+  course2 [label='Course 2\nletter grade A-']
+  course3 [label='Course 3\ngrade A- or CR\n(including LING 699']
+
+  # edge definitions with the node IDs
+  area -> course1
+  area -> course2
+  area -> course3
+  }",
+  height=200)
+```
+
+Various areas of linguistics are suitable for a specializaiton, including a specialization in a particular language or language area. Two-semester courses sequences will count as two courses. Graduate-level courses taken as an undergraduate or as an MA student and courses taken at other universities may count as part of a speicalization area, with approval from both the student's advisor and the Graduate Chair. Some 400-level courses may count as part of a specialization area, with advisor approval. A maximum of three credits per area may be taken as 699, if the student requests and receives approval by the Graduate Chair in writing. At least two of the three classes in each focus area must be taken for a letter grade, with a minimum grade requirement of A-. If your third class is taken as credit/no credit, you must receive a grade of CR; if your third class is taken for a letter grade, you must receive a grade of C or better; you cannot audit this third course.
+
+The specialization areas must be approved by your advisor. The advisor (in consultation with the Graduate Chair if necessary), will work to ensure that each area represents a coherent set of courses, and that the areas are sufficiently different and non-overlapping to satisfy the breadth requirement. You will need to consult early with your advisor regarding the suitability of the areas of courses you plan on.
 
 There will be courses that may be counted in one area or another, but no course can be counted more than once. Students should consult the instructor, their advisor, and the Graduate Chair about the area assignment of any course whose status is not obvious.
 

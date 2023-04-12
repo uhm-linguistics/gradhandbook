@@ -1,74 +1,77 @@
 # Progress toward degree
 
-## Enrollment Status 
+## Enrollment Status
 
 ### Full-time Status
-Determination of full-time status is dependent on the student's status in the program and their  current [funding] source: 
 
-- Students receiving an **Achievement Scholarship** in the form of a tuition waiver must be enrolled  for a minimum of eight (8) credits in the Department of Linguistics.
+Determination of full-time status is dependent on the student's status in the program and their current [funding] source:
 
-- Students receiving a **Graduate Assistantship** must be enrolled in a minimum of six (6) credits in the Department of Linguistics.
+-   Students receiving an **Achievement Scholarship** in the form of a tuition waiver must be enrolled for a minimum of eight (8) credits in the Department of Linguistics.
 
-- All-but-dissertation (ABD) students need to register for only one (1) credit of LING 800 per semester to be considered full-time.
+-   Students receiving a **Graduate Assistantship** must be enrolled in a minimum of six (6) credits in the Department of Linguistics.
 
+-   All-but-dissertation (ABD) students need to register for only one (1) credit of LING 800 per semester to be considered full-time.
 
-- A student receiving  loans through the Financial Aid Office (regardless of whether they hold a Graduate Assistantship) must be enrolled in at least eight (8) credits in the Department of Linguistics to receive the full financial aid award; registering for six credits will result in a pro-rated award.
-
+-   A student receiving loans through the Financial Aid Office (regardless of whether they hold a Graduate Assistantship) must be enrolled in at least eight (8) credits in the Department of Linguistics to receive the full financial aid award; registering for six credits will result in a pro-rated award.
 
 In addition, not all courses count toward full-time status:
 
-- The Department does not count LING 699 (directed reading) courses in determining  full-time status until all  other course requirements for your degree have been completed.
-- Audited courses are not counted in calculating the courses needed to establish full-time status.
+-   The Department does not count LING 699 (directed reading) courses in determining full-time status until all other course requirements for your degree have been completed.
+-   Audited courses are not counted in calculating the courses needed to establish full-time status.
 
 Additional Considerations
 
-- Students should check with their medical insurance carriers to confirm that they do not need to be enrolled as a full-time student to receive insurance coverage.
-- International students on F-1 and J-1 visas must be enrolled full-time each semester. The International Student Services Office follows Graduate Division’s [guidelines for full-time status](https://manoa.hawaii.edu/graduate/course-loads-full-time-definition/). Check with Graduate Division for full-time status requirements.
-
+-   Students should check with their medical insurance carriers to confirm that they do not need to be enrolled as a full-time student to receive insurance coverage.
+-   International students on F-1 and J-1 visas must be enrolled full-time each semester. The International Student Services Office follows Graduate Division's [guidelines for full-time status](https://manoa.hawaii.edu/graduate/course-loads-full-time-definition/). Check with Graduate Division for full-time status requirements.
 
 ### Residency Program Requirement
-Doctoral students must be registered as full-time (8 credits) students on the Mānoa campus for a minimum of three semesters. 
 
+Doctoral students must be registered as full-time (8 credits) students on the Mānoa campus for a minimum of three semesters.
 
 ## Time to Degree {#time}
-The normative time to degree for the MA Degree is two (2) years of full-time study. 
-The normative time to degree for the PhD Degree is five (5) years of full-time study. 
-Approved [leaves of absence](leave) do not count toward this total. 
-Students that extend beyond that period (excluding leaves of absence) will be considered as not making satisfactory progress, and may be subject to [departmental warning of probation](probation).
 
-Graduate Division [policy](https://manoa.hawaii.edu/graduate/disciplinary-actions/) sets a maximum limit for degree completion (MA or PhD) of seven (7) years, not counting approved leave. 
+The normative time to degree for the MA Degree is two (2) years of full-time study. The normative time to degree for the PhD Degree is five (5) years of full-time study. Approved [leaves of absence](leave) do not count toward this total. Students that extend beyond that period (excluding leaves of absence) will be considered as not making satisfactory progress, and may be subject to [departmental warning of probation](probation).
+
+Graduate Division [policy](https://manoa.hawaii.edu/graduate/disciplinary-actions/) sets a maximum limit for degree completion (MA or PhD) of seven (7) years, not counting approved leave.
+
+## Grades {#grades}
+
+Required (non-elective) courses must be taken for a letter grade and passed with a grade of C or higher. Elective courses, including directed research (LING 699) may be taken as credit/no-credit and passed with a CR (credit) grade. Audited courses and courses not passed with the minimum grade requirement do not count toward the minimum credit requirement for the degree.
+
+Students must maintain a cumulative GPA of 3.0 or higher throughout their program. This calculation excludes 100- and 200-level courses (e.g., language courses). Students whose single-term (current) GPA falls below the 3.0 threshold may be placed on departmental warning of probation.
+
+Courses counting toward the PhD [Breath Requirement](#breadth) must be passed with a grade of at least A- or CR. For each area of specialization, at least two of the three courses must be taken for a letter grade and hence passed with an A grade.
+
+For additional information see the sections on [required grades](https://manoa.hawaii.edu/graduate/required-grades/) and [required GPA](https://manoa.hawaii.edu/graduate/required-gdgpa/) on the Graduate Division website.
 
 ## Probation {#probation}
 
-Students are expected to make timely progress toward the degree. This includes maintaining your GPA and adhering to [normative times](time) for degree completion.  Failure to meet these expectation can lead to dismissal from the program. 
+Students are expected to make timely progress toward the degree. This includes maintaining your GPA and adhering to [normative times](time) for degree completion. Failure to meet these expectation can lead to dismissal from the program.
 
 ### Departmental Warning of Probation
-At the discretion of the linguistics faculty, a student can be placed on *departmental warning of academic probation*  if the student is deemed to be making insufficient progress or if the student’s semester GPA is less than 3.5 in linguistics courses or other courses required for the degree.
 
-Departmental warning of academic probation is imposed for one semester. The student will be told what the conditions are for removal of this status. At the end of the ‘warning’ semester, the faculty may take one of three actions:
+At the discretion of the linguistics faculty, a student can be placed on *departmental warning of academic probation* if the student is deemed to be making insufficient progress or if the student's semester GPA is less than 3.5 in linguistics courses or other courses required for the degree.
 
-1. remove the academic warning if all conditions have been met,
-1. continue the academic warning, in which case the department will again specify the conditions for its removal. In this case, the department may withhold departmental funding, since this constitutes less than acceptable progress – a condition for departmental funding.
-or
-1. Recommend formal academic probation by Graduate Division.
+Departmental warning of academic probation is imposed for one semester. The student will be told what the conditions are for removal of this status. At the end of the 'warning' semester, the faculty may take one of three actions:
 
+1.  remove the academic warning if all conditions have been met,
+2.  continue the academic warning, in which case the department will again specify the conditions for its removal. In this case, the department may withhold departmental funding, since this constitutes less than acceptable progress -- a condition for departmental funding. or
+3.  Recommend formal academic probation by Graduate Division.
 
 ### Academic Probation
+
 The Graduate Division will place a student on academic probation at the beginning of their 7th year. See the official [probation policy](http://manoa.hawaii.edu/graduate/content/disciplinary-actions). A student on probation who fails to meet the minimum required academic standards at the end of the probationary semester will be dismissed. c
 
-Note that according to Graduate Division, “A student may be placed on academic probation only once. A student who has already been on probation will be dismissed, if he or she again fails to meet the minimum required academic standards in any subsequent semester.”
+Note that according to Graduate Division, "A student may be placed on academic probation only once. A student who has already been on probation will be dismissed, if he or she again fails to meet the minimum required academic standards in any subsequent semester."
 
-In addition, students on probation are not eligible for departmental funding. 
-
-
-
+In addition, students on probation are not eligible for departmental funding.
 
 ## Leave of Absence
-Unless a Leave of Absence has been approved in advance, a student who fails to maintain continuous enrollment (excluding summer session) is considered to have withdrawn from the university. If you wish to take a leave of absence, you must [petition to do so through Graduate Division](https://manoa.hawaii.edu/graduate/leave-of-absence/). Students must be in good academic standing in order to apply for a leave of absence. 
 
-You are allowed up to one year of leave. You may take one additional year of leave for maternity or to care for an ill family member. Time on approved leave is not counted against time allowed for the completion of graduate programs. Students on approved leave do not pay tuition or fees. 
+Unless a Leave of Absence has been approved in advance, a student who fails to maintain continuous enrollment (excluding summer session) is considered to have withdrawn from the university. If you wish to take a leave of absence, you must [petition to do so through Graduate Division](https://manoa.hawaii.edu/graduate/leave-of-absence/). Students must be in good academic standing in order to apply for a leave of absence.
 
-Students who must maintain full-time enrollment due to their status as international students, guaranteed loan recipients, East-West Center grantees, or veterans need to obtain approval from the appropriate office(s) before requesting approval from the department’s Graduate Chair. Once all signatures have been collected, the department office will deliver the Petition for Leave of Absence form to the Graduate Records Office for final approval.
+You are allowed up to one year of leave. You may take one additional year of leave for maternity or to care for an ill family member. Time on approved leave is not counted against time allowed for the completion of graduate programs. Students on approved leave do not pay tuition or fees.
 
-A leave of absence is not intended to be used solely for the purpose of extending the time to degree. Students on leave do not have access to regular departmental services. In particular, students on leave cannot schedule Qualifying Paper consultations, prospectus defenses, or dissertation defenses. 
+Students who must maintain full-time enrollment due to their status as international students, guaranteed loan recipients, East-West Center grantees, or veterans need to obtain approval from the appropriate office(s) before requesting approval from the department's Graduate Chair. Once all signatures have been collected, the department office will deliver the Petition for Leave of Absence form to the Graduate Records Office for final approval.
 
+A leave of absence is not intended to be used solely for the purpose of extending the time to degree. Students on leave do not have access to regular departmental services. In particular, students on leave cannot schedule Qualifying Paper consultations, prospectus defenses, or dissertation defenses.

@@ -3,7 +3,7 @@ title: "Graduate Handbook"
 author: "Department of Linguistics, University of Hawai‘i at Mānoa"
 date: "`r Sys.Date()` <font color='red'>DRAFT FOR REVIEW</font>"
 site: bookdown::bookdown_site
-output: bookdown::git_book
+output: bookdown::gitbook
 documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
