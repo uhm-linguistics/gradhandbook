@@ -16,7 +16,7 @@ Determination of full-time status is dependent on the student's status in the pr
 
 In addition, not all courses count toward full-time status:
 
--   The Department does not count LING 699 (directed reading) courses in determining full-time status until all other course requirements for your degree have been completed.
+-   The Department does not count LING 699 ([directed research](#ling699)) courses in determining full-time status until all other course requirements for your degree have been completed.
 -   Audited courses are not counted in calculating the courses needed to establish full-time status.
 
 Additional Considerations
@@ -36,7 +36,7 @@ Graduate Division [policy](https://manoa.hawaii.edu/graduate/disciplinary-action
 
 ## Grades {#grades}
 
-Required (non-elective) courses must be taken for a letter grade and passed with a grade of C or higher. Elective courses, including directed research (LING 699) may be taken as credit/no-credit and passed with a CR (credit) grade. Audited courses and courses not passed with the minimum grade requirement do not count toward the minimum credit requirement for the degree.
+Required (non-elective) courses must be taken for a letter grade and passed with a grade of C or higher. Elective courses, including [directed research](#ling699) (LING 699) may be taken as credit/no-credit and passed with a CR (credit) grade. Audited courses and courses not passed with the minimum grade requirement do not count toward the minimum credit requirement for the degree.
 
 Students must maintain a cumulative GPA of 3.0 or higher throughout their program. This calculation excludes 100- and 200-level courses (e.g., language courses). Students whose single-term (current) GPA falls below the 3.0 threshold may be placed on departmental warning of probation.
 

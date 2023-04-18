@@ -39,7 +39,7 @@ Students who have not already taken or received a course exemption for the follo
 -   LING 422 Introduction to Grammatical Analysis
 -   LING 645 The Comparative Method
 
-If you already have advanced coursework in linguistics, you may elect to seek a [Independent Study].
+If you already have advanced coursework in linguistics, you may elect to enroll in a [Directed Research](#ling699) course.
 
 At the discretion of the department faculty or your advisor, you may be required to take [additional writing courses](writing). A description of adequate writing skills and a list of courses and their descriptions can be found under the Adequate Writing Skills section of this document. This information is also available to download from our department website at
 
@@ -90,7 +90,7 @@ Instructors must provide exemption documentation or exam grades to the Graduate 
 
 If you intend to seek exemption(s), you must make every effort to do so within the first year of your program.
 
-## Directed Research (LING 699)
+## Directed Research (LING 699) {#ling699}
 
 Once you have completed the required PhD coursework, you may register for a Directed Research course (LING 699). Directed Research allows a student to pursue research for a Qualifying Paper, Dissertation Proposal or other project---under the direction of an appropriate faculty member. Students wishing to register for LING 699 should discuss the possibility with the proposed instructor, recognizing that faculty members may not always be available for supervising these courses. If the faculty member agrees to supervise your directed research, complete a [LING 699 Proposal](files/699form.pdf), including the following information:
 
