@@ -20,7 +20,7 @@ DiagrammeR::grViz("digraph {
   height = 100)
 ```
 
-All students in the PhD program are required to complete a minimum of 33 credit hours of course work at the University of Hawai'i *beyond courses counted towards the MA degree*. This course work must include LING 621 ('Phonology'), LING 622 ('Grammar'), and two Methods courses.
+All students in the PhD program are required to complete a minimum of 33 credit hours of course work at the University of Hawai'i *beyond courses counted towards the MA degree*. This course work must include LING 621 (Phonology), LING 622 (Grammar), and two Methods courses. For students transferring from the MA program, the MA "core" courses (LING 410, 420, 421, 422 and possibly 645, depending on MA stream) cannot be applied toward the PhD. For students who have already earned an MA in Linguistics from UH, none of the 30 credits applied toward the MA degree may also be counted toward the PhD.
 
 A student may be exempted from a 600-level course such as LING 621 and 622 with instructor approval. Such exemptions are granted only when it is clear that the student has taken a closely-overlapping course at another institution, and that the student still maintains control over the relevant material. In such cases, the student's 33 credit requirement is reduced by 3 credits (per exempted course).
 
