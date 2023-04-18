@@ -59,7 +59,7 @@ acceptance
 phdprogram
 breadth
 course-exemption
-directed-research-ling-699
+ling699
 advising-record-and-annual-student-evaluation
 qp
 QP_committee
