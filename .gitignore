@@ -38,8 +38,9 @@ vignettes/*.pdf
 # R Environment Variables
 .Renviron
 
-# Apple
+# OS
 .DS_Store
+*.bbprojectd/*
 
 # Bookdown
 /_bookdown_files/
