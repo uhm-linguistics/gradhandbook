@@ -1,6 +1,9 @@
-# Research Approval {#IRB}
+# Ethics and Research Approval {#IRB}
 
-Research involving human subjects---including much linguistics research---requires approval from the university Institutional Review Board. Though designed to protect research participants and ensure ethical research practices, the IRB approval process can feel onerous and opaque to the uninitiated. Much of the process was originally motivated by the need to protect participants in biomedical research and can thus seem awkward when applied to linguistic research, particularly field work. For example, the emphasis on maintaining anonymity may be antithetical to best practices in language documentation and the moral obligation to give appropriate acknowledgement to speakers. Some of these larger issues are discussed in by [Bowern (2010)](https://www.jstor.org/stable/40961721). The guidelines below are intended to help guide your through the process.
+<img src="images/codeofconduct.png" style="width:150px;margin-left:10px;border-width:1px;" align="right"/>
+Members of the Department of Lingusitics are expected to conduct research in an ethically engaged manner which respects the rights of speakers and speaker communities. There are many useful resources for learning more about ethical language work, but one good place to start is the [Linguist's Code of Conduct](https://fpcc.ca/wp-content/uploads/2023/02/CodeOfConduct_Web.pdf), a set of guidelines and recommendations developed on behalf of the First Peoples' Cultural Council. See the bibliography there for additional sources. 
+
+In addition, all research involving human subjects---including much linguistics research---requires approval from the university Institutional Review Board. Though designed to protect research participants and ensure ethical research practices, the IRB approval process can feel onerous and opaque to the uninitiated. Much of the process was originally motivated by the need to protect participants in biomedical research and can thus seem awkward when applied to linguistic research, particularly field work. For example, the emphasis on maintaining anonymity may be antithetical to best practices in language documentation and the moral obligation to give appropriate acknowledgement to speakers. Some of these larger issues are discussed in by [Bowern (2010)](https://www.jstor.org/stable/40961721). The guidelines below are intended to help guide your through the process.
 
 There are three types of review processes:
 
@@ -66,11 +69,11 @@ You will need to provide two important attachments:
 
 Note that consent may be collected orally via recording, but a written consent form is is still needed. Also, if the participants are not fluent in English, then these documents must be supplied in a language accessible to the participants, in addition to English. Sample [consent forms](https://research.hawaii.edu/orc/human-studies/forms/#templates) can be downloaded from the IRB website and are also available from the Linguistics department office.
 
-### Submit
+### Submit Protocol
 
 Once the form is complete, ask your advisor or PI to review prior to submitting.
 
-### Revisions
+### Protocol Revisions
 
 If there is an error in your application or some section is deemed unacceptable, you will receive notification that the protocol has been returned. In this case you can log on to eProtocol and view the Return Notes, which indicate required changes which will need to be made before re-submitting your application.
 
