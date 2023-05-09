@@ -38,7 +38,9 @@ Graduate Division [policy](https://manoa.hawaii.edu/graduate/disciplinary-action
 
 Required (non-elective) courses must be taken for a letter grade and passed with a grade of C or higher. Elective courses, including [directed research](#ling699) (LING 699) may be taken as credit/no-credit and passed with a CR (credit) grade. Audited courses and courses not passed with the minimum grade requirement do not count toward the minimum credit requirement for the degree.
 
-Students must maintain a cumulative GPA of 3.0 or higher throughout their program. This calculation excludes 100- and 200-level courses (e.g., language courses). Students whose single-term (current) GPA falls below the 3.0 threshold may be placed on departmental warning of probation.
+Per Graduate Division policy, students must maintain a cumulative GPA of 3.0 or higher throughout their program. This calculation includes both required and elective courses but excludes 100- and 200-level courses (e.g., language courses). Students whose single-term (current) GPA falls below the 3.0 threshold may be placed on departmental warning of probation.
+
+However, departmental minimum grade requirements are stricter than those imposed by the Graduate Division. Linguistics students must maintain a minimum GPA of 3.5 in all Linguistics courses and other courses required for their Linguistics degree (MA or PhD). A students whose single-semester or cumulative GPA in Lingusitics and required courses falls below 3.5 may be placed on departmental warning of academic probation. Failure to raise the cumulative GPA to 3.5 during the warning period may result in the student being placed on formal Academic Probation with the Graduate Division.
 
 Courses counting toward the PhD [Breath Requirement](#breadth) must be passed with a grade of at least A- or CR. For each area of specialization, at least two of the three courses must be taken for a letter grade and hence passed with an A grade.
 
