@@ -16,4 +16,4 @@ All Graduate Division forms are now handled electronically via [Kuali Build](htt
 **Previous Graduate Manuals**
 
 - [MA Manual](files/MA-Manual-FINAL-October-2019.pdf) (Oct 2019)
-- [PhD Manual](files/PhD-Manual-FINAL-October-2019) (Oct 2019)
+- [PhD Manual](files/PhD-Manual-FINAL-October-2019.pdf) (Oct 2019)
