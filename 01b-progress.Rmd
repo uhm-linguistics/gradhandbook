@@ -30,7 +30,7 @@ Doctoral students must be registered as full-time (8 credits) students on the MÄ
 
 ## Time to Degree {#time}
 
-The normative time to degree for the MA Degree is two (2) years of full-time study. The normative time to degree for the PhD Degree is five (5) years of full-time study. Approved [leaves of absence](leave) do not count toward this total. Students that extend beyond that period (excluding leaves of absence) will be considered as not making satisfactory progress, and may be subject to [departmental warning of probation](probation).
+The normative time to degree for the MA Degree is two (2) years of full-time study. The normative time to degree for the PhD Degree is five (5) years of full-time study. Approved [leaves of absence](#leave) do not count toward this total. Students that extend beyond that period (excluding leaves of absence) will be considered as not making satisfactory progress, and may be subject to [departmental warning of probation](#probation).
 
 Graduate Division [policy](https://manoa.hawaii.edu/graduate/disciplinary-actions/) sets a maximum limit for degree completion (MA or PhD) of seven (7) years, not counting approved leave.
 
@@ -48,7 +48,7 @@ For additional information see the sections on [required grades](https://manoa.h
 
 ## Probation {#probation}
 
-Students are expected to make timely progress toward the degree. This includes maintaining your GPA and adhering to [normative times](time) for degree completion. Failure to meet these expectation can lead to dismissal from the program.
+Students are expected to make timely progress toward the degree. This includes maintaining your GPA and adhering to [normative times](#time) for degree completion. Failure to meet these expectation can lead to dismissal from the program.
 
 ### Departmental Warning of Probation
 
