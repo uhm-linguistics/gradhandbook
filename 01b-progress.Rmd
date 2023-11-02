@@ -26,7 +26,11 @@ Additional Considerations
 
 ### Residency Program Requirement
 
-Doctoral students must be registered as full-time (8 credits) students on the Mānoa campus for a minimum of three semesters.
+Residence is [defined](https://manoa.hawaii.edu/graduate/residency-program-requirement/) by the Graduate Division as a classified graduate student who is enrolled at UHM. (This is distinct from residency for tuition purposes.)
+
+Masters students must be registered as full-time (8 credits) students on the Mānoa campus for a minimum of two semesters or the equivalent in credits. This means that at least 16 credits must be taken enrolled at the Mānoa campus.
+
+PhD students must be registered as full-time (8 credits) students on the Mānoa campus for a minimum of three semesters or the equivalent in credits. This means that at least 24 credits must be taken enrolled at the Mānoa campus.
 
 ## Time to Degree {#time}
 
@@ -48,7 +52,7 @@ For additional information see the sections on [required grades](https://manoa.h
 
 ## Probation {#probation}
 
-Students are expected to make timely progress toward the degree. This includes maintaining your GPA and adhering to [normative times](#time) for degree completion. Failure to meet these expectation can lead to dismissal from the program.
+Students are expected to make timely progress toward the degree. This includes maintaining your GPA, meeting required degree [milestones](#phdprogram), and adhering to [normative times](#time) for degree completion. Failure to meet these expectation can lead to dismissal from the program.
 
 ### Departmental Warning of Probation
 
