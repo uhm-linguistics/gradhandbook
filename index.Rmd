@@ -1,7 +1,7 @@
 --- 
 title: "Graduate Handbook"
 author: "Department of Linguistics, University of Hawai‘i at Mānoa"
-date: "`r Sys.Date()` <font color='red'>DRAFT FOR REVIEW</font>"
+date: "2023-05-01 <font color='red'>DRAFT FOR REVIEW</font>"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book

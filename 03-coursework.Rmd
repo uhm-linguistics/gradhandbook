@@ -1,8 +1,8 @@
 # (PART\*) PhD Program {.unnumbered}
 
-# PhD Coursework {#phdprogram}
+# PhD Milestones {#phdprogram}
 
-Coursework is the first stage of the PhD Program. Coursework leads directly to the [Qualfiying Papers](#qp) requirement, which must be completed before the [Prospectus](#prospectus) and [Dissertation].
+There are four major milestones in the PhD Program, as diagrammed below. [Coursework](#phdcoursework) leads directly to the [Qualfiying Papers](#qp) requirement, which must be completed before the [Prospectus](#prospectus) and [Dissertation].
 
 ```{r, echo=FALSE}
 DiagrammeR::grViz("digraph {
@@ -20,7 +20,100 @@ DiagrammeR::grViz("digraph {
   height = 100)
 ```
 
-All students in the PhD program are required to complete a minimum of 33 credit hours of course work at the University of Hawai'i *beyond courses counted towards the MA degree*. This course work must include LING 621 (Phonology), LING 622 (Grammar), and two Methods courses. For students transferring from the MA program, the MA "core" courses (LING 410, 420, 421, 422 and possibly 645, depending on MA stream) cannot be applied toward the PhD. For students who have already earned an MA in Linguistics from UH, none of the 30 credits applied toward the MA degree may also be counted toward the PhD.
+In order to make adequate progress toward degree and maintain good standing in the program, PhD students are expected to meet the following degree milestones.
+
+| Milestone         | Deadline            |
+|:------------------|:--------------------|
+| Complete QP1      | end of 4th semester |
+| Complete QP2      | end of 6th semester |
+| Defend prospectus | end of 7th semester |
+
+Failure to meet these milestones by the stipulated deadline may result in departmental warning of [academic probation](#probation), jeopardizing eligibility for departmental funding and risking dismissal from the program.
+
+The following is an outline of typical activities for PhD by year in the program. Individual timelines may vary based on a number of factors, including previous training in linguistics and previous research and community experience.
+
+**Year 1**
+
+-   foundational coursework
+-   meet with faculty members to discuss ideas for QP1 and QP2
+-   Departmental participation (reading group, LSM, LDTC, etc.)
+-   prepare proposal for summer research
+
+The first year of the PhD program will be the most coursework-intensive year of your studies. Depending on what courses you have been exempted from, you will likely be enrolled in foundational courses in the core area of linguistics. However, it is important to bear in mind that the PhD is a research-oriented degree. While taking courses during the first year, you should be thinking about idea for your first [Qualifying Paper](#qp). QP's typically arise out of a class paper, and you may want to discuss with your instructor whether a particular paper might serve as the basis for a QP. This is also a good time to ask whether that instructor would be willing to supervise the QP.
+
+First-year students are also encouraged to get involved with one or more of the many student-led groups, such as Reading Groups and the Linguistic Society of Mānoa. This is not only a great way to get to know your colleagues, it's a great way to be a good citizen of the department.
+
+The summer after your first year is a great time to begin exploratory field work or begin data collection for a QP. Applications for summer research funding are circulated in the Spring. Note that QP1 must be complete by the end of your 4th semester, so this first summer will be your only summer break available for data collection for QP1.
+
+**Year 2**
+
+-   complete required coursework
+-   possible directed research (LING 699)
+-   propose and complete QP1
+-   propose QP2
+-   departmental service (reading group leader, LSM officer, etc.)
+
+During the second year you will likely need to take some additional foundational courses, but all required courses should be complete by the end of the year. Once all coursework requirements are complete you may enroll in [Directed Research (LING 699)](#ling699) in order to focus on your QP1. Plan to hold the consultation meeting for QP1 in the Fall and to complete your QP1 in the Spring.
+
+This is also a good time to begin thinking about your second Qualifying Paper and identifying a faculty member who will supervise that paper.
+
+The second year is a good time to take more of a leadership role in service activities, perhaps by leading a Reading Group or serving as an LSM officer.
+
+**Year 3**
+
+-   possible elective coursework
+-   directed reading (LING 699)
+-   complete QP2
+-   begin drafting dissertation prospectus
+-   exploratory data collection (field work, experimentation)
+-   form PhD advisory committee
+-   possible funding applications for data collection
+
+The third year represents a transition from coursework to research. If you do choose to enroll in elective courses, you should choose to audit or take the course credit/no-credit. This often presents students with a very difficult choice, namely, the choice to forego an interesting elective course in order to focus on research. It is critical that these electives do not interfere with or detract from your research this year. Consider enrolling in an elective course *only* if it is directly relevant to your QP2 or your dissertation.
+
+Your main objectives for this year are to (i) complete QP2; and (ii) begin drafting your [dissertation prospectus](#Dissertation%20Proposal%20and%20Prospectus). You will likely enroll in Directed Research courses (LING 699) to facilitate this work.
+
+As your research workload increases, this is a good time to start scaling back on service activities. It's okay (and encouraged) to keep participating in student organizations, but this is a good time to let newer cohorts take over leadership roles so that you can focus on your research.
+
+If you anticipate needing additional funding to support your dissertation research, this is a good time to prepare applications to external funders such as NSF and ELDP. Those applications very much parallel the prospectus, so can often be drafted in tandem.
+
+By the end of the third year you should have a good sense of faculty research interests and have identified a faculty member who is willing to supervise your dissertation research. This may or may not be the person initially assigned to advise you. Once you have identified a dissertation supervisor, work with them to identify other appropriate members for your PhD advisory committee.
+
+The summer after your third year is often a critical time for data collection and field work. You will be in the process of drafting your dissertation prospectus, and the summer can be used to consult with community members about your proposed work and to gather additional data to demonstrate the feasibility of your dissertation plans.
+
+**Year 4**
+
+-   defend prospectus and advance to candidacy
+-   LING 800
+-   data collection and analysis
+-   begin drafting dissertation
+
+This is the year in which you will advance to candidacy and become a PhD "candidate," also known as ABD (all but dissertation). You no longer need to enroll in courses but instead register for 1 credit of LING 800 (dissertation research). You are now a full-time researcher. In particular, you should NOT be taking courses, either in Linguistics or in other departments. Your dissertation now becomes your primary academic responsibility.
+
+You may want to start drafting some chapters of your dissertation while you are engaged in data collection and analysis.
+
+You may also find that you need to spend some time revising QP's which have been submitted for publication. Be careful not to let this activity detract from your dissertation research.
+
+**Year 5**
+
+-   continued data collection, if relevant
+-   LING 800
+-   dissertation writing
+-   dissertation defense
+-   publish dissertation research in journals
+-   prepare job applications
+
+During the fifth year you will shift your focus from research to writing. As with the transition from coursework to research, this is often a difficult transition for students. Particularly with language documentation and other types of community-based research, it can be difficult to know when the research is "finished." Questions will arise during the dissertation writing process which beg for additional data or will tempt you to seek input for community collaborators. Yet at some point you will need to draw a line and refrain from returning to data collection mode, opting to write up the analysis based on the data at hand. Knowing where and when to draw this line can be difficult, and you are encouraged to discuss these issues early and often with your advisor.
+
+The earlier you defend your dissertation, the more time you will have for preparing journal articles derived from the dissertation and preparing job applications. Don't wait until May of your fifth year to defend!
+
+**Beyond Year 5**
+
+We recognize that circumstances do not always allow students to complete degree requirements within this 5-year timeline. We are committed to supporting PhD students through to completion of their degrees, and additional funding *may* sometimes be available. However, to be eligible for funding beyond the 5th year, students must demonstrate continued progress toward degree and provide evidence of extraordinary circumstances.
+
+# PhD Coursework {#phdcoursework}
+
+Coursework is the first stage of the PhD Program. All students in the PhD program are required to complete a minimum of 33 credit hours of course work at the University of Hawai'i *beyond courses counted towards the MA degree*. This course work must include LING 621 (Phonology), LING 622 (Grammar), and two Methods courses. For students transferring from the MA program, the MA "core" courses (LING 410, 420, 421, 422 and possibly 645, depending on MA stream) cannot be applied toward the PhD. For students who have already earned an MA in Linguistics from UH, none of the 30 credits applied toward the MA degree may also be counted toward the PhD.
 
 A student may be exempted from a 600-level course such as LING 621 and 622 with instructor approval. Such exemptions are granted only when it is clear that the student has taken a closely-overlapping course at another institution, and that the student still maintains control over the relevant material. In such cases, the student's 33 credit requirement is reduced by 3 credits (per exempted course).
 
