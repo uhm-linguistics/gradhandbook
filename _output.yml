@@ -5,7 +5,7 @@ bookdown::gitbook:
       before: |
         <li><a href="./">Graduate Handbook</a></li>
       after: |
-        <li><a href="ling.hawaii.edu" target="blank">UHM Linguistics</a></li>
+        <li><a href="http://manoa.hawaii.edu/linguistics/" target="blank">UHM Linguistics</a></li><br/>
   #  edit: https://github.com/rstudio/bookdown-demo/edit/master/%s
     download: ["pdf"] # "epub"
 bookdown::pdf_book:
