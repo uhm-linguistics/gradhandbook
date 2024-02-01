@@ -13,7 +13,3 @@
 All Graduate Division forms are now handled electronically via [Kuali Build](https://manoa.hawaii.edu/graduate/kuali-build-forms/).
 
 
-**Previous Graduate Manuals**
-
-- [MA Manual](files/MA-Manual-FINAL-October-2019.pdf) (Oct 2019)
-- [PhD Manual](files/PhD-Manual-FINAL-October-2019.pdf) (Oct 2019)

@@ -2,7 +2,7 @@
 
 The PhD Comprehensive Exam requirement in the Department of Linguistics is fulfilled by the successful completion of two clearly and professionally written, single-authored papers, known as `Qualifying Papers` (QPs) in accordance with the procedures below. Successful QPs are those which are determined by the committee to be of high enough quality to be submitted to a professional publication. While it is not required that a QP be published prior to being approved, students must indicate a publication venue where they intend to submit the final, revised paper. In some cases the [UHM Working Papers in Linguistics](#wp) may be an appropriate venue, particularly if you intend to publish a revised version of the QP with a co-author in another venue (see [below](#wp)).
 
-A QP is not a thesis or a monograph. It is meant to be a relatively short (20-30 page) and focused journal article. Many QPs evolve out of class papers or projects, and students are urged to start writing QPs while still completing coursework. If you think a paper you are working on for a class might be appropriate for a QP, discuss with your instructor. Your first QP must be completed by the end of your second year, so you cannot wait until you have completed all of your courses to begin discussing QP ideas with faculty. (See [PhD Milestones] above.)
+A QP is not a thesis or a monograph. It is meant to be a relatively short (10-20 pages) and focused journal article. Many QPs evolve out of class papers or projects, and students are urged to start writing QPs while still completing coursework. If you think a paper you are working on for a class might be appropriate for a QP, discuss with your instructor. Your first QP must be completed by the end of your second year, so you cannot wait until you have completed all of your courses to begin discussing QP ideas with faculty. (See [PhD Milestones] above.)
 
 A QP is essentially a supervised writing project, overseen by a Linguistics faculty member ("QP Chair") and reviewed by an ad-hoc faculty subcommittee ("QP Committee"). You will meet regularly with your QP Chair during the QP writing process.
 
@@ -144,11 +144,9 @@ Once the revised QP is approved, the Chair will notify the department. The appro
 
 ## Working Papers {#wp}
 
-The [University of Hawai'i at Mānoa Working Papers in Linguistics](http://ling.hawaii.edu/research-current/publications/workingpapers/) provides a venue for publishing student research, including reports on current work-in-progress. Working Papers are published electronically and accessible via the [ScholarSpace](https://hdl.handle.net/10125/42386) repository. Publication in the Working Papers does not preclude later publication in another venue. For this reason the Working Papers may be an appropriate venue for publishing your QP, particulary if you intend to publish a revised version of the QP along with a co-author (e.g., another student or faculty member).
+The [University of Hawai'i at Mānoa Working Papers in Linguistics](https://hdl.handle.net/10125/42386) provides a venue for publishing student research, including reports on current work-in-progress. Working Papers are published electronically and accessible via the [ScholarSpace](https://hdl.handle.net/10125/42386) repository. Publication in the Working Papers does not preclude later publication in another venue. For this reason the Working Papers may be an appropriate venue for publishing your QP, particulary if you intend to publish a revised version of the QP along with a co-author (e.g., another student or faculty member).
 
-Guidelines for preparing your paper for publication in the Working Papers are available in MS Word and Latex formats.
-
--   MS Word [[doc](http://ling.hawaii.edu/wp-content/uploads/wp-guidelines-CURRENT-Dec2015.doc)]
+Working Paper submissions are only accepted as camera-ready copy in Latex format, using the following template:
 
 -   Latex [ [Overleaf Template](https://www.overleaf.com/read/vrzdjgmsxpxz) \| [PDF](/files/UHMWPL_latex.pdf) ]
 

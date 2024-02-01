@@ -1,7 +1,9 @@
 # Masters Plan B (non-thesis)
 Plan B requires a minimum of 30 credit hours of course work plus a final project.
 
-You may choose between three "streams:" [Linguistic Analysis], [Experimental Linguistics], and [Language Documentation and Conservation]. The requirements for each stream follow.### Course Requirements
+You may choose between three "streams:" [Linguistic Analysis], [Experimental Linguistics], and [Language Documentation and Conservation]. The requirements for each stream follow.
+
+### Course Requirements
 All students in Plan B (non-thesis) must complete 30 credit hours of course work for a letter grade (not CR/NCR or Audit), of which 18 hours must be at the 600-level or above, including a 3-credit 700-level seminar.
 
 LING 630: Field Methods is an important class for your training, and you are strongly encouraged to take both semesters of Ling 630. The first semester is considered a core requirement, and the second is considered a regular LDC course. However, the two courses are designed as a sequence, and you will gain the most from taking both courses in sequence.
@@ -50,6 +52,7 @@ Experimental Courses (choose 2)
 
 Data Analysis Courses (choose 1)
 
+- LING 632: Laboratory and Quantitative Research Methods
 - LING 640G: Statistics in Linguistics
 - EDEP 429: Introductory Statistics
 - EDEP 601: Intro to Quantitative Methods
@@ -133,7 +136,7 @@ Plan B students must present a seminar on a linguistic topic to fulfill your fin
 
 Venues: Presentations can be made in any one of several forums including but not limited to:
 
-- Departmental: Tuesday Seminar series, Austronesian Circle, Acquisition Group, Language Documentation Group, Psycholinguistics Interest Group (P.I.G.), Sociolinguistics Group;
+- Departmental: Tuesday Seminar series, Austronesian Circle, Acquisition Group, Language Documentation Group, Quantitative Research Discussion Group, Sociolinguistics Group;
 - University: LLL student conference, ESL/Linguistic student conference;
 - National or International conferences (e.g. LSA): Conference announcements are posted on the wall between the department office and Moore 573 (see Conferences).
 

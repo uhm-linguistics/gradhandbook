@@ -18,10 +18,11 @@ academic-probation
 leave-of-absence
 funding
 departmental-funding
-bilinski
+bilinski-fellowships
+drechsel-hubbard-endowed-fellowship
+thompson-fund-for-research-and-publication
 conference-travel-awards
 gso-grants-and-awards
-east-west-center
 extramural-funding
 nsf-dissertation-awards
 eldp-small-grants
@@ -47,6 +48,7 @@ course-requirements
 thesis-requirement
 additional-information
 masters-plan-b-non-thesis
+course-requirements-1
 linguistic-analysis-stream
 experimental-linguistics-stream
 language-documentation-and-conservation-stream

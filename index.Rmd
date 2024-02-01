@@ -1,7 +1,6 @@
 --- 
 title: "Graduate Handbook"
 author: "Department of Linguistics, University of Hawai‘i at Mānoa"
-date: "2023-05-01 <font color='red'>DRAFT FOR REVIEW</font>"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
@@ -21,16 +20,19 @@ The purpose of this handbook is to provide graduate students in linguistics at t
 
 This handbook covers both the [MA Program](#maprogram) and the [PhD Program](#phdprogram), which were previously described in separate manuals. Issues common to both graduate programs can be found in the chapters in the first part of the manual, [Program Information](#general).
 
-:::{.infobox .caution}
-This handbook is in the process of being updated. In case of a discrepency, the language in the existing (October 2019) MA and PhD manuals shall take precedence. See the [Forms and Downloads] section. 
-:::
+
 
 For questions see your advisor or contact:
 
 - John Kawahara, Assistant to the Graduate Chair (808-956-8602, kawahara at hawaii dot edu)
 - Gary Holton, Graduate Chair (holton at hawaii dot edu)
 
+Additional information about the department can be found on the [UHM Linguistics](http://manoa.hawaii.edu/linguistics/) website.
+
 Additional information about university degree requirements can be found at the [Graduate Division website](https://manoa.hawaii.edu/graduate/current-students/).
+
+<br/><br/><hr/>
+<span style="font-size:small;">Revised 2024-02-01</span>
 
 
 <!-- To compile this example to PDF, you need XeLaTeX. You are recommended to install TinyTeX (which includes XeLaTeX): <https://yihui.name/tinytex/>. -->

@@ -23,8 +23,8 @@ Voluntary (non-compensated) service to the department is an important part of de
 
 All PhD students are expected to devote at least two academic years to non-compensated service in a departmental organization, such as the following or another approved by the Graduate Chair.
 
-- [departmental reading group](http://ling.hawaii.edu/activities/reading-groups/) (e.g. Austronesian Circle, EATS, LARG)
-- Language Documentation Training Center
+- [departmental reading group](https://manoa.hawaii.edu/linguistics/research-reading-groups/) (e.g. Austronesian Circle, EATS, LARG)
+- [Language Documentation Training Center](http://ldtc.org)
 - Linguistic Society of Mānoa
 
 One of your years of service should be as a participant and another in a leadership role (e.g. reading group organizer, LSM officer)
@@ -33,14 +33,15 @@ One of your years of service should be as a participant and another in a leaders
 
 
 
-## Archiving Fieldwork Data  {#archiving}
+## Archiving Research Data  {#archiving}
 
-Students whose thesis or dissertations are based on data collected during the course of their own fieldwork are required to properly archive their data in an appropriate language archive in order to ensure the longevity of the data. Students will develop an archiving plan early and will include a description of this plan in the [Dissertation Proposal] (or combined Proposal/Prospectus). Data can be archived with one of the following repositories, or with another archive approved by your advisor.
+Students whose thesis or dissertations are based on data collected during the course of their own research are encouraged to properly archive their data in an appropriate language archive or data repository in order to ensure the longevity of the data and facilitate reproducible research. Students whose research relies on documentary corpora are required to archive their data prior to graduation. Students will develop an archiving plan early and will include a description of this plan in the [Dissertation Proposal] (or combined Proposal/Prospectus). Data can be archived with one of the following repositories, or with another archive approved by your advisor.
 
 -   [Kaipuleohone](https://hdl.handle.net/10125/4250), the University of Hawai'i Digital Language Archive
 -   another [DELAMAN](http://www.delaman.org) archive
 -   [Zenodo](http://zenodo.org)
 -   [TROLLing](https://trolling.uit.no/)
+-   [OSF](http:/osf.io)
 
 For students archiving their data in Kaipuleohone, the archiving plan should be developed in consultation with the current archive director. All students will be required to submit proof of deposit in writing from the archive director to the committee before the dissertation can be approved.
 
@@ -64,7 +65,8 @@ Criteria for successful academic writing include the following:
 -   The document has been spell-checked.
 -   The documebnt is written in grammatical English.
 
-Students' writing skills are discussed by the faculty in the annual student review. While there is no formal writing requirement, students whose writing skills are deemed inadequate may be required to enroll in a writing course from the following list.
+Students' writing skills are discussed by the faculty in the annual student review. While there is no formal writing requirement, students whose writing skills are deemed inadequate may be required to enroll in a writing course from the following list. Students can also schedule appointments with the Manoa Writing Center.
+
 
 ```{r, echo=F}
 writing <- read.csv('writing.csv')

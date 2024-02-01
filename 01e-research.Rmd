@@ -15,7 +15,7 @@ Most linguistics research falls into either the `Exempt` or `Expedited` review c
 
 IRB applications can submitted using [UH eProtocol](https://uhmanoa.keyusa.net/).
 
-Sample copies of approved IRB protocols are available from the department office. Consult the [list of recent dissertations](http://ling.hawaii.edu/research-current/publications/dissertations/) to identify relevant research topics.  
+Sample copies of approved IRB protocols are available from the department office. Consult the [list of recent dissertations](https://hdl.handle.net/10125/2092) to identify relevant research topics.  
 
 ## IRB Application
 
