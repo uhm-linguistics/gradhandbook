@@ -42,6 +42,7 @@ protocol-information
 submit-protocol
 protocol-revisions
 ethics-training
+permits
 forms
 maprogram
 course-requirements

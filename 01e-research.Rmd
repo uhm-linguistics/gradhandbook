@@ -3,7 +3,15 @@
 <img src="images/codeofconduct.png" style="width:150px;margin-left:10px;border-width:1px;" align="right"/>
 Members of the Department of Lingusitics are expected to conduct research in an ethically engaged manner which respects the rights of speakers and speaker communities. There are many useful resources for learning more about ethical language work, but one good place to start is the [Linguist's Code of Conduct](https://fpcc.ca/wp-content/uploads/2023/02/CodeOfConduct_Web.pdf), a set of guidelines and recommendations developed on behalf of the First Peoples' Cultural Council. See the bibliography there for additional sources. 
 
-All research involving human subjects---including much linguistics research---requires approval from the university Institutional Review Board (IRB). The IRB application process is described below. In addition, depending on the jurisdiction in which your research takes place, you may require one or more research permits and/or a research visa. See the section on [permits](#permits) below.
+Beyond these ethical expectations, all student researchers must adhere to certain legal requirements pertaining to the research process. The most important of these are:
+
+- approval by the university Institutional Review Board
+- receipt of necessary research permits from relevant jurisdictions in which the research is to be conducted
+
+All research  involving human subjects---including much linguistics research---requires approval from the university Institutional Review Board (IRB). The IRB application process is described below. In addition, depending on the jurisdiction in which your research takes place, you may require one or more research permits and/or a research visa. See the section on [permits](#permits) below.
+
+Conducting research without required IRB approval and permits is a serious offense which may jeopardize your academic career and could even have legal consequences. Moreover, as a student at UH, conducting unauthorized research could have significant negative impact on the Department of Linguistics.  Do not risk it!
+
 
 ## IRB Application
 
@@ -95,9 +103,11 @@ The training involves a series of readings and videos followed by set of quiz qu
 
 ## Research Permits {#permits}
 
-Many countries require that foreign researchers obtain a research permit,  issued by national offices. They may also require that researchers obtain a research visa prior to entering the country to conduct research. There may also be state, provincial or local permit requirements in addition to the national permit requirements. And many Indigenous communities also require a permit issued by the tribal or Indigenous goverments. This is true, for example, of the [Gwich'in Council](https://gwichincouncil.com/research) in Canada and the Navajo Nation in the USA. 
+Many countries require that foreign researchers obtain a research permit,  issued by national offices. Some countries also require that citizens or nationals also obtain permits for research, though the application process may be different. Many countries also require that researchers obtain a research visa prior to entering the country to conduct research. There may also be state, provincial or local permit requirements in addition to the national permit requirements. And many Indigenous communities also require a permit issued by the tribal or Indigenous goverments. This is true, for example, of the [Gwich'in Council](https://gwichincouncil.com/research) in Canada and the Navajo Nation in the USA. 
 
-Research policies for foreign researchers are constantly evolving, especially as states in the Global South respond to a long colonial history of extractive research. For example, the Republic of Palau introduced a bill to adopted a permit policy in 2024.  Do not assume that just because other researchers before you have not needed a permit that you will not need a permit. It is your responsibility to contact relevant authorities and ensure that you obtain the necessary permits. Discuss this process with your advisor well in advance of your planned research trip.
+All of these permitting requirements are in addition to the IRB requirements described above. The university IRB does not have authority to grant permission for research to be conducted outside the university; hence, IRB approval is a necessary but not necessarily sufficient condition for conducting research. An approved IRB protocol is generally required in order to apply for a foreign research permit, but the IRB protocol itslef does not grant permission to do research in a foreign country.  
+
+Research policies for foreign researchers are constantly evolving, especially as states in the Global South respond to a long colonial history of extractive research. Do not assume that just because other researchers before you have not needed a permit that you will not need a permit. For example, the Republic of Palau introduced a bill to adopt a permit policy in 2024; hence, researchers intending to work in Palau should pay close attention to this evolving policy.  It is your responsibility to contact relevant authorities and ensure that you obtain the necessary permits. Discuss this process with your advisor well in advance of your planned research trip.
 
 Conducting research without necessary permits is a serious offense which could result in the loss of the ability to use the data collected during your research trip and could even represent academic misconduct, leading to dismissal from the program. Do not risk it. 
 
@@ -107,4 +117,6 @@ Some links to research permit procedures for Pacific states are given below:
 - [Republic of the Marshall Islands](https://www.michpo.org/services/permits)
 - [Indonesia](https://klirensetik.brin.go.id/)
 - [Papuan New Guinea](https://pngnri.org/images/CS/Research_in_PNG_Conditions_and_Guidelines_.pdf)
+- [Fiji](https://www.immigration.gov.fj/research-permit/)
+- [Vanuatu](https://vanuatuculturalcentre.gov.vu/index.php/research/research-permits/research-policy)
 
