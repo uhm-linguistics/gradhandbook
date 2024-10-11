@@ -32,7 +32,7 @@ Additional information about the department can be found on the [UHM Linguistics
 Additional information about university degree requirements can be found at the [Graduate Division website](https://manoa.hawaii.edu/graduate/current-students/).
 
 <br/><br/><hr/>
-<span style="font-size:small;">Revised 2024-10-11</span>
+<span style="font-size:small;">Revised `r Sys.Date()`</span>
 
 
 <!-- To compile this example to PDF, you need XeLaTeX. You are recommended to install TinyTeX (which includes XeLaTeX): <https://yihui.name/tinytex/>. -->
