@@ -3,7 +3,11 @@
 <img src="images/codeofconduct.png" style="width:150px;margin-left:10px;border-width:1px;" align="right"/>
 Members of the Department of Lingusitics are expected to conduct research in an ethically engaged manner which respects the rights of speakers and speaker communities. There are many useful resources for learning more about ethical language work, but one good place to start is the [Linguist's Code of Conduct](https://fpcc.ca/wp-content/uploads/2023/02/CodeOfConduct_Web.pdf), a set of guidelines and recommendations developed on behalf of the First Peoples' Cultural Council. See the bibliography there for additional sources. 
 
-In addition, all research involving human subjects---including much linguistics research---requires approval from the university Institutional Review Board. Though designed to protect research participants and ensure ethical research practices, the IRB approval process can feel onerous and opaque to the uninitiated. Much of the process was originally motivated by the need to protect participants in biomedical research and can thus seem awkward when applied to linguistic research, particularly field work. For example, the emphasis on maintaining anonymity may be antithetical to best practices in language documentation and the moral obligation to give appropriate acknowledgement to speakers. Some of these larger issues are discussed in by [Bowern (2010)](https://www.jstor.org/stable/40961721). The guidelines below are intended to help guide your through the process.
+All research involving human subjects---including much linguistics research---requires approval from the university Institutional Review Board (IRB). The IRB application process is described below. In addition, depending on the jurisdiction in which your research takes place, you may require one or more research permits and/or a research visa. See the section on [permits](#permits) below.
+
+## IRB Application
+
+Though designed to protect research participants and ensure ethical research practices, the IRB approval process can feel onerous and opaque to the uninitiated. Much of the process was originally motivated by the need to protect participants in biomedical research and can thus seem awkward when applied to linguistic research, particularly field work. For example, the emphasis on maintaining anonymity may be antithetical to best practices in language documentation and the moral obligation to give appropriate acknowledgement to speakers. Some of these larger issues are discussed in by [Bowern (2010)](https://www.jstor.org/stable/40961721). The guidelines below are intended to help guide your through the process.
 
 There are three types of review processes:
 
@@ -17,7 +21,6 @@ IRB applications can submitted using [UH eProtocol](https://uhmanoa.keyusa.net/)
 
 Sample copies of approved IRB protocols are available from the department office. Consult the [list of recent dissertations](https://hdl.handle.net/10125/2092) to identify relevant research topics.  
 
-## IRB Application
 
 ### Title and Personnel
 
@@ -89,3 +92,19 @@ The courses required for your application will depend on the review category. Ho
 If these courses don't show up when you log in, you can add them by choosing `Add a Course`, then `Human Subjects Research`.
 
 The training involves a series of readings and videos followed by set of quiz questions for each module. It's not difficult, but it can be time-consuming. So don't wait until the last minute to complete your CITI training. The training is independent of your particular research project and so can (and should!) be completed in advance of your IRB application. Once completed, your training is valid for one year. Your completion certificate should link automatically to your eProtocol account; however, it is good practice to download the training completion certificate from CITI, in case you later need to upload that to your IRB application.
+
+## Research Permits {#permits}
+
+Many countries require that foreign researchers obtain a research permit,  issued by national offices. They may also require that researchers obtain a research visa prior to entering the country to conduct research. There may also be state, provincial or local permit requirements in addition to the national permit requirements. And many Indigenous communities also require a permit issued by the tribal or Indigenous goverments. This is true, for example, of the [Gwich'in Council](https://gwichincouncil.com/research) in Canada and the Navajo Nation in the USA. 
+
+Research policies for foreign researchers are constantly evolving, especially as states in the Global South respond to a long colonial history of extractive research. For example, the Republic of Palau introduced a bill to adopted a permit policy in 2024.  Do not assume that just because other researchers before you have not needed a permit that you will not need a permit. It is your responsibility to contact relevant authorities and ensure that you obtain the necessary permits. Discuss this process with your advisor well in advance of your planned research trip.
+
+Conducting research without necessary permits is a serious offense which could result in the loss of the ability to use the data collected during your research trip and could even represent academic misconduct, leading to dismissal from the program. Do not risk it. 
+
+Some links to research permit procedures for Pacific states are given below:
+
+- [Federated States of Micronesia](https://nach.gov.fm/research/)
+- [Republic of the Marshall Islands](https://www.michpo.org/services/permits)
+- [Indonesia](https://klirensetik.brin.go.id/)
+- [Papuan New Guinea](https://pngnri.org/images/CS/Research_in_PNG_Conditions_and_Guidelines_.pdf)
+
