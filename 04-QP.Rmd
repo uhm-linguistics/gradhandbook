@@ -22,6 +22,7 @@ DiagrammeR::grViz("digraph {
   node [shape = rectangle]        
   rec1 [label = 'Form Committee']
   rec2 [label = 'Consultation with Committee']
+  rec2a [label = 'Submit of Plan of Work']
   rec3 [label =  'Writing and Feedback from Chair']
   rec4 [label = 'Inclusion of Reader 1']
   rec5 [label = 'Synthesis of Feedback']
@@ -29,7 +30,7 @@ DiagrammeR::grViz("digraph {
  
   
   # edge definitions with the node IDs
-  rec1 -> rec2 -> rec3 -> rec4 -> rec5 -> rec6 
+  rec1 -> rec2 -> rec2a -> rec3 -> rec4 -> rec5 -> rec6 
   rec5 -> rec4
   }",
   )
@@ -82,7 +83,7 @@ If at any point a QP fails, this constitutes failing one attempt at the Comprehe
 
 ## Development of written Plan of Work {#workplan}
 
-After the Consultation, the Chair and the student will develop a written Plan of Work, which is to be submitted to the Department Secretary for inclusion in the student's file. The Plan of Work may include, but is not limited to, one or more of the following:
+After the Consultation, the Chair and the student will develop a written **Plan of Work**, which is to be submitted to the Department Office (linguist [at] hawaii [dot] edu) for inclusion in the student's file. The Plan of Work may include, but is not limited to, one or more of the following:
 
 -   A writing schedule or calendar
 -   The number of drafts the Chair will review before it is sent to Reader 1 (note that the Chair is not obligated to read drafts more than two times, but may do so at their discretion)
