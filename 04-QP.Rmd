@@ -6,7 +6,7 @@ A QP is not a thesis or a monograph. It is meant to be a relatively short (10-20
 
 A QP is essentially a supervised writing project, overseen by a Linguistics faculty member ("QP Chair") and reviewed by an ad-hoc faculty subcommittee ("QP Committee"). You will meet regularly with your QP Chair during the QP writing process.
 
-The topics of your qualifying papers should be distinct both from each other and from your dissertation. In particular, a QP cannot serve as a chapter of your dissertation. Moreover, the chairs and committees for the two QPs must be entirely distinct. However, your PhD advisor may serve as chair of one of the QPs.
+The topics of your qualifying papers should be distinct both from each other. Moreover, the chairs and committees for the two QPs must be entirely distinct. However, your PhD advisor may serve as chair of one of the QPs.
 
 The processes for first (QP1) and and second (QP2) papers are essentially the same, with these notable exceptions:
 
