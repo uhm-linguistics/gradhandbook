@@ -47,6 +47,7 @@ Experimental Courses (choose 2)
 
 - LING 431: Computational Modeling
 - LING 640S: Sociolinguistics
+- LING 640X: Introduction to Experimental Syntax 
 - LING 640Y: Psycholinguistics
 - LING 670: Developmental Linguistics
 
