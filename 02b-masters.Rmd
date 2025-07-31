@@ -1,16 +1,20 @@
 # Masters Plan B (non-thesis)
 Plan B requires a minimum of 30 credit hours of course work plus a final project.
 
-You may choose between three "streams:" [Linguistic Analysis], [Experimental Linguistics], and [Language Documentation and Conservation]. The requirements for each stream follow.
+You may choose between three "streams:" 
+[Linguistic Analysis](#analysis-stream), 
+[Experimental Linguistics](#experimental-stream), and 
+[Language Documentation and Conservation](#ldc-stream). 
+The requirements for each stream follow.
 
-### Course Requirements
+## Course Requirements
 All students in Plan B (non-thesis) must complete 30 credit hours of course work for a letter grade (not CR/NCR or Audit), of which 18 hours must be at the 600-level or above, including a 3-credit 700-level seminar.
 
 LING 630: Field Methods is an important class for your training, and you are strongly encouraged to take both semesters of Ling 630. The first semester is considered a core requirement, and the second is considered a regular LDC course. However, the two courses are designed as a sequence, and you will gain the most from taking both courses in sequence.
 
 LING 750G Professional Development (ICLDC Prep Course) may be taken multiple times, but will only be counted once towards the degree. Furthermore, if used towards the MA degree, LING 750G (even if taken in a subsequent year) may not be used later towards satisfaction of any PhD degree requirement.
 
-## Linguistic Analysis Stream 
+## Linguistic Analysis Stream {#analysis-stream}
 10 courses which include:
 
 - five courses from the Analysis Core (15 credits)
@@ -25,7 +29,7 @@ Analysis Core (all 5 required)
 - LING 422: Introduction to Grammatical Analysis
 - LING 645: The Comparative Method
 
-## Experimental Linguistics Stream
+## Experimental Linguistics Stream  {#experimental-stream}
 10 courses which include:
 
 - four courses from the Experimental Core (12 credits)
@@ -64,7 +68,7 @@ Data Analysis Courses (choose 1)
 - PSY 610: Introduction to Quantitative Methods
 - PSY 611: Design and Analysis of Psychological Experiments
 
-## Language Documentation and Conservation Stream
+## Language Documentation and Conservation Stream {#ldc-stream}
 10 courses which include:
 
 - seven courses from the LDC Core (21 credits)
