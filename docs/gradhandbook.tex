@@ -1,10 +1,11 @@
 % Options for packages loaded elsewhere
 \PassOptionsToPackage{unicode}{hyperref}
 \PassOptionsToPackage{hyphens}{url}
-%
 \documentclass[
 ]{book}
+\usepackage{xcolor}
 \usepackage{amsmath,amssymb}
+\setcounter{secnumdepth}{5}
 \usepackage{iftex}
 \ifPDFTeX
   \usepackage[T1]{fontenc}
@@ -35,7 +36,6 @@
 }{% if KOMA class
   \KOMAoptions{parskip=half}}
 \makeatother
-\usepackage{xcolor}
 \usepackage{longtable,booktabs,array}
 \usepackage{calc} % for calculating minipage widths
 % Correct order of tables after \paragraph or \subparagraph
@@ -48,27 +48,25 @@
 \makesavenoteenv{longtable}
 \usepackage{graphicx}
 \makeatletter
-\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
-\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
-\makeatother
-% Scale images if necessary, so that they will not overflow the page
-% margins by default, and it is still possible to overwrite the defaults
-% using explicit options in \includegraphics[width, height, ...]{}
-\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+\newsavebox\pandoc@box
+\newcommand*\pandocbounded[1]{% scales image to fit in text height/width
+  \sbox\pandoc@box{#1}%
+  \Gscale@div\@tempa{\textheight}{\dimexpr\ht\pandoc@box+\dp\pandoc@box\relax}%
+  \Gscale@div\@tempb{\linewidth}{\wd\pandoc@box}%
+  \ifdim\@tempb\p@<\@tempa\p@\let\@tempa\@tempb\fi% select the smaller of both
+  \ifdim\@tempa\p@<\p@\scalebox{\@tempa}{\usebox\pandoc@box}%
+  \else\usebox{\pandoc@box}%
+  \fi%
+}
 % Set default figure placement to htbp
-\makeatletter
 \def\fps@figure{htbp}
 \makeatother
 \setlength{\emergencystretch}{3em} % prevent overfull lines
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
-\setcounter{secnumdepth}{5}
-\usepackage{booktabs}
-\ifLuaTeX
-  \usepackage{selnolig}  % disable illegal ligatures
-\fi
 \usepackage[]{natbib}
 \bibliographystyle{apalike}
+\usepackage{booktabs}
 \usepackage{bookmark}
 \IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
 \urlstyle{same}
@@ -110,7 +108,7 @@ Additional information about the department can be found on the \href{http://man
 
 Additional information about university degree requirements can be found at the \href{https://manoa.hawaii.edu/graduate/current-students/}{Graduate Division website}.
 
-{Revised 2024-11-19}
+{Revised 2025-07-31}
 
 \part*{Program Information}\label{part-program-information}
 \addcontentsline{toc}{part}{Program Information}
@@ -400,6 +398,24 @@ ELDP supports the creation of documentary corpora: collections of materials such
 
 Students apply as the PI, but their advisor should serve as a referee.
 
+\section{Outside Employment}\label{outside-employment}
+
+Graduate Assistants are strongly discouraged from seeking outside employment during the term of their appointment. University funds for GAships are limited, and the expectation is that these funds be used to further degree completion. While outside employment may be compatible with these goals, it is important to consider the effects that any such outside employment may have on your ability to do your GAship effectively and to make good progress toward your degree.
+
+As outlined in the policies below, permission is required prior to accepting outside employment, and failure to seek approval for outside employment could result in termination of the GAship. You are therefore encouraged to discuss potential outside employment with your advisor and the Graduate Chair, providing evidence that any potential outside employment will not interfere with your ability to complete your GAship duties and make continued progress toward your degree.
+
+Graduate Divsion \href{https://manoa.hawaii.edu/graduate/rules-regulations/}{Rules and Regulations}
+
+\begin{quote}
+All GA's who wish to work more than 20 hours per week must complete and file the petition to work more than 20 hours with Graduate Division Student Services. GAs who are international students also need to obtain approval from the International Student Services. Unauthorized work beyond 20 hours per week may result in the loss of an assistantship. GA's are advised to carefully consider the potential effects of additional work load on their ability to maintain satisfactory academic progress.
+\end{quote}
+
+UH Executive Policy \href{https://www.hawaii.edu/policy/?action=viewPolicy&policySection=ep&policyChapter=5&policyNumber=223}{5.223}, section III.H.
+
+\begin{quote}
+Outside employment. The University's priority for a graduate assistant is degree completion. While outside employment in addition to the graduate assistantship is not prohibited, such outside employment is discouraged to allow the graduate student to focus on degree completion. However, the University recognizes the need for graduate assistants to fulfill personal financial obligations. The graduate student shall consider the impact of such outside employment on degree completion and the fulfillment and performance of the graduate assistant duties and responsibilities, and address any conflicts of interest.
+\end{quote}
+
 \chapter{Additional Requirements}\label{additional-requirements}
 
 \section{Language Requirement}\label{language-requirement}
@@ -605,11 +621,11 @@ The is the main section of the application, and the are a number of subsections.
 \item[or for research using existing data (e.g., archival corpora):]
 4.~i. EXISTING DATA. The identifiable private information or identifiable biospecimens are publicly available
 \item[For Expedited review, the following categories are relevant:]
+\hfill
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
 \setcounter{enumi}{5}
 \tightlist
-\item[]
 \item
   Collection of data from voice, video, digital, or image recordings made for research purposes
 \item
@@ -1079,8 +1095,8 @@ Historically, we admit roughly 15\% of external applications, and 30\% of intern
 We have developed a list of criteria for admission to our PhD program and some self-evaluation questions you should consider carefully if you are thinking about applying. You should ask yourself these questions on a regular basis, and if you are in doubt about your answers, you may not be ready to embark on a PhD.
 
 \begin{longtable}[]{@{}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.2703}}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.7297}}@{}}
+  >{\raggedright\arraybackslash}p{(\linewidth - 2\tabcolsep) * \real{0.2703}}
+  >{\raggedright\arraybackslash}p{(\linewidth - 2\tabcolsep) * \real{0.7297}}@{}}
 \toprule\noalign{}
 \begin{minipage}[b]{\linewidth}\raggedright
 Criterion
@@ -1320,9 +1336,25 @@ At the discretion of the department faculty or your advisor, you may be required
 
 In order to ensure that our graduates have sufficient breadth of knowledge, the department requires that each student have multiple areas of specialization. Within the 33 credit hours of course work, students must take at least three graduate-level courses in each of two distinct areas of linguistics. In addition, students are strongly encouraged to gain expertise in a third area of linguistics for the purpose of employment and further research opportunities.
 
-Various areas of linguistics are suitable for a specializaiton, including a specialization in a particular language or language area. Two-semester courses sequences will count as two courses. Graduate-level courses taken as an undergraduate or as an MA student and courses taken at other universities may count as part of a speicalization area, with approval from both the student's advisor and the Graduate Chair. Some 400-level courses may count as part of a specialization area, with advisor approval. A maximum of three credits per area may be taken as 699, if the student requests and receives approval by the Graduate Chair in writing. At least two of the three classes in each focus area must be taken for a letter grade, with a minimum grade requirement of A-. If your third class is taken as credit/no credit, you must receive a grade of CR; if your third class is taken for a letter grade, you must receive a grade of C or better; you cannot audit this third course.
+Various areas of linguistics are suitable for a specializaiton, including a specialization in a particular language or language area. Two-semester courses sequences will count as two courses. Graduate-level courses taken as an undergraduate or as an MA student and courses taken at other universities may count as part of a specialization area, with approval from both the student's advisor and the Graduate Chair. Some 400-level courses may count as part of a specialization area, with advisor approval. Some examples of specialization areas include:
 
-The specialization areas must be approved by your advisor. The advisor (in consultation with the Graduate Chair if necessary), will work to ensure that each area represents a coherent set of courses, and that the areas are sufficiently different and non-overlapping to satisfy the breadth requirement. You will need to consult early with your advisor regarding the suitability of the areas of courses you plan on.
+\begin{itemize}
+\tightlist
+\item
+  Experimental syntax (632, 640X, 640Y)
+\item
+  Psycholinguistics (632, 640Y, 670)
+\item
+  Acquisition (617, 640Y, 670) {[}etc{]}
+\item
+  Typology (720, 750F, 770)
+\item
+  Language Documentation (680, 710, 750G)
+\end{itemize}
+
+Directed research (LING 699) will not be counted as part of a specialization area without written approval of the Graduate Chair. At least two of the three classes in each focus area must be taken for a letter grade, with a minimum grade requirement of A-. If your third class is taken as credit/no credit, you must receive a grade of CR; if your third class is taken for a letter grade, you must receive a grade of C or better; you cannot audit this third course.
+
+The specialization areas must be approved by your advisor. The advisor (in consultation with the Graduate Chair if necessary) will work to ensure that each area represents a coherent set of courses, and that the areas are sufficiently different and non-overlapping to satisfy the breadth requirement. You will need to consult early with your advisor regarding the suitability of the areas of courses you plan on.
 
 There will be courses that may be counted in one area or another, but no course can be counted more than once. Students should consult the instructor, their advisor, and the Graduate Chair about the area assignment of any course whose status is not obvious.
 
@@ -1352,7 +1384,7 @@ If you intend to seek exemption(s), you must make every effort to do so within t
 
 \section{Directed Research (LING 699)}\label{ling699}
 
-Once you have completed the required PhD coursework, you may register for a Directed Research course (LING 699). Directed Research allows a student to pursue research for a Qualifying Paper, Dissertation Proposal or other project---under the direction of an appropriate faculty member. Students wishing to register for LING 699 should discuss the possibility with the proposed instructor, recognizing that faculty members may not always be available for supervising these courses. If the faculty member agrees to supervise your directed research, complete a \href{files/699form.pdf}{LING 699 Proposal}, including the following information:
+Once you have completed the required PhD coursework, you may be eligible to register for a Directed Research course (LING 699). Directed Research allows a student to pursue research for a Qualifying Paper, Dissertation Proposal or other project---under the direction of an appropriate faculty member. This option should be reserved for extraordinary circumstances, when no other appropriate course can be identified. In general, it is preferable for a student to enroll in an existing course as an auditor or CR/NC rather than registering for LING 699. Students wishing to register for LING 699 should discuss the possibility with the proposed instructor, recognizing that faculty members may not always be available for supervising these courses. If the faculty member agrees to supervise your directed research, complete a \href{files/699form.pdf}{LING 699 Proposal}, including the following information:
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
@@ -1364,10 +1396,12 @@ Once you have completed the required PhD coursework, you may register for a Dire
 \item
   timetable of various components within the semester
 \item
-  a brief description of the final product(s) of the course (e.g., QP draft, proposal draft, etc.)
+  a brief description of the final product(s) of the course (e.g., QP draft, dissertation proposal draft, etc.)
 \item
   number of credits (maximum 6)
 \end{enumerate}
+
+It is especially important that a Directed Reading course have a defined outcome or product, such as a QP or dissertation proposal/prospectus (point \#4 above). {Failure to achieve this outcome will result in an Incomplete or failing grade for the course.}
 
 Have your instructor sign the form and then submit the form to the department office. You will then be assigned a course registration number so that you can register for the course. It is best to discuss the proposed LING 699 during the registration period at the end of the previous semester, but the form can be completed during the first week of the term.
 
@@ -1598,7 +1632,7 @@ A dissertation committee must meet the following requirements:
 \item
   At least two members must be faculty members in the Department of Linguistics.
 \item
-  At least one other member should either be a member of the department or a member of the department's {[} `linguist'---normally either from the Department of Linguistics or from the list of \href{http://manoa.hawaii.edu/linguistics/people/}{Cooperating Faculty}. Occasionally, with the permission of the Graduate Chair and the Dean of Graduate Studies, a committee can include a faculty member at another university. This may be appropriate when the dissertation topic lies outside the areas of core expertise of UHM faculty.\\
+  At least one other member should either be a member of the department or a member of the department's \href{http://manoa.hawaii.edu/linguistics/people/}{Cooperating Faculty}. Occasionally, with the permission of the Graduate Chair and the Dean of Graduate Studies, a committee can include a faculty member at another university. This may be appropriate when the dissertation topic lies outside the areas of core expertise of UHM faculty.\\
 \item
   The committee chair (principal advisor and dissertation supervisor) must be chosen a Department of Linguistics or, with the permission of the Graduate Chair, a member of from the department's \href{http://manoa.hawaii.edu/linguistics/people/}{Cooperating Faculty}. (With prior approval, it is possible to have two co-chairs.)
 \item
@@ -1606,7 +1640,7 @@ A dissertation committee must meet the following requirements:
 \item
   Your committee must be approved by the Graduate Chair. The Graduate Chair will ask you about your committee member preferences and will advise you on potential members if necessary.
 \item
-  Must include \emph{University Representative}, a member of the university's \href{http://manoa.hawaii.edu/graduate/content/select-committee-member}{Graduate Faculty} who is neither a member of the Department of Linguistics nor a member of the department's Cooperating Faculty.
+  Must include a \emph{University Representative}, a member of the university's \href{http://manoa.hawaii.edu/graduate/content/select-committee-member}{Graduate Faculty} who is neither a member of the Department of Linguistics nor a member of the department's Cooperating Faculty.
 \end{itemize}
 
 \subsection*{University Representative}\label{university-representative}
@@ -1624,11 +1658,15 @@ Many students have found it helpful to ground the details of their proposal on p
 
 The department office needs a copy of your IRB human subjects' approval/exemption. Submit this to the department office shortly after your proposal defense because it needs to be submitted with a form to Graduate Division for processing.
 
-You will then be allowed to register for LING 800. Please note, however, that it takes 10 days after the final, approved version of the dissertation proposal has been submitted for the departmental staff to do the paperwork necessary to permit registration in LING 800. Students are advised that they must leave adequate time between the dissertation proposal defense and the deadline for registration to make any required revisions and to permit the office staff to do the needed paperwork.
-
 Once your dissertation proposal has been approved by your committee, you must submit an approved copy (with your committee chair's signature on the first page acknowledging that all revisions have been made) to the department office no later than the end of the semester following your proposal defense. This copy will be available to all faculty and PhD students in the Linguistics Department. Your All-But-Dissertation (ABD) Certificate will be given to you after the department receives a copy of your approved proposal.
 
 Similar to your proposal, a printed copy of your approved dissertation prospectus must also be submitted to the department office no later than the end of the semester following your prospectus defense.
+
+\section{Registering as an ABD student}\label{registering-as-an-abd-student}
+
+Once you have defended a proposal and advanced to candidacy, you will then be allowed to register for LING 800. Please note, however, that it takes 10 days after the final, approved version of the dissertation proposal has been submitted for the departmental staff to do the paperwork necessary to permit registration in LING 800. Students are advised that they must leave adequate time between the dissertation proposal defense and the deadline for registration to make any required revisions and to permit the office staff to do the needed paperwork.
+
+Note that you must be registered for at least one credit of LING 800 during the semester in which you defend your dissertation, as well as the semester in which you apply for graduation (if different).
 
 \chapter{Dissertation}\label{dissertation}
 
@@ -1694,6 +1732,6 @@ Your defense must be held at least two weeks prior to Graduate Division's deadli
 
 You must be registered in one credit of LING 800 in the semester in which you graduate.
 
-  \bibliography{book.bib,packages.bib}
+\bibliography{book.bib,packages.bib}
 
 \end{document}
