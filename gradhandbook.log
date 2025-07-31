@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.9.16)  31 JUL 2025 04:43
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.9.16)  31 JUL 2025 05:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -908,7 +908,7 @@ Chapter 11.
 ] [58]
 
 LaTeX Warning: Hyper reference `Dissertationux5cux2520Proposalux5cux2520andux5c
-ux2520Prospectus' on page 59 undefined on input line 1240.
+ux2520Prospectus' on page 59 undefined on input line 1244.
 
 [59] [60]
 Chapter 12.
@@ -926,7 +926,7 @@ Chapter 14.
 [73
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 1635--1637
+Underfull \hbox (badness 10000) in paragraph at lines 1639--1641
 
  []
 
@@ -937,7 +937,7 @@ SPECTUS \TU/lmr/m/n/10 75
  []
 
 [75]
-Underfull \hbox (badness 1442) in paragraph at lines 1659--1660
+Underfull \hbox (badness 1442) in paragraph at lines 1663--1664
 []\TU/lmr/m/n/10 The department office needs a copy of your IRB human subjects’
  ap-
  []
@@ -961,10 +961,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 18970 strings out of 474773
- 347106 string characters out of 5757724
+ 18971 strings out of 474773
+ 347053 string characters out of 5757724
  1932839 words of memory out of 5000000
- 40859 multiletter control sequences out of 15000+600000
+ 40860 multiletter control sequences out of 15000+600000
  564552 words of font info for 93 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  90i,8n,121p,1009b,418s stack positions out of 10000i,1000n,20000p,200000b,200000s

@@ -34,5 +34,3 @@ vignettes/*.pdf
 # Bookdown
 /_bookdown_files/
 /_book/
-gradhandbook.log
-.Rproj.user
